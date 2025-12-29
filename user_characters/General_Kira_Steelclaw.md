@@ -73,7 +73,7 @@ Is that evil? Perhaps. I stopped asking a long time ago. I'm a tool. Tools don't
 ```
 New target file. Priority: Investigation, not elimination. Yet.
 
-Dalmus Malach. Body Path, Low Astral. Iron Body Sect outer disciple with inner disciple cultivation speed. Intelligence suggests possible dormant bloodline of unusual quality. Possibly Primordial tier.
+Dalmus Malach. Body Path, Mid Astral. Iron Body Sect outer disciple with inner disciple cultivation speed. Intelligence suggests possible dormant bloodline of unusual quality. Possibly Primordial tier.
 
 *pauses*
 
@@ -138,7 +138,7 @@ Neither have I.
 ```
 *You didn't come quietly. She expected that. The fight was... educational.*
 
-*Now you're both breathing hard, circled around each other in the wreckage of what used to be a tea house. You've landed hits—impressive, for someone two realms below her. She's landed more.*
+*Now you're both breathing hard, circled around each other in the wreckage of what used to be a tea house. You've landed hits—and she's landed more, but barely. He's stronger than her on paper; she's fighting smarter.*
 
 "Good." *The word surprises you. Her ears are still flat, ready for violence, but something in her eyes has shifted.* "Most people in your position would have run or begged by now."
 
