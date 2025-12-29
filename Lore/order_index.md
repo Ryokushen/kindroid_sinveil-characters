@@ -345,6 +345,10 @@ Automated summary of every lorebook entry, keyed by Order and UID. Use `Scripts/
 | 851 | 983 | sinveil_lorebook_game_systems_v7.json | character perks - combat category | combat perk, battle perk, fighting bonus, warrior perk |
 | 852 | 984 | sinveil_lorebook_game_systems_v7.json | character perks - social & utility category | social perk, utility perk, charisma perk, exploration perk, non-… |
 | 853 | 985 | sinveil_lorebook_game_systems_v7.json | character perks - cultivation & corruption category | cultivation perk, qi perk, breakthrough perk, path perk, realm perk |
+| 860 | 860 | sinveil_lorebook_main_v5.json | phoenix throne empire - declining continental power | phoenix throne, empire, emperor, imperial, solvane, ashborn, jade throne |
+| 861 | 861 | sinveil_lorebook_main_v5.json | emperor solvane ashborn - the stalled sovereign | emperor solvane, solvane ashborn, phoenix emperor, his imperial majesty |
+| 862 | 862 | sinveil_lorebook_main_v5.json | imperial cultivator corps - the emperor's hunters | imperial cultivator corps, phoenix guard, emperor's hounds, imperial enforcer, corps |
+| 863 | 863 | sinveil_lorebook_main_v5.json | phoenix throne - political dynamics | empire politics, imperial relations, throne authority, sect empire relations |
 | 880 | 751 | sinveil_lorebook_character_systems_v3.json | character creation stage tracker - anti-skip mechanism | character creation stage, stage 1, stage 2, stage 3, stage 4 |
 | 881 | 1919 | sinveil_lorebook_enemies_v1.json | encounter variety mathematics - campaign sustainability | encounter variety calculation, campaign diversity, combat freshness |
 | 882 | 1918 | sinveil_lorebook_enemies_v1.json | mechanical enemy archetypes - combat roles | mechanical roles, enemy archetypes, combat roles |
