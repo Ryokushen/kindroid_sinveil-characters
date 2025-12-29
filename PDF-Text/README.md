@@ -7,6 +7,7 @@ This folder contains OCR-extracted text from the Kindroid documentation PDFs.
 - **7DeadlySins_OCR.txt** - Common Kindroid setup mistakes and how to avoid them
 - **BreakYourAI_OCR.txt** - Cautionary guide on AI reinforcement and memory management
 - **BuildingACustomKindroid_OCR.txt** - Beginner's guide to creating AI companions
+- **KindroidAdvancedBackstory_OCR.txt** - Advanced backstory creation formats and techniques
 - **ElevenlabsV3_OCR.txt** - Voice creation guide for ElevenLabs V3 integration
 - **KindroidBehavior_OCR.txt** - Tips for maintaining consistent Kindroid behavior
 - **KindroidDynamism_OCR.txt** - Understanding and adjusting dynamism settings

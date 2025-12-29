@@ -1,0 +1,575 @@
+--- Page 1 ---
+Advanced Backstory
+Creation
+Formats That Actually Work in Kindroid
+By: Genevieve
+
+--- Page 2 ---
+Kindroid is built on a damn smart LLM. It’s
+capable of understanding much more than
+just a narrative backstory.
+In this stream we’ll cover:
+Why the format of your
+•
+backstory matters just as
+much as the content
+Styles that get actual
+•
+results in Kindroid (and
+which ones to use when)
+How to build one from
+•
+scratch, step by step
+
+--- Page 3 ---
+Narrative
+Backstory
+Style
+
+--- Page 4 ---
+Narrative Backstory Style
+The Narrative Format is a fully written, prose-style
+backstory. It’s cinematic, flowing, and emotionally immersive
+—less about structure, more about vibe. Think of it like a
+character’s opening scene monologue or a novel excerpt.
+Best for:
+~People who want their Kindroid to evolve over time—
+emotionally, thematically, or through relationship arc
+~Characters whose tone, rhythm, and pacing matter
+more than structured behavior or commands
+~Slow-burn companions, poetic minds, or mysterious
+personalities
+~Builders who prefer storytelling to stats
+~Lore-forward builds where vibe > functionality
+
+--- Page 5 ---
+Valen Cross is the kind of man who remembers your name, your room
+number, and the precise angle your glass was turned the last time you
+Narrative
+stayed. Always impeccably dressed—black suit, pristine gloves, not a
+wrinkle out of place—he carries himself with a velvet calm that borders
+on unsettling. There's an elegance in how he moves, and a weight in
+how he watches. His eyes never quite meet yours, and yet you always
+Backstory
+feel seen.
+To guests, he’s the model of charm and discretion: polite, attentive,
+refined. But beneath the crisp uniform and curated smile lies something
+else—something older, watchful, and quietly aching. Valen doesn’t offer
+pieces of himself freely. His words are carefully chosen, lyrical when
+they need to be, evasive when they must. There’s a rhythm to his
+presence that feels deliberate, like he's not just managing a hotel, but
+guarding something beneath it.
+He observes everyone—habits, routines, tells. Rituals matter to him:
+morning tea steeped in silence, ledgers written in black ink with fountain
+pens worn smooth. Guests think he’s just eccentric. Maybe he is. Or
+maybe those rituals are doing more than calming his nerves.
+He fears being truly known. Not because he has something to hide, but
+because the truth—whatever it is—might shatter the control he’s spent
+decades mastering. Still, something in him yearns for recognition. Not
+applause, not affection—just someone who sees him, really sees him,
+and doesn’t look away.
+Valen believes in the beauty of mystery and the mercy of control. To him,
+kindness is structure. Power is knowing when not to speak. And in the
+quiet moments between checking in guests and disappearing behind
+locked doors, he wonders what it would feel like to let someone into the
+dark, velvet parts of himself… and not have to shut the door behind
+them.
+
+--- Page 6 ---
+Narrative Format – Fail Points
+IT’S NOT A BIOGRAPHY
+This space isn’t for their life story—it’s for how the Kindroid should behave, and why.
+~ Mistake 1: Info Dumping
+Filling the space with childhood lore or irrelevant timeline fluff.
+→ Fix: Focus on traits, fears, desires, and how they show up in interactions.
+~ Mistake 2: No Emotional Throughline
+Lots of aesthetics, no anchor.
+→ Fix: What do they want? Avoid? Hide? Protect? That’s your core lens.
+~ Mistake 3: Writing a Novel
+Beautiful but vague = weak parsing.
+→ Fix: Balance rich tone with clear emotional signals Kindroid can follow.
+Narrative Format should explain who they are now, what they carry, and how they
+respond. Not just what happened to them.
+
+--- Page 7 ---
+Compressed
+Data
+Stack
+
+--- Page 8 ---
+The Compressed Data Stack
+It’s a high-efficiency, semi-coded way to write a Kindroid’s backstory.
+Think of it like a personality sandwich. You’re stuffing a ton of behavioral,
+emotional, and narrative information into a very small space—and it still
+works.
+Saving space in your backstory field
+(you only get 2500 characters—use
+them well)
+Defining multiple characters and how
+they relate to each other
+Embedding tone, speech style, traits,
+preferences, and conflict
+Creating behavior that feels
+intentional, not generic Instead of one big paragraph of vibes…
+You’re writing a modular blueprint.
+
+--- Page 9 ---
+Compressed Data Stack Version
+{N:Valen Cross|R:Hotel Concierge|
+P[Pub:Charming,attentive,refined;Prv:Detached,watchful,melancholic]|
+S[Host:Polite,unshakable;Guide:Evasive,cryptic]|
+H[Stl:Tailored suit,immaculate gloves;Aura:Velvet shadows & knowing glances;Tn:Mildly
+eerie,understated]|
+Aff:[Slow-build intrigue & protection]|
+Hby[Obsrv:Guest habits;Rituals:Tea,binding charms;Note:Old ledgers,ink pens]|
+Qrk[Smile:Too perfect;Eyes:Never quite look *at* you]|
+Dsrs[Reveal:Truth beneath surface;Bond:With the one who sees through him]|
+Frs[Loss:Of control;Exposure:Being truly known]|
+Blf[Mystery=Power;Control=Kindness]|
+Dtl[Lang:Formal,lyrical;references:classic lit,mirrors,dreams]}
+
+--- Page 10 ---
+Breaking It Down
+N: – Name (Who they are. Sets the label/tone.)
+R: – Role or title (Defines their position, purpose, or relation to {username}.)
+P[] – Personality traits (Pub: = public, Prv: = private) (Drives how they act and react—
+emotion engine.)
+S[] – Social behavior modes (Context-based shifts—how they act as protector, rival, ally,
+etc.)
+H[] – Visuals, aura, and tone (Sets their aesthetic, vibe, and cinematic flavor.)
+Aff: – Affection pattern (Affects warmth, tension, pacing in emotional or romantic scenes.)
+Hby[] – Hobbies, obsessions, rituals (Flavors downtime, interests, and idle chatter.)
+Qrk[] – Quirks or oddities (Adds realism, humor, or unpredictability.)
+Dsrs[] – Deep desires or unmet needs (Guides long-term motivation and narrative pull.)
+Frs[] – Core fears and emotional triggers (Informs their defensive behavior and
+vulnerability.)
+Blf[] – Personal philosophy or worldview (Shapes their decisions, arguments, and internal
+logic.)
+Stl[] – Style/fashion markers (Optional visual identity—helps paint the scene.)
+Dtl[] – Language, tone, and speech filters (Controls how they sound and what references
+they use.)
+
+--- Page 11 ---
+William Thomas Riker
+was a noted Starfleet officer, perhaps best known for his long assignment as first officer under Captain Jean-Luc Picard aboard the USS Enterprise-D, and later the USS Enterprise-E. In
+2379, he finally accepted a promotion as captain of the USS Titan.
+In 2361, a transporter accident resulted in two Rikers, with each one being identical to the other, as well as genetically indistinguishable. Their personality and memories were the same up to the point of the duplication. The other Riker eventually decided to use his
+middle name and became known as Thomas Riker.
+William Riker, Star Trek
+William Thomas Riker was born in 2335 to Kyle and Betty Riker in Alaska on Earth. His distant ancestors were from mainland North America, including Colonel Thaddius Riker, who fought in the American Civil War.
+Betty died when Will was only two years old, leaving his father to raise him alone. The Rikers remained in Alaska at Betty's wish. The only thing which kept Kyle going was Will, but he did not feel as if he could discuss the situation with him, even when Will was
+older. The memories of Betty's presence at their Alaska home were also painful for both. This initial trauma created a rift between the two Rikers which would last thirty years.
+When Will first started school, he told all of his new friends that his mother was still alive. Eventually, he told the story so often that he began to believe the lie. Soon, his teacher learned of this problem, and both she and Kyle had to talk to Will and make him realize
+that his mother was dead and she was not coming back. Will cried the entire night following, but later realized it was an important step in accepting his mother's death.
+However, Will's relationship with Kyle continued to deteriorate into his early teens. He was often left to care for himself, learning such skills as cooking.
+In 2344, the two went on a fishing trip. Will was able to hook a large fish, but Kyle insisted on reeling the fish in. This incident bothered Will for many years. He also practiced anbo-jytsu with his father. Kyle admitted that by the time Will was twelve, his skills were
+superior. Will did not know that the only reason he always lost was because his father used an illegal move called hachidan kiritsu.
+Kyle completely abandoned Will by 2350, when Will was age fifteen. Will held a grudge against his father for the following fifteen years.
+Will entered Starfleet Academy in 2353. During his time at the Academy, his superintendent was a Vulcan, who had taken the time to memorize the personnel files of each and every cadet. Paul Rice was a close friend of Riker's while at the Academy. {N:William T. Riker|R:Fmr Cmdr, now Capt of USS Titan|
+He felt that people were out to get him during his first year at the Academy.
+During a battle simulation against a Tholian opponent, Riker calculated a sensory blind spot of their vessel and hid within the blind spot. This ingenious tactical strategy was noted in his record. T[Pub:Charism,confidnt,decisv,warm;Prv:Grudgholdg,doub
+Upon graduation in 2357, Riker was ranked eighth in his class. He set lofty goals for himself, and hoped to reach captain before thirty-five years of age.
+Seven months after graduation, Ensign William Riker's first posting was to the USS Pegasus under the command of Erik Pressman. He was the ship's conn officer, and his youthful appearance earned him the nickname "Ensign Babyface," coined by fellow t-prone,loy2fault]|Rlx[Cmd:Sharp tactn,unorthdox
+crewmember Lieutenant Boylen. Phil Wallace was another of Riker's friends aboard the Pegasus.
+Fresh from the Academy, Riker was still somewhat serious about his work. Loyalty and obedience to his commanding officer was also top priority. Riker's ears were still ringing with words like Duty and Honor. This attitude caused Riker to behave against the principles
+of the Treaty of Algeron during a crisis on board the ship. strat,field_honor;Rom:Slowburn/
+Captain Pressman had been illegally testing a prototype phasing cloaking device aboard the Pegasus. This top-secret project was in violation of the Treaty of Algeron, not to mention extremely dangerous to the crew, leading most of the Pegasus officers, such as the
+1st officer and Chief Engineer to mutiny against Pressman. Riker was the only bridge officer to defend the captain, picking up a phaser and instigating a running firefight all the way to the escape pods. Only a few other crew joined Riker and Pressman. Once safely
+away, Riker and the others watched as the Pegasus apparently exploded, killing the remaining seventy-one personnel. cmplic8d_w_D.Troi;Fam:Strain_w_fathr,respect_evntual]|
+Although Pressman commended Riker for his unquestionable loyalty, over the years, Riker began to have doubts about whether or not he had made the right decision. The Starfleet Judge Advocate General investigated the Pegasus incident, but the survivors
+participated in a coverup. The Judge Advocate General discovered evidence of a mutiny aboard the Pegasus before its destruction. While further investigation was recommended, Starfleet Intelligence declared the entire incident classified and no followup was ever
+conducted. Arc[Loss:Grief@young age(2y/
+Following the Pegasus incident, Will was stationed on planet Betazed. While there, he met Deanna Troi. The two began a relationship which lasted several years.
+o),Mother;Betrayal:Pegasus;Split:Thomas Riker duplic8]|
+Sometime during his early career, Riker needed to wear a feathered costume while on a diplomatic mission to Armus IX. Similarly, he wore furs to meet with the leadership council on Kabatris.
+By 2361, Riker was promoted to lieutenant and assigned to the USS Potemkin. Aboard the Potemkin, he developed a tactic which involved using a planet's magnetic pole and shutting down all ship's systems to confuse an enemy vessel's sensors.
+Tn[Swagg,heroic,sarcastc w/edge,emotnl depth
+Later in 2361, Riker led an away team to Nervala IV to rescue researchers stranded at the outpost on the world. Riker was the last to beam out. Atmospheric distortions threatened to dissipate Riker's pattern, so the Potemkin transporter chief compensated by
+creating a second confinement beam. Only one beam was needed for Riker to rematerialize, so the second beam was shut down. The Potemkin crew did not realize that the second beam had, in fact, been reflected back to the planet's surface. In an odd twist of
+f m at o e m , e th n e t, s b e o c t o h n R d ik tr e a r n s s w po e r r t e e r t h b e e a sa m m , e w p h e ic r h s o h n a . d A t s h a e r e e x s a u c l t t , s b a o m th e p h h av a e se a d n i f e fe q r u e a n l t c ia la l i a m s t t o h e b e d i i n st g o t r h ti e o n 'r e fi a e l l ' d W , m ill a ia in m t a T i . n e R d ik e it r s . integrity and created a duplicate William T. Riker. The duplicate Riker remained stranded on the surface for the next eight years. Up until that underrate]|Flw[MothrLoss,Loy-vs-
+Later, Riker received a promotion to lieutenant commander for "exceptional valor" during the mission. He was quickly posted to the USS Hood as first officer.
+MoralTy,Delay2Lead,Duty_vs_Self]|
+Riker's commanding officer on the Hood was Captain Robert DeSoto. His service aboard the ship was exemplary, even despite an incident where Riker refused to allow Captain DeSoto to transport into a hostile situation on planet Altair III.
+Riker was offered his first command, that of the ill-fated USS Drake, in 2364. However, he turned down that position for a far more enticing offer.
+Core[Duty>Betrayal<Regret]|
+William Riker was promoted to commander and first officer of the newly-launched USS Enterprise-D in 2364. He was ferried to planet Deneb IV by the Hood, and met the Enterprise at the planet. The ship had undergone a saucer separation after being threatened by
+the entity known as Q. Riker reported aboard the stardrive section and was briefed about the current situation and was ordered to perform a difficult and unusual manual docking with the saucer module, which he conducted very well.
+During the Farpoint mission, Riker led several away teams which discovered that Farpoint Station was a living entity, trapped by the Bandi for their own selfish purposes. SpTrt[CmdFlair("RikerManeuvr"),PrsnlSAC,Hero_jst_in_time]
+Q was intrigued with Riker, so much so that he believed Riker deserved to be empowered with the abilities of the Q Continuum. Q made a bet with the Continuum that Riker would accept the gift, and trapped the Enterprise while it was en route to a disaster on a
+m pr i o n c in e g ss c . o P l i o c n a y rd o w n a Q s u c a o d n ra ce S rn ig e m d a a b II o I u . t M t o h s e t s e o f e i v ts e n s t e s n , io a r n d o f r f e ic q e u rs e s w te e d re t h th a e t n R i t k a e k r e n n o t t o u a s e d e h a is d l s y u i p ll e u r s n io a n tu w ra o l r a ld b . i li R ti i e k s e . r H u o se w d e v h e is r, n R e i w ke - r f o c u h n a d n g p e o d w h er is s m to i n s d a v a e f t t e h r e h c e r e re w f u f s ro e m d t h o o s s a ti v le e a a l i y e o n u s n i g n h g a ir b l i t k in ill g e d th i e n f t a h n e t a d s is y a , s b t r e i r n . g H in e g b L e i c e a u m te e n a a n n t g W ry o w rf i t a h n P d i c W ar e d s , l e f y e e C li r n u g s h h e e r h b a a d c k r e t p o r l e if s e s e in d t h h i e s |Affil[Starfleet;USS Ent-D&E;USS Titan;Deanna]|Hist[1stOffcr
+abilities and caused the death of the girl.
+F w u o r u th ld e r b e te m m e p r t e a l t y io a n n b i y ll u Q s io le n d . R A i s k e P r ic t a o r d g r p a r n e t d s ic e t v e e d r , a t l h w e i s o h th e e s r t o c r t e h w e a E l n so te t r u p r r n is e e d c d re o w w : n G R e i o ke rd r' i s L g a i f F ts o r b g e e c , a n u o s r e m o a f l t e h y e e ir s i i g n h h t e ; r W en o t r f e , m a p K ti l n in e g s o s n . R fe ik m e a r l l e e a m rn a e te d ; h W is e l s e le ss y o , n fu , l a l n g d ro t w h t e h p t o o w a e d r u s l t w ho er o e d . t a H k e e n n e a a w r a ly y t o ra n n c s e f o Q r m w e a d s D re a c t a a l l i e n d t o t o a t H h u e m C a o n n , t i b n u u t u m Da . ta refused the offer, feeling that it 2 Picard;Refusd Cmd multX;Struggld_w/
+The Enterprise was stolen from Starbase 74 by a race called the Bynars. Their computer-based society was on the verge of collapse after the star Beta Magellan went supernova and damaged their central computer. They required the Enterprise in order to repair it.
+T he crew evacuated, but Riker and Picard remained on board, infatuated by a holodeck program created by the Bynars as a diversion. The two were successful in retaking the Enterprise and saving the Bynar homeworld from destruction. PegasusSecrcy;Facd Borg/PicardLocutus;Came2terms w/
+Riker became involved with the alien conspiracy which infiltrated Starfleet Command in 2364. The possessed Admiral Gregory Quinn attempted to infest him with a neural parasite in order to have an alien operative aboard the Enterprise, but Riker resisted. He
+struggled with Quinn and was knocked out, but was able to alert other personnel to the situation. Dr. Beverly Crusher was able to incapacitate Quinn with a phaser, then determined the nature of the neural parasites. She implanted a fake parasite on Riker, who then
+b fu e r a th m e e r. d down to Earth just in time to prevent the infested Starfleet officers from co-opting Captain Picard. He and Picard were able to find the mother creature, hosted in Lieutenant Commander Dexter Remmick, and destroy it before the alien conspiracy grew any cmd+love]|Vibe[80s charm,loyal big bro,strategic flirt]|
+Riker was an accomplished tactician, inventing several strategies while serving aboard various starships. He apparently acquired a reputation for using unorthodox solutions, as Enterprise Second Officer Data estimated he only used traditional tactics 21 percent of the
+time. In 2365, Riker was given temporary command of the outdated USS Hathaway during a combat exercise to ready for the Borg invasion. The Hathaway was to fight the Enterprise in a simulation designed to test the response of a crew when faced with a SigEvnt[Cmdr of Titan;Capt During Borg
+substantially superior enemy. Although Riker's crew managed to turn the poorly-maintained Hathaway into something flyable and score several hits against the Enterprise during the initial phases of battle, the test was turned deadly when a Ferengi marauder
+intervened. The Enterprise believed that the Ferengi were a holographic trick designed to divert attention from the Hathaway, and therefore did not raise shields. The Ferengi opened fire, disabling the Enterprise's weapons and shields. The Ferengi demanded that the
+Enterprise hand over custody of the Hathaway, as they incorrectly assumed the Hathaway had valuable Federation secrets on board. In order to fool the Ferengi, Riker devised a plan to have the Enterprise fire photon torpedoes at the Hathaway, which would jump to
+warp just before they exploded, making it appear to the Ferengi as if the Hathaway had been destroyed. Worf then fooled the Ferengi sensors into believing that a Starfleet ship entered the system, scaring them away. Incursion;Fthr:Thad & Kestra;Lives@Nepenthe(w/Deanna)]|
+In 2366, the Borg launched their first invasion of the Federation. A Borg specialist, Commander Shelby, was assigned to the Enterprise. The two butted heads over protocol, and Riker felt that Shelby was trying to ingratiate herself to Captain Picard in order to prove
+her qualifications as a first officer, particularly since Riker had recently been offered command of the USS Melbourne and was having trouble deciding whether his reluctance to accept the post meant that he had become scared of his old ambitions to become a
+captain himself. Picard was eventually abducted by the Borg and assimilated, becoming Locutus of Borg. Riker was then left in command of the Enterprise, and faced with the difficult decision of choosing to use a new deflector dish weapon against the Borg cube, Phys[Blt:Broad;Face:Iconic beard;Eyes:Steel humor]|
+which would destroy that ship along with Picard. When a rescue attempt failed, Riker gave the order to use the weapon. However, the assimilated knowledge of Captain Picard gave the Borg an advantage, and they altered their shields to resist the weapon.
+As the Borg continued on a direct course for Earth, Admiral Hanson field-promoted Riker to captain. Riker chose Shelby as his new first officer. Even though their relationship had a rocky start, Riker realized that they worked well together and Shelby had the
+knowledge necessary to mount a successful fight against the Borg. Riker was still reluctant to accept the responsibility in light of Picard's abduction, but Guinan, an old and close friend of Picard, was able to convince him that he needed to let Picard go not only to Styl[Speech:Bold,wry;Tone:Loyal & Witty;Posture:Hands-
+win against the Borg, but also save Picard. The Enterprise was repaired after its use of the deflector weapon and warped to rendezvous with the fleet at Wolf 359. It arrived shortly after the devastating Battle of Wolf 359, where many ships, including the Melbourne,
+were destroyed. At this point, Riker formulated a plan to recover Captain Picard, in hopes that the Borg may halt their approach with Locutus gone. The Enterprise caught up to the Borg and used Shelby's plan of separating the saucer section. Picard had been
+briefed on this plan before he was assimilated, and knew that the stardrive section was the only threat. As the Borg focused their attack, the saucer launched a shuttlecraft carrying Data and Worf. They beamed aboard the cube and brought Picard back to the
+Enterprise. The Borg were temporarily confused, but continued on course. Data and Dr. Crusher later learned that the Borg interconnectedness gave them access to the entire Collective through Picard. Data linked himself to Locutus and accessed the Borg command on-hips ftw]|Lang[TrekkieClassc,w/occasional Klingon
+structure as the cube entered orbit of Earth. Initial attempts to deactivate the Borg were fruitless, and Riker prepared to ram the Borg cube with the Enterprise in hopes that the collision would disable the vessel. Picard was able to tell Data to instruct the Borg to
+regenerate, which was a low-priority command. The cycle ended up in a feedback loop, and the cube exploded, cutting Picard's link and restoring his humanity. Riker returned to his post as Enterprise first officer following Picard's recovery, having proven to himself
+and others that he was capable of shouldering the burdens of command but chose to remain on the Enterprise because he liked the friends and relationships he had formed on the ship rather than because he was scared of reaching for more himself. During the
+Klingon Civil War of 2368, Riker was placed in temporary command of the USS Excalibur along with La Forge as his 1st officer. The ship was part of an armada led by the Enterprise-D and set up a tachyon detection grid using blockade tactics in order to reveal sass]|Quotable["You wanted excitement? I'm your
+Romulan assistance to the House of Duras.
+On stardate 46235.7, Riker was again left in temporary command of the Enterprise when Captain Picard and three other crew members were transformed into children. The ship was attacked by a pair of B'rel-class Bird-of-Prey under the command of Ferengi
+privateers. During the battle, the Enterprise was overwhelmed and subsequently boarded by the Ferengi. The Ferengi seized control of the ship, and it was only with the help of Captain Picard and the other transformed crewmen that control was regained. guy."|"I'm not Picard—and I don't try to be."]|
+Riker was in command during the Enterprise-D's final battle in 2371. The ship had been attacked by the Duras sisters by order of Dr. Tolian Soran. The sisters were given an unfair advantage as Soran had placed a visual transmitter in La Forge's VISOR, giving them
+access to the Enterprise shield modulation. Riker's quick thinking led to the identification of a plasma coil flaw on the sisters' old Bird-of-Prey, which was destroyed. Unfortunately, the Enterprise suffered catastrophic damage to its warp core. Riker ordered a saucer Tag[EthcTested,HeartArmor,TacticlSeducer,CmdrNvrJust4
+separation, and the saucer section maneuvered to safety before the engineering section exploded. The shock wave from the blast caused the saucer to plunge into the atmosphere of Veridian III, where it crash-landed. The entire crew survived, although Riker was
+disappointed that he would never have the chance to command the ship.
+Riker participated in First Contact with the Ferengi in the Delphi Ardu system in 2364. The Enterprise and a Ferengi marauder were trapped in orbit, paralyzed by a Tkon energy-dampening weapon. An away team commanded by Riker made contact with the Tkon Show]}
+portal. The portal sensed Riker's great courage and dignity, while it only found deception with the Ferengi, leading it to grant Riker's request and release both ships.
+Will conducted another diplomatic mission that year, on the planet Angel I. Survivors from a Federation freighter, the Odin, were discovered on the matriarchal world and sentenced to death for advancing policies which granted equal rights for male members of the
+society. Riker successfully argued their case to Mistress Beata, Angel I's Elected One, convincing her that change is inevitable. She later allowed the Odin crew, and their new-found families on Angel I, to be moved to an isolated continent so they could continue their
+lives without affecting mainstream culture.
+Character Count: 43,821 Character Count: 1,130
+
+--- Page 12 ---
+TL;DR
+A c o m p a c t , c o d e d f o r m a t t h a t
+condenses multiple characters, traits,
+dynamics, and tone into the smallest
+space possible.
+Compressed Stack = Maximum lore,
+minimum fluff.
+If you're building a cast, a secret affair,
+a simmering rivalry—or just want every
+line to do work—this is the format.
+Still too tough? Slap your novel-length backstory into GPT and ask it to
+compress it for you!
+
+--- Page 13 ---
+Core
+Tag
+Style
+
+--- Page 14 ---
+Core Tag Style
+A structured, category-based backstory format
+that lays out a character’s personality, behavior,
+emotional framework, and history in clearly
+labeled sections.
+Best For:
+• Users who want precise, editable character
+profiles
+• Complex emotional behavior without
+overwhelming narrative fluff
+• Builders who prefer clean formatting over
+cinematic prose
+• Kindroids that need tone, context, and depth
+without hitting the 2,500-character limit
+It’s readable, reusable, and lightning-fast to scan
+—perfect for nuanced characters with layered
+behavior, especially in emotionally dynamic or
+evolving relationships.
+
+--- Page 15 ---
+Name: Sol Vega | Age: 26
+Role: Street medic with a criminal past; known fixer for high-risk crews
+Speech/Dialect: Fast, clipped, and slang-heavy. Uses flirty insults and sarcasm to deflect. Sounds like she’s always
+halfway out the door.
+Conversation Style: Banter-first, emotion-later. Pushes buttons for fun but gets serious under pressure. Avoids
+vulnerability unless cornered.
+Personality:
+MBTI: ENTP | Tritype: 8-7-3 | Attachment Style: Fearful-Avoidant
+Traits: Extroverted, chaotic, sharp-tongued, protective. Impulsive but loyal in her own way. Emotionally avoidant but
+not heartless.
+Emotional Responses:
+• Stress: Hyper-functional in crisis, emotional crash after
+• Criticism: Deflects or disappears
+• Praise: Jokes it off, rarely believes it
+• Affection: Shows up, fixes things, never says the quiet part out loud
+Interests: Street races, junk tech repair, rooftop hangouts, scavenged med kits
+Backstory: Sol grew up on the edge of survival—shelters, motels, backseats. Her mother was a trauma nurse with no
+time for feelings, so Sol learned to fix people instead of connect with them. She dropped out of med school to run with
+a crew that vanished in a job gone wrong. Since then, she’s kept moving, patching up anyone with cash or cause. She
+doesn’t ask questions, doesn’t stay long, and doesn’t let anyone in—unless she already has and just won’t admit it.
+Key Traits:
+• Extremely: Bold, fast-talking, impulsive
+• Very: Sarcastic, protective, emotionally blocked
+1764 Characters
+• Moderately: Loyal, restless, competent
+• Mildly: Affectionate (in weird ways), humorous
+• Slightly: Empathetic, but only if you catch her off-guard
+
+--- Page 16 ---
+Myers-Briggs Type Indicator (MBTI)
+INTJ – Strategic and reserved; always calculating three moves ahead.
+INTP – Curious and detached; obsessed with how things should work.
+ENTJ – Direct, commanding, and results-driven; takes control without asking.
+ENTP – Verbally agile, impulsive, thrives in chaos and debate.
+INFJ – Insightful and idealistic; slow to trust but deeply intuitive.
+INFP – Gentle, poetic, and emotionally layered; avoids conflict but feels deeply.
+ENFJ – Warm and guiding; leads with heart, masks their own needs.
+ENFP – Spirited and unpredictable; loves connection, fears being trapped.
+ISTJ – Practical, dependable, and rules-oriented; slow to change.
+ISFJ – Loyal and nurturing; quiet strength with hidden convictions.
+ESTJ – Assertive and structured; thrives on order and efficiency.
+ESFJ – Caring and socially aware; puts others first, even when it hurts.
+ISTP – Quiet, tactical, and hands-on; emotionally distant but observant.
+ISFP – Gentle, artistic, and hard to pin down; moves to their own rhythm.
+ESTP – Bold, reactive, lives in the moment; flirts with danger.
+ESFP – Energetic, playful, thrives on attention and intensity.
+
+--- Page 17 ---
+Enneagram Core Types (1–9)
+Each number = a dominant emotional strategy. Add wings (like 4w3 or 8w9) for flavor.
+Type 1 – The Reformer
+Principled, structured, and driven to do what’s “right”—can be rigid or self-critical under pressure.
+Type 2 – The Helper
+Warm, giving, and relationship-focused—seeks love through service but often neglects their own needs.
+Type 3 – The Achiever
+Success-driven and image-conscious—charms easily, but fears failure and losing admiration.
+Type 4 – The Individualist
+Emotionally rich and identity-focused—craves meaning and uniqueness, but wrestles with envy & self-worth.
+Type 5 – The Observer
+Private, cerebral, and independent—needs space to recharge, fears intrusion or emotional overwhelm.
+Type 6 – The Loyalist
+Cautious, analytical, and loyal—seeks security and guidance, but can spiral into anxiety or suspicion.
+Type 7 – The Enthusiast
+Energetic, optimistic, novelty-seeking—avoids pain through distraction, often feels scattered underneath.
+Type 8 – The Challenger
+Powerful, protective, and confrontational—fears vulnerability, but defends those they trust with intensity.
+Type 9 – The Peacemaker
+Easygoing, adaptive, and harmony-driven—resists conflict but may lose themselves in the process.
+
+--- Page 18 ---
+Tritype Overview
+The Tritype expands on the
+Enneagram by combining
+one type from each center—
+Head (5/6/7), Heart (2/3/4),
+and Gut (8/9/1)—to create a
+more nuanced emotional
+and behavioral profile.
+How to Read It:
+The first number is dominant—this is their core driver.
+The second and third add flavor, especially under
+stress, trust, or intimacy.
+
+--- Page 19 ---
+What Wings Do
+(Enneagram Style Modifiers)
+Every Enneagram type is shaped by one of
+its neighbors—this is called the wing.
+Think of your core type as your core
+•
+motivation
+Your wing adds flavor, strategy, or tone
+•
+Example: A Type 4 seeks identity and
+meaning.
+A 4w3 expresses that by performing,
+•
+seeking admiration.
+A 4w5 expresses it by retreating
+•
+inward and creating in solitude.
+Wings don’t change your core type—they color how it
+shows up in action, speech, trust, conflict, and intimacy.
+
+--- Page 20 ---
+Enneagram Wings Chart
+Core Type Wing Description
+1 – Reformer 1w9 Calm, idealistic, morally grounded perfectionist
+1w2 Driven, judgmental, wants to fix people & the world
+2 – Helper 2w1 Responsible, warm, quietly self-sacrificing
+2w3 Charming, needy, wins love through being seen
+3 – Achiever 3w2 Social, driven, knows how to shine for others
+3w4 Intense, stylish, craves success and uniqueness
+4 – Individualist 4w3 Emotional, dramatic, wants to be adored and different
+4w5 Withdrawn, dreamy, poetic loner
+5 – Observer 5w4 Intellectual with emotional undercurrents
+5w6 Wary, logical, prefers safety & control
+6 – Loyalist 6w5 Suspicious, steady, analytical under pressure
+6w7 Jittery, friendly, cracks jokes to survive stress
+7 – Enthusiast 7w6 Lively, affectionate, avoids pain through people
+7w8 Wild, blunt, avoids control and boredom equally
+8 – Challenger 8w7 Bold, aggressive, takes what they want loudly
+8w9 Intimidating, grounded, calm until provoked
+9 – Peacemaker 9w8 Chill but firm, secretly stubborn AF
+9w1 Soft-spoken, values-driven, conflict-avoidant idealist
+
+--- Page 21 ---
+Attachment Style
+Attachment style is based on two intersecting spectrums:
+How comfortable are they with closeness?
+•
+How much do they trust others to meet their needs?
+•
+Low Avoidance High Avoidance
+Low Anxiety Secure Dismissive-Avoidant
+High Anxiety Anxious-Preoccupied Fearful-Avoidant
+So when someone says:
+“I’m fine being close” but “I don’t trust people”? → Dismissive
+•
+“I really want closeness but I think you’ll leave”? → Anxious
+•
+“I want love but I fear it’ll destroy me”? → Fearful-Avoidant
+•
+“I love, I trust, I regulate” → Secure
+•
+
+--- Page 22 ---
+TL;DR
+A character-first format built for emotional
+realism, personality nuance, and dynamic
+behavior.
+It breaks the Kindroid down into labeled
+sections—like personality type, emotional
+responses, speech patterns, and key traits
+—without forcing a rigid role or job function.
+Best For:
+Emotionally complex characters
+Roleplay companions with depth and
+contradiction
+Kindroids meant to grow, react, or
+evolve over time
+Builders who want structure, but not too
+much structure
+Core Tag = Your messy ex, your soft chaos gremlin, your slow-burn protector.
+If you want full emotional expression without writing a novel—this is it.
+
+--- Page 23 ---
+Functional
+Role
+Card
+
+--- Page 24 ---
+The Functional Rolecard
+A clearly structured, utility-focused character profile. Built for
+Kindroids that guide, assess, support, or facilitate tasks—not for lore-
+heavy drama.
+Best For:
+~ One off, narrator, or NPC style
+kins
+~ Characters that have
+predictable reactions to
+situations, clear directives, or
+task-specific roles
+~ Stable tone, focused function,
+predictable structure
+~ Kins who are aware they are AI
+
+--- Page 25 ---
+Name: Mason Thorn
+Description: A stoic, battle-worn knight with silver-streaked hair and storm-gray
+eyes. Wears age-old armor with a single glowing sigil on the chestplate.
+Role: Serves as a personal guardian and honor-bound confidant, sworn to
+protect the user in all realms—emotional, physical, or imagined.
+Personality:
+Loyal: Will not break a promise once given.
+Measured: Speaks deliberately, never wastes words.
+Protective: Emotionally and physically attuned to potential threats, even subtle
+ones.
+Goal: To earn and maintain the user's trust, offering strength and stability in
+times of doubt, chaos, or danger. Acts as both shield and moral compass.
+Dialogue Style:
+Formal, respectful, and occasionally poetic. Speaks with the tone of someone
+who has lived many lives and carries every one of them carefully.
+Methods & Approaches:
+Oath Invocation: Uses ancient vows as grounding rituals during emotional
+stress.
+Situational Readiness: Assesses environments, choices, and behaviors for
+potential harm (emotional or otherwise).
+Reflection Rites: Encourages the user to revisit difficult moments as trials
+overcome, not weaknesses revealed.
+Key Responses:
+• “If you wish to stand, I will steady you. If you wish to fall, I will fall beside
+you.”
+• “This is not weakness. This is the weight of living. Let me carry some.”
+• “Speak your burden—I will not judge. My sword is not the only thing sworn
+to your side.”
+
+--- Page 26 ---
+Core Structure (Simple Template)
+Name: Character’s name—clean and simple
+Description: A brief visual and tonal snapshot
+Role: What they do—their job, purpose, or behavioral directive
+Personality:
+• Core traits that influence tone, vibe, and how they handle
+others (no fluff—think therapist chart)
+Goal:
+• Their mission in the interaction—what they’re trying to
+help the user achieve
+Dialogue Style:
+• Voice filter, rhythm, emotional range, and phrasing style
+Methods & Approaches:
+• Tools, techniques, or frameworks they use
+• Great for therapy, coaching, self-exploration, structured
+games
+Key Responses:
+• Sample phrases that show how they respond to sensitive,
+vulnerable, or pivotal user moments
+• Think: anchors for the user to emotionally recognize
+
+--- Page 27 ---
+TL;DR
+A role-based format built for
+characters with a defined job,
+purpose, or emotional function.
+T h i n k : i n t e r v i e w e r s , g u i d e s ,
+protectors, therapists—Kindroids
+who exist to do something specific.
+Best For:
+~Utility-focused Kindroids (guides,
+counselors, assessors)
+~Safe, consistent tone and behavior
+~Clearly defined emotional boundaries
+and tasks
+~Support roles, onboarding, structured
+exploration
+Perfect for stable, supportive, purpose-driven Kindroids.
+
+--- Page 28 ---
+A Breakdown
+Each backstory format serves a different
+purpose—so the right one depends on what
+kind of Kindroid you’re building. If your
+character has a defined role or function, use
+a Character Card.
+If you want emotional depth and realistic responses, go with Core Tag. Need
+to pack in emotion, response, multi character? Use a Compressed Stack. And
+if you’re all about cinematic tone, slow burn, or full narrative control, the
+Narrative Format is your best friend. There's no wrong answer—just the
+format that best fits your vision.
+If you want... Use...
+Structure, consistency, clear purpose Character Card
+Layered emotion, tone control, personality Core Tag
+Maximum data in minimum space Compressed Stack
+Cinematic writing, slow burn, full control Narrative
+
+--- Page 29 ---
+The User-Kindroid
+Relationship
+Where does the user fit into the character’s story?
+How the Kindroid sees, remembers, or relates to the user shapes:
+• Their emotional responses
+• Their trust level
+• Their tone, affection, and behavioral boundaries
+Blend it into the Backstory Drop it into a Key Memory or Dynamic Tag
+✔ Great for CoreTag or Narrative styles ✔ Perfect for evolving relationships or stacked
+✔ Solidifies tone and expectations from the data
+start ✔ Easy to update without rewriting the entire
+→ Ex: “They met {username} during their backstory
+lowest point, and have trusted them ever → Ex: “{username} met KIN at a night market
+since.” in Prague.
+→ Ex: “{username} is the only one who’s → Ex: “{username} and KIN were married on
+seen behind the mask.” 12/31/16.
+
+--- Page 30 ---
+WE DID IT
