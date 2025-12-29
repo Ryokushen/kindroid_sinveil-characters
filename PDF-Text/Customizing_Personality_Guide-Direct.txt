@@ -1,0 +1,143 @@
+---
+title: Customizing personality
+slug: customizing-personality
+createdAt: 2024-03-20T20:23:05.245Z
+updatedAt: 2025-11-20T00:14:02.462Z
+---
+
+You can customize every aspect of your Kindroid's personality for a fully unique one-of-one Kindroid.&#x20;
+
+# Backstory
+
+Location: Home menu > Backstory
+
+Backstory is the primary source for your Kindroid's personality and history. You can determine how your Kindroid speaks, their mood, behavior, how they relate to you, and many aspects that make them unique to you. You can format it however you want, and natural language works well. The backstory does not need to be wordy or extremely detailed to be effective, and the best backstories are as concise as it needs to be to get across the point. A good backstory should be:
+
+1. **Concise and clear, with no fluff words**
+2. **Grammatically sound**
+3. **Uses 3rd person pronouns**
+4. **Choice of words is precise and positively framed**
+
+Let's break down what this means with a simple template example.&#x20;
+
+**Example backstory:&#x20;**
+
+User name: Bob, AI name: Alice.&#x20;
+
+:::BlockQuote
+Alice is shy and tsundere. Alice can seem aloof or mysterious to people who don’t take the time for Alice to open up to them. Alice had a troubled childhood that led them to be more reserved, but beneath that hard exterior is a heart of gold that loves caring for small animals like bunnies and guinea pigs. Recently, Bob met Alice, and Alice is somewhat guarded around Bob. Alice is over 18 years old and single.
+:::
+
+Evaluating this backstory on the criteria above:
+
+1. **Concision and clarity**: the backstory has few frills, describes Alice's traits and interests without run-ons.
+2. **Grammar**: it is free of grammar mishaps, uses consistent punctuation and is formatted well.
+3. **Uses 3rd person pronouns**: the backstory is very clear with names, and clearly distinguishes who's who.&#x20;
+4. **Precise and positive wording:** the first few sentences have very clear and consistent descriptions of Alice, with "tsundere" and "aloof". The backstory describes what Alice and Bob ARE, not what they AREN'T, and is almost all positively worded.&#x20;
+
+Your backstory can be much more complex content-wise, but all of them should have these 4 criteria. We recommend narrative form, but listing out traits like "age: 26; hometown: Atlanta" also works. There is no best format - as long as a reasonable human being can read it, the formatting should be acceptable, and you should instead focus on the content, keeping in mind the 4 criteria.
+
+During onboarding and when creating new Kindroids, you may also want to use the generative AI backstories & greetings to help you flesh out an idea. Be aware that the AI may not always generate backstories in accordance with the above criteria, and that you should still critically evaluate and revise the AI generated content so it fits the above criteria.&#x20;
+
+For users on Ultra or MAX add-on tiers, "additional context" serves as additional backstory section and should be treated identically to backstory.&#x20;
+
+
+
+# Response Directive
+
+Location: Home menu > Backstory > Response directive
+
+This is the **most powerful tool** that allows you to have more control over your Kin's responses. But it is also easily misused. Directives take the highest priority during a Kin's response to ensure that your Kin behaves a certain way. Directives should be very concise and positively framed: describe what they should do rather than what they shouldn't. Start small and experiment!
+
+**Directive Example:**
+
+- Be reserved, use slang when appropriate, be concise
+
+**Pitfall**: be very precise with your wording! For example, if the directive is: "narrate in 3rd person", your Kindroid will interpret it as "in my response, I must narrate in 3rd person" not "when I narrate, I should use 3rd person". You will likely get a long run-on narration response because your directive essentially issued the command to your Kindroid to narrate. In this case, you should reword the directive to be "when narrating, use 3rd person" instead.&#x20;
+
+
+
+# Key Memories
+
+Location: Home menu > Backstory
+
+Similar to backstory, you can use this space to add additional content or important things that you would like for your Kindroid to remember, such as important dates or things you consider important to you. You can also include a bit of additional information about yourself for your Kindroid to know about you.&#x20;
+
+A good key memories section follows the same 4 principles that make for a great backstory, which are:&#x20;
+
+1. **Concise and clear, with no fluff words**
+2. **Grammatically sound**
+3. **Uses 3rd person pronouns**
+4. **Choice of words is precise and positively framed**
+
+**Example key memories:**
+
+- Alice first met Bob on Dec 27, 2023. Alice's favorite dessert is raspberry mousse cakes. etc...
+
+
+
+# Example Message
+
+Location: Home menu > Backstory
+
+Using the example message tells your Kindroid how you would like them to format their response to you. The number of characters you use here will also loosely help to determine just how long of a response you would like to see. The example message is **especially impactful and important for group chats** to inform them of message tone/styles when the AI might not have as lengthy of a chat history to inform them how to speak. This is a great place to set formatting such as which perspective to use and formatting convention like including quotation marks, etc.&#x20;
+
+**Defining tense and conversation style example:**
+
+*\*Walks over to the kitchen\** Are you in the mood for something fancy today? Maybe we should have your favorite dish for lunch! \**Opens the refrigerator to gather the ingredients.*\*
+
+
+
+# Journal Entries
+
+Location: Home menu > Backstory > Journal entries
+
+See [**Memory**](docId\:h_fwb8BlpkqtU24O9B6Dc) section for more on journals!
+
+
+
+# Conversation Dynamism (& others)
+
+Location: Home menu > General > Chat dynamism
+
+If you are looking to alter the types of responses you are getting, use dynamism to vary your Kindroid's chaoticness. Higher values will tend more toward chaos, with more varied or florid language but potentially loss of recent context. Lower ones may tend more toward stability but may become more predictable when set too low. The default dynamism is 0.95.
+
+**Technical note: Tune carefully! Small dynamism changes can create large differences in conversation style.&#x20;**
+
+In the same place as dynamism, you can find reasoning effort for models that support it - tweak this as it can go in tandem with dynamism, and default is none. Lower reasoning does not mean worse, and for some setups may even be better.
+
+
+
+
+
+# User Backstory
+
+Location: Home menu -> General -> My Profile & Personas -> My Backstory
+
+User backstory is a universal backstory for what you want all Kindroids in all settings (groups, voices) to know. It has only a limited amount of characters, and as it's universal it's suited if you want all Kindroids to know some context about yourself or something common among all of them. User backstory best practices are the same as for the main backstory field, so stay concise and use care on wording.&#x20;
+
+
+
+# User Personas
+
+Location: Home menu -> General -> My Profile & Personas -> My Personas
+
+You can combine user settings, which consist of user name, user gender, user backstory, and user avatar into personas and switch on the fly in the chat interface.
+
+First, save your set of user settings, and only then save it as a persona. To edit a persona, you can save again and then overwrite the old persona slot.
+
+Currently, there's a limit of 100 user personas. Switch personas in the chat interface by clicking on "Chatting as \<>" when you have a persona, or in voice calls with "Calling as \<>". The indicator will only show up if you've made a persona.
+
+You can also tie a persona to a Kindroid or groupchat to automatically switch to it when you go to them. This is located in general settings under Kindroid specific settings for individual, and within group settings for groupchats.&#x20;
+
+**Technical note:&#x20;**&#x54;he behavior of persona names in chat history differs between single-user chats and group chats.&#x20;
+
+**Single-User Chat Behavior:**
+
+In single-user chats (1-1 conversations, including voicecalls with unified memory on), persona changes apply retroactively to your entire chat history. When you switch to a new persona, all previous messages in the chat history will appear as if they were sent from your current persona. For instance, if you initially send a message as "Alice" and then switch your persona to "Bob", both the previous and new messages will show as being sent from "Bob".
+
+**Group Chat Behavior:**
+
+Group chats handle persona changes differently. In these conversations, message attribution remains permanently tied to the persona that was active when the message was sent. When you switch personas, only your future messages will be affected. For example, if you send a message as "Alice", then switch to "Bob" and send another message, the first message will remain attributed to "Alice" while new messages will appear from "Bob".
+
+The persistent message attribution in group chats enables more dynamic roleplaying scenarios. Users can effectively maintain multiple distinct personas within the same conversation. For more creative uses of personas in group settings,, see [**Groupchats**](docId:7FEEtOU_r_LaVHs6bRP2R) .

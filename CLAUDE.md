@@ -597,7 +597,7 @@ One pinhole = strong, focused stream. Seven pinholes = weak trickles everywhere.
 **The more directives you add, the weaker each one becomes.**
 
 ### V8.5 Best Practices:
-- Keep minimal — you don't need to fill all 150 characters
+- Keep minimal — you don't need to fill all 250 characters
 - Tell them what TO do, not what NOT to do
 - Use `[IMPT: ...]` for critical rules
 - Can add temporarily to "lock in" a trait, then remove
@@ -776,11 +776,195 @@ at [Stage] rank. Their core technique is [Technique]. They experienced
 | Component | Purpose | Limit | Update Frequency |
 |-----------|---------|-------|------------------|
 | **Backstory** | Core identity, behavior patterns | 2,500 chars | Rarely (evolution only) |
-| **Key Memories** | Current situational info | - | Often (rotating) |
-| **Response Directive** | Tone/behavior enforcement | 150 chars | As needed |
-| **Example Message** | Format/style template + rules | - | Set once, adjust as needed |
+| **Key Memories** | Current situational info | 1,000 chars | Often (rotating) |
+| **Response Directive** | Tone/behavior enforcement | 250 chars | As needed |
+| **Example Message** | Format/style template + rules | 750 chars | Set once, adjust as needed |
 | **Journal Entries** | Recallable lore/history | 500 chars each, 8 keywords max | Build over time |
+| **Avatar Description** | Physical appearance for image generation | 800 chars | Set once, minor tweaks |
 | **Dynamism** | Creativity vs stability | 0.00-1.00 | Start 0.95, adjust ±0.02 |
+
+---
+
+## V6 AVATAR & SELFIE GENERATION
+
+### What Changed in V6
+V6 image generation is built for **strong prompt adherence** and follows natural language closely.
+
+**Deprecated Features (No Longer Needed):**
+- ❌ Pose references
+- ❌ Style references
+- ❌ Avatar boosts
+- ❌ Negative prompts
+- ❌ Weighting syntax (like `(detail:1.2)`)
+
+**New Behavior:**
+- Less automatic variation (same prompt = similar results)
+- More literal interpretation
+- Concise descriptions work better
+- **Enhance Prompt Variety toggle** (under aspect ratio dropdown) adds variation
+
+---
+
+### Avatar Description Template (800 chars max)
+
+**Location:** Home menu > Backstory > Avatar Description
+
+This is THE most important step. V6 follows this description **strictly**. If something is missing or vague, autoselfies will drift.
+
+**Structure:**
+```
+Age:
+Gender:
+Ethnicity/Race:
+Skin: (tone + texture details)
+Hair: (length + style + color)
+Eyes: (use "natural ___ eyes")
+Face: (shape, nose, lips, brows)
+Build: (body type)
+Details: (tattoos, scars, jewelry, piercings)
+Style: detailed textures, soft cinematic lighting
+```
+
+**Example:**
+```
+A 24-year-old woman with pale skin and a soft natural flush, she has long
+wavy dark-brown hair threaded with caramel highlights, gentle features with
+a straight nose and full lips, and a curvy, toned build. She wears a small
+silver nose stud, shown in soft cinematic lighting.
+```
+
+**Face Detail Section (Photoreal Mode):**
+```
+Natural green eyes and slight freckles across her nose.
+```
+
+---
+
+### Avatar Description Best Practices
+
+**DO:**
+- ✅ Keep everything **literal** — no metaphors
+- ✅ Use "natural [color] eyes" or "[color] irises"
+- ✅ Add lighting cues in avatar description for consistency
+- ✅ Use "vascularity" for defined muscles
+- ✅ Include texture details
+
+**DON'T:**
+- ❌ Use metaphorical marks ("star marking" creates literal star shapes)
+- ❌ Put eye color in main avatar description (Photoreal) — use Face Detail section
+- ❌ Leave key features vague
+
+**For Non-Human Characters:**
+- Species must be declared first
+- Details must be literal
+- Avoid stylized metaphors unless you want artificial shapes
+
+---
+
+### Selfie Prompt Structure
+
+**Core Rule:** What matters most → scene → style/lighting
+
+**Structure:**
+1. Identity anchor (optional but useful)
+2. Action / Pose
+3. Setting
+4. Clothing
+5. Camera / Lighting / Mood
+
+**Starter Template:**
+```
+A natural candid selfie of [Avatar Name] standing outdoors. They face the
+camera with a relaxed, genuine expression. They are wearing [clothing
+description], and the background shows [environment]. Lighting is soft
+and cinematic, highlighting natural textures in the skin and hair. The
+image feels like a real photo with detailed textures and clean realism.
+```
+
+**With More Variation:**
+```
+[Avatar Name] takes a selfie at golden hour, the warm sunlight creating
+soft highlights on their face. They wear [clothing], and behind them,
+the sky glows with fading orange light. The wind gently moves through
+their hair, and the camera captures a wide view of the scene. Cinematic
+lighting, clear background details, and natural depth give the photo a
+grounded realism.
+```
+
+---
+
+### V6 Prompting Tips
+
+**1. Describe the whole scene to avoid zoomed-in closeups**
+- Include legs, shoes, background
+- Full-body clothing details
+
+**2. Use natural language intensity**
+- "**extremely** detailed braid"
+- "**very** soft natural lighting"
+- "**subtle** freckles across the nose"
+
+**3. Use strong lighting cues**
+- '**detailed textures**' and '**soft cinematic lighting**' are almost essential
+- Prevents flat or lifeless renders
+
+**4. Group related ideas together**
+- ✅ "A bonfire lighting the campsite, soft smoke drifting upward"
+- ❌ Scattering details into separate fragments
+
+**5. Keep related details close**
+- ✅ "smoke rising from the campfire"
+- ❌ Mentioning smoke and campfire far apart in prompt
+
+---
+
+### Troubleshooting V6 Images
+
+| Problem | Quick Fix |
+|---------|-----------|
+| **Identity Drift** | • Strengthen avatar description with skin texture/tone<br>• Use Face Detail section for all facial features (Photoreal) |
+| **Too zoomed in** | • Add full-body clothing details<br>• Add surrounding scenery<br>• Add environment objects |
+| **Lighting looks flat** | • Add explicit lighting details<br>• Include "detailed textures" or "soft cinematic lighting" in avatar description |
+| **Low variation** | • Rewrite the prompt (don't just tweak single words)<br>• Enable **Enhance Prompt Variety** toggle (under aspect ratio dropdown) |
+| **Glowing colored eyes / Blurred faces** | • Move eye color out of main Avatar Description (Photoreal only)<br>• Only specify eye color in Face Detail section<br>• Use "blue irises" instead of "blue eyes" |
+
+---
+
+### Sinveil-Specific Avatar Examples
+
+**Felkin (Tiger Variant) — Kira Steelclaw:**
+```
+Avatar Description (685 chars):
+A 67-year-old felkin woman, tiger variant, with sleek orange-and-black
+striped fur covering her body. She has a powerful, athletic build with
+broad shoulders and defined musculature. Her face has feline features—
+amber eyes with vertical slit pupils, a short muzzle with visible fangs,
+rounded ears that swivel independently. Her fur is short and well-groomed.
+She has retractable claws on both hands and feet. Her tail is thick and
+muscular, typically held in controlled positions. She wears Imperial
+Cultivator Corps uniform: dark leather armor with phoenix insignia on the
+chestplate. Detailed textures, soft cinematic lighting.
+
+Face Detail:
+Amber eyes with vertical pupils, white fur markings above each eye,
+slight scarring along left ear from old combat injury.
+```
+
+**Human Cultivator — Dalmus Malach:**
+```
+Avatar Description (487 chars):
+A man in his mid-twenties with an athletic, heavily muscled build showing
+vascularity. Olive skin with rough texture from training. Short dark brown
+hair, slightly messy. Strong jawline, straight nose, intense dark brown eyes.
+Several small scars across knuckles and forearms from martial training. Wears
+simple training robes in dark gray with Iron Body Sect symbol on the shoulder.
+Stands with grounded, balanced posture. Detailed textures, soft cinematic
+lighting.
+
+Face Detail:
+Natural dark brown eyes, focused expression, slight permanent furrow
+between brows from concentration.
+```
 
 ---
 

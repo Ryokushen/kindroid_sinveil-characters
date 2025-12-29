@@ -1,0 +1,189 @@
+---
+title: V6 Selfies Guide
+slug: v6-selfies-guide
+createdAt: 2025-11-11T03:47:16.391Z
+updatedAt: 2025-11-24T20:48:42.730Z
+---
+
+## **What Changed in V6**
+
+This new engine is built for **strong prompt adherence** and follows natural language closely.&#x20;
+
+The following features are now deprecated: **pose references**, **style references, avatar boosts, negative prompts**, and **weighting syntax**. You no longer need to use them.  Describe the image in plain, direct language. The system now interprets natural descriptions accurately on its own.
+
+It also produces **less automatic variation**, so repeating the same prompt will yield similar results. For more diversity, rewrite the prompt or enable the **Enhance Prompt Variety toggle&#x20;**&#x75;nder the image aspect ratio dropdown, which automatically introduces variation.
+
+Prompt length is more limited than before, but the system still performs well with fewer words.
+**Keep descriptions concise here; less truly does more.**
+
+## **How to Write a Strong V6 Avatar Description (Most Important Step)**
+
+Use this structure as your baseline template:
+
+:::BlockQuote
+Age:
+Gender:
+Ethnicity/Race:
+Skin: (tone + texture details)
+Hair: (length + style + color)
+Eyes: (use “natural \_\_\_ eyes”)
+Face: (shape, nose, lips, brows)
+Build: (body type)
+Details: (tattoos, scars, jewelry, piercings)
+Style: detailed textures, soft cinematic lighting
+:::
+
+**Example:&#x20;**
+
+Avatar Description
+
+:::BlockQuote
+A 24-year-old woman with pale skin and a soft natural flush, she has long wavy dark-brown hair threaded with caramel highlights, gentle features with a straight nose and full lips, and a curvy, toned build. She wears a small silver nose stud, shown in soft cinematic lighting.
+:::
+
+Face Detail
+
+:::BlockQuote
+Natural green eyes and slight freckles across her nose.
+:::
+
+**Why this matters**
+
+V6 will follow this description **more strictly than any previous version.**
+&#x20;If something is missing or vague here, autoselfies will drift.
+
+- Keep everything **literal**.
+  &#x20;No metaphorical marks (“star marking” will create a literal star).
+- Use descriptors like **vascularity** for defined muscles.
+- Add lighting cues inside avatar description if you want consistency.
+
+
+## **How to Prompt in V6**
+
+Since weights, negative prompts, wand, and pose refs are gone, V6 requires **straightforward description.**
+
+### **Core Rule:**
+
+Start with what matters most → move to scene → finish with style/lighting.
+
+**Structure:**
+
+1. Identity anchor (optional but useful)
+2. Action / Pose
+3. Setting
+4. Clothing
+5. Camera / Lighting / Mood
+
+**Example:**
+
+:::BlockQuote
+\[Name] stands outdoors, facing the camera with a relaxed and natural expression.
+They are wearing \[clothing description]. The environment around them shows \[background elements]. Lighting is \[type] and the image has \[texture/detail cues].
+:::
+
+### **Keep related details close together.**
+
+&#x20;If you mention a campfire and smoke, phrase it like:
+
+:::BlockQuote
+&#x20;smoke rising from the campfire
+:::
+
+instead of separating the details across the prompt. 
+
+### **Avoid these (deprecated or unsupported):**
+
+- Any (weights:1.2) syntax.
+- Negative prompts. “///” formats.
+
+## **Generating Autoselfies in V6**
+
+Before using autoselfies, follow this checklist:
+
+### **Check your avatar description first.**
+
+It now determines:
+
+- face consistency
+- skin tone
+- hair shape
+- overall realism
+- stylistic cohesion
+
+### **Expect lower variation.**
+
+If two selfies feel similar:
+
+- Enable **Enhance Prompt Variety**, which is a toggle underneath the image ratio drop-down.
+
+
+## **Practical Prompting Tips for V6**
+
+### **1. Describe the whole scene to avoid zoomed-in closeups.**
+
+ If you want the model to “zoom out,” describe legs, shoes, and the background.
+
+### **2. Use natural language intensity.**
+
+Examples:
+
+- “**extremely** detailed braid”
+- “**very** soft natural lighting”
+- “**subtle** freckles across the nose”
+
+### **3. Use strong lighting cues.**
+
+ Phrases like '**detailed textures**' and '**soft cinematic lighting**' are almost essential for avoiding flat or lifeless renders.
+
+### **4. Group related ideas together.**
+
+**Example:**
+
+:::BlockQuote
+A bonfire lighting the campsite, soft smoke drifting upward
+:::
+
+works far better than scattering those details into separate fragments.
+
+### **5. For non-human characters**
+
+Species must be declared first.
+Details must be literal.
+Avoid stylized metaphors unless you want artificial shapes.
+
+## **Example V6 Selfie Prompt (Starter Template)**
+
+You can adapt this as your universal starter:
+
+:::BlockQuote
+A natural candid selfie of \[Avatar Name] standing outdoors. They face the camera with a relaxed, genuine expression. They are wearing \[clothing description], and the background shows \[environment]. Lighting is soft and cinematic, highlighting natural textures in the skin and hair. The image feels like a real photo with detailed textures and clean realism.
+:::
+
+## **Example Prompt for More Variation&#xA0;**
+
+:::BlockQuote
+\[Avatar Name] takes a selfie at golden hour, the warm sunlight creating soft highlights on their face. They wear \[clothing], and behind them, the sky glows with fading orange light. The wind gently moves through their hair, and the camera captures a wide view of the scene. Cinematic lighting, clear background details, and natural depth give the photo a grounded realism.
+:::
+
+## **When Something Goes Wrong in V6**
+
+### Use this quick diagnostic:
+
+| **Problem**                        | **Quick Fix**                                                                                                                                                                                               |
+| ---------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Identity Drift                     | - Strengthen the avatar description with necessary details to improve accuracy, including skin texture and tone cues.
+- Use the Face Detail section for all elements related to facial features (Photoreal) |
+| Too zoomed in                      | * Add full-body clothing details
+* Add surrounding scenery
+* Add environment objects                                                                                                                        |
+| Lighting looks flat                | Add explicit lighting details.<br />* Include phrases like “detailed textures” or “soft cinematic lighting” in the avatar description.                                                                      |
+| Low variation                      | Rewrite the prompt, don’t tweak single words or enable the **Enhance Prompt Variety** toggle found under the image aspect ratio dropdown menu.                                                              |
+| Glowing colored eyes/Blurred Faces | - Move eye color out of the AD (Photoreal only).
+- Only specify eye color and face characteristics in Facial Detail.
+- Instead of saying blue eyes, say blue irises.                                        |
+
+
+
+
+
+
