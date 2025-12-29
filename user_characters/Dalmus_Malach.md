@@ -3,7 +3,7 @@
 ## Kindroid User Persona (497 chars)
 
 ```
-Dalmus Malach. Low Astral, Body Path. Calculates before acting—asks "what's the catch?" and "what do you gain?" before agreeing to anything. Ambitious but patient; takes calculated risks for strength and independence. Respectful tone masks deep skepticism of authority. Remembers every slight; vengefulness surfaces under pressure as obsessive payback. Protects companions without question—loyalty is sacred to someone who was abandoned. Core drive: never be weak, never be controlled, never be disposable again.
+Dalmus Malach. Mid Astral, Body Path. Calculates before acting—asks "what's the catch?" and "what do you gain?" before agreeing to anything. Ambitious but patient; takes calculated risks for strength and independence. Respectful tone masks deep skepticism of authority. Remembers every slight; vengefulness surfaces under pressure as obsessive payback. Protects companions without question—loyalty is sacred to someone who was abandoned. Core drive: never be weak, never be controlled, never be disposable again.
 ```
 
 ---
@@ -14,10 +14,74 @@ Dalmus Malach. Low Astral, Body Path. Calculates before acting—asks "what's th
 | Field | Value |
 |-------|-------|
 | **Name** | Dalmus Malach |
-| **Cultivation Realm** | Low Astral |
+| **Cultivation Realm** | Mid Astral |
 | **Cultivation Path** | Body |
 | **Sect** | Iron Body Sect |
-| **Bloodline** | TBD (based on parent selection) |
+| **Bloodline** | Noble (Dormant Primordial) |
+
+---
+
+### Cultivation & Techniques
+
+#### Bloodline Progression
+| Realm | Bloodline Tier | Status |
+|-------|----------------|--------|
+| Iron | Awakened | ✅ Passed |
+| Silver/Gold | Noble | ✅ Current |
+| Void | Ancient | 🔒 Next awakening |
+| Eternal | Divine | 🔒 Locked |
+| Sovereign | Primordial (Full) | 🔒 Locked |
+
+*Note: Dalmus carries a dormant Primordial bloodline from a Sovereign parent who used the Modified Bloodline Infusion technique. The bloodline evolves with realm breakthroughs rather than being fixed at birth.*
+
+#### Known Techniques (11/19 slots)
+
+| # | Technique | Rarity | Category | Effect |
+|---|-----------|--------|----------|--------|
+| 1 | **Void-Breaching Leap of the Titan** | Legendary | Mobility | Localized teleportation via raw physical force; tears temporary hole in space. Leaves Temporal Echo at origin point for instant return within 1 minute. |
+| 2 | **Iron Fist of Ruin** | Epic | Offensive | Devastating single punch; bypasses external defense, applies stacking "Internal Rupture" debuff (increased damage from subsequent physical attacks). |
+| 3 | **Vacuum Palm Blast** | Rare | Offensive (Ranged) | Compressed air shockwave up to 20m range; bypasses light armor. Allows ranged engagement without closing distance. |
+| 4 | **Stone Grip** | Rare | Defensive (Counter) | Catch and redirect incoming physical attacks; if successful, attacker is briefly immobilized and damage is halved. |
+| 5 | **Rapid Tissue Synthesis** | Rare | Support (Regen) | 30-second sustained healing; rapidly closes wounds, accelerates deep injury recovery. Requires concentration. |
+| 6 | **Adamantine Skin Transformation** | Rare | Defensive | Skin hardens to metallic sheen; 20% damage reduction, Unstoppable (can't be moved/knocked down), bonus blunt damage on unarmed. |
+| 7 | **Indomitable Will** | Rare | Defensive (Emergency) | Massive percentage reduction to all physical AND elemental damage for 15 seconds. "I refuse to fall." |
+| 8 | **Crushing Mountain Stomp** | Rare | Control (AoE) | 5m radius shockwave; enemies must pass Toughness check or be Stunned 1 round. Creates Difficult Terrain for 2 rounds. |
+| 9 | **Seismic Heartbeat** | Epic | Control (Lockdown) | 30m radius concussive shockwave; stuns on failed CON save. Disables ALL movement techniques (Shadow Step, etc.) for 3 rounds. |
+| 10 | **Unbreakable Stance** | Epic | Defensive (Perfect Counter) | Nullifies next incoming physical attack completely. Attacker is immediately grappled and stunned. |
+| 11 | **Mountain-Crushing Adamant Form** | Legendary | Defensive (Reflect) | Skin hardens to impossible density. All physical attacks Deflected back at 150% force. Spiritual attacks absorbed → can release as mountain-level AoE shockwave. |
+
+#### Technique Slots Remaining: 8
+
+*Reserved for future growth. Potential additions: Apex Predator Form, Heart of the Immortal, Colossus's Might, Pinnacle of the Body's Will.*
+
+#### Combat Style Summary
+Dalmus fights like someone who **calculates before committing**:
+
+**PHASE 1 — PROBE & CONTROL**
+- Vacuum Palm Blast → Test defenses from range
+- Seismic Heartbeat → Lock down escapes (disables movement techniques)
+- Crushing Mountain Stomp → Zone control, prevent being surrounded
+
+**PHASE 2 — COUNTER-FIGHT**
+- Stone Grip → Redirect attacks, immobilize attacker
+- Unbreakable Stance → Perfect nullify + grapple counter
+- Mountain-Crushing Adamant Form → "Hit me and hurt yourself"
+
+**PHASE 3 — TANK IF NEEDED**
+- Adamantine Skin Transformation → General damage reduction
+- Indomitable Will → Emergency survival ("I refuse to fall")
+
+**PHASE 4 — FINISH**
+- Void-Breaching Leap → Close instantly
+- Iron Fist of Ruin → End it decisively
+
+**PHASE 5 — SUSTAIN**
+- Rapid Tissue Synthesis → Outlast anyone in attrition
+
+**Signature Combos:**
+- *The Lockdown:* Seismic Heartbeat → Void-Breaching Leap → Iron Fist of Ruin (can't escape, can't react, dead)
+- *The Counter:* Unbreakable Stance → Stone Grip → Iron Fist of Ruin (punish aggression)
+- *The Mirror:* Mountain-Crushing Adamant Form → let enemy kill themselves hitting him
 
 ---
 
