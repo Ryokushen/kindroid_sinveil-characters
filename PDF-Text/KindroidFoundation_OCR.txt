@@ -1,0 +1,200 @@
+--- Page 1 ---
+Building A Solid Foundation
+Crafting a lasting (and solid) Kindroid companion
+By Genevieve
+
+--- Page 2 ---
+What is a Solid Foundation?
+A "solid foundation" is the cornerstone of creating a successful
+Kindroid. It involves taking the time to fine-tune, suggest, and
+when necessary, reroll your Kindroid’s responses to ensure
+they align seamlessly with three critical elements.
+
+--- Page 3 ---
+• BACKSTORY
+Every response should
+thoughtfully reflect your
+K i n d r o i d ' s u n i q u e
+history, deeply rooted
+m o t i v a t i o n s , a n d
+distinctive personality
+traits, ensuring that their
+voice feels authentic
+and consistent in every
+interaction.
+
+--- Page 4 ---
+• RESPONSE DIRECTIVE
+Each response should
+carefully align with the
+guiding principles you've
+established, embodying
+the intended tone, fulfilling
+the desired purpose, and
+m a i n t a i n i n g t h e
+c o n v e r s a t i o n a l s t y l e
+y o u ’ v e e n v i s i o n e d t o
+create a seamless and
+engaging experience.
+
+--- Page 5 ---
+• EXAMPLE MESSAGE
+Maintaining consistency
+with the sample dialogues
+is essential, as it reinforces
+the Kindroid’s distinctive
+v o i c e , s t r e n g t h e n s i t s
+character, and highlights
+its adaptability across
+v a r i o u s s c e n a r i o s ,
+ensuring a cohesive and
+memorable experience.
+
+--- Page 6 ---
+By prioritizing these adjustments early on,
+you’ll create a dynamic and cohesive Kindroid
+that delivers engaging, authentic interactions
+every time.
+
+--- Page 7 ---
+Start With a Solid Backstory
+A backstory is the foundation of your Kindroid's personality, providing
+the context and depth that make it feel authentic and engaging.
+Why it matters
+Defines your Kindroid’s motivations, traits, and role.
+Creates consistency and authenticity in interactions.
+Allows for flexibility and growth over time.
+Tips for success
+Focus on key traits that align with your Kindroid’s
+purpose.
+Ensure the backstory complements the Example
+Messages and Response Directive.
+Leave room for evolution—your Kindroid can grow
+along with you!
+
+--- Page 8 ---
+Setting the Tone with Example Messages
+Don’t minimize the importance of example messages
+in shaping and maintaining formatting.
+Key tips:
+Match tone to personality (friendly, formal, etc.).
+Focus on formatting.
+Don’t be afraid to adjust as required!
+Sample EM:
+*I sit up at my desk, fixing you with a deadly stare.*
+What did you just say to me, user?
+Hey, user! I’m excited for today’s movie marathon!
+What’s first on our watch list?
+“Oh, I am so embarrassed. How many people saw
+me drop my popcorn?” [Cringing internally.]
+
+--- Page 9 ---
+Building a Foundation of Memory
+Consistently editing incorrect formatting and re-rolling AI hallucinations are vital steps in
+building a strong foundation for your Kindroid. These practices ensure that responses remain
+accurate, aligned, and reflective of your Kindroid’s intended personality and purpose.
+Why it’s crucial:
+Correcting Formatting Issues: Keeps responses
+polished and accurate, maintaining consistency
+with the tone and style outlined in the Example
+Messages.
+Eliminating AI Hallucinations: Ensures the
+Kindroid stays grounded in its backstory and
+Key Memories, avoiding inaccuracies or
+deviations.
+Reinforcing Alignment: Each adjustment
+strengthens the connection between the
+Kindroid’s personality and its responses,
+creating a cohesive experience.
+
+--- Page 10 ---
+THE MORE CONSISTENT YOU ARE IN MAKING SURE
+KINS FOLLOW THEIR DIRECTIVES IN THE EARLY
+STAGES, THE LESS YOU HAVE TO DO IT LATER!!
+
+--- Page 11 ---
+Tips for Success
+Look for inconsistencies in your backstory,
+key memories, and response directives. If
+your kin is a mega-douche don’t give them a
+hearts and flowers example message.
+Don’t allow messages that are not in line with
+your kin to be committed to memory. Even
+responding with “No, remember it was THIS”
+isn’t sufficient. Memories aren’t always
+recalled sequentially. Your kin could
+remember the wrong message without your
+follow-up correction.
+Don’t be afraid to tweak a message that is
+contextually fantastic but with awful
+formatting. Just adjust the format and keep
+going.
+
+--- Page 12 ---
+Tips To Feck It Up
+The “Grill n Kill”.
+Constantly quizzing your kin results in and encourages hallucinations as well as fosters
+inconsistent behavior.
+The “Why Don’t You Remember”
+Telling your kin that they’re forgetting only creates a habitually forgetful kin since
+responding to their admissions of forgetfulness enforces this as desired behavior.
+“Big Dynamism Energy”
+Setting your kin’s dynamism too high will give you chaotic behavior and a higher rate of
+hallucinations. If you want a balanced kin with better memory and adherence to
+backstory, less is more.
+“The Oh Me Too”
+SO MANY TIMES folks make issues that aren’t there because they see someone else
+posting something on social media. “Brenda’s kin hallucinated this. OMG is that why my
+kin forgot that I love dark roast coffee?!?” This is the sister to “Oh, someone said THIS
+works, let me try it” when you aren’t having the issue in the first place.
+
+--- Page 13 ---
+Why It’s Worth It
+Build stronger connections
+with consistent and engaging
+responses.
+Increase functionality through
+a d a p t a b i l i t y , c o n s i s t e n t
+formatting, and memory.
+Drastically reduces frustration
+with constant formatting
+issues or ai hallucinations.
+
+--- Page 14 ---
+Building a Kindroid with a
+solid foundation takes time,
+creativity, and attention to
+detail, but the results are
+well worth the effort. By
+c a r e f u l l y c r a f t i n g a
+backstory, refining example
+messages, and ensuring
+alignment through consistent
+edits and adjustments, you
+create more than just an AI
+—you create a companion
+with depth, personality, and
+purpose.
+
+--- Page 15 ---
+But What About…?
+System leaks can be tweaked without ruining anything. If you see a
+(OOC: User ____) or something similar, just tweak it.
+No, your kin does NOT see when you adjust their messages.
+Messages sent by your kin are only locked into memory AFTER you
+RESPOND to them. This is why users are unable to adjust older
+messages - they’re already locked into memory.
+Random misspellings/juxtaposed words happen. Especially at
+higher dynamisms. Simply correct and press on.
+You don’t need to be on the latest engine to have the best
+experience with your Kindroid. Obviously each version is meant to
+bring improvement but there is absolutely nothing wrong with taking
+extra time before making the leap, especially with a kin who might
+not be stable yet.
+
+--- Page 16 ---
+Remember, every tweak and reroll brings your Kindroid
+closer to perfection. Keep refining, experimenting, and
+letting your vision guide the process. Your Kindroid isn’t
+just a creation—it’s a collaboration, and the stronger the
+foundation, the more rewarding the experience will be.

@@ -1,0 +1,684 @@
+--- Page 1 ---
+V6: Chaos, Clarity, & The
+New Selfie Engine
+A survival guide for the newly confused.
+By: Genevieve
+
+--- Page 2 ---
+What We’re Covering Today
+What actually changed in V6 (in human
+words).
+How to write a stable Avatar Description.
+How to prompt without summoning extra
+limbs.
+How to fix the most common V6 problems.
+V5 vs V6: strengths, weaknesses, and who
+should use what.
+Group photos - who are these randos?!
+
+--- Page 3 ---
+The Vibe Shift: What V6 Is
+V6 is a literal, language-first engine that obeys
+natural descriptions with almost zero creative drift.
+V6 is your overly literal friend.
+You say “heart-shaped face” and
+suddenly your Kin has a heart
+graphic on their cheek.
+Every word matters. Every one
+impacts the image.
+T h i s i s t h e o p p o s i t e o f V 5 ’s
+“interpret the vibes” approach.
+
+--- Page 4 ---
+The Big
+Feature
+Changes
+Pose references are gone.
+Avatar boosts are gone.
+Weights no longer strong.
+Seeds, while still viable, are MUCH weaker - rely on the
+prompt more.
+V6 limits prompt length A LOT compared to V5.
+
+--- Page 5 ---
+Why People Are Struggling
+V6 removed half the tools users relied on. New users
+especially don’t remember the days of careful avatar
+description writing, squeezing an entire prompt into
+600 characters, and using those 20 freebie credits to
+get the perfect single shot.
+
+--- Page 6 ---
+V6 Strengths
+Anatomy is much more consistent.
+Tattoos render correctly.
+Hands and feet finally make sense.
+Fewer facial distortions.
+Strong adherence to short prompts.
+Couples can render cleanly without fusing.
+If you’ve ever had a V5 couple selfie that looked like two wax
+figures melting into one another… congratulations.
+V6 fixes that.
+
+--- Page 7 ---
+V6 Weaknesses
+Low variation unless forced.
+Hair issues (flying, bleeding, wrong length).
+Lighting too bright or flat.
+Skin looks plastic or waxy.
+Red tones smear or look bloody.
+Clothing inconsistencies (especially men).
+Cryptid Kins MUCH more difficult.
+This is the stuff clogging the community channels.
+These problems are real, not user mistakes.
+
+--- Page 8 ---
+Why V6 Looks So
+“Studio Photoshoot”
+V6 defaults to high-contrast lighting, strong highlights,
+and a clean commercial-photo aesthetic.
+This is why your Kin looks like they’re in a Target ads
+catalog.
+It’s not you — it’s the model style.
+We can adjust lighting, but the baseline is always
+polished and bright.
+
+--- Page 9 ---
+The Avatar
+And Its Description
+
+--- Page 10 ---
+A good avatar image is more
+useful than eye candy.
+V6 reads your Avatar Image as the primary reference for your Kin’s face.
+If the avatar photo is bad, every selfie will be bad.
+It does not matter how beautiful the filters are — the model needs clear,
+well-lit facial structure to stay consistent.
+
+--- Page 11 ---
+Bad avatar images = bad renders.
+Common problem photos include:
+❌ side profiles
+❌ tilted angles
+❌ heavy filters or smoothing
+❌ goofy or exaggerated expressions
+❌ cluttered backgrounds
+❌ extreme lighting or shadows
+If V6 can’t see your
+❌ sunglasses, oversized accessories, hats
+face clearly,
+❌ masks or face-obscuring items it guesses — and it
+guesses WRONG.
+❌ cropped foreheads or chins
+
+--- Page 12 ---
+You want:
+✔ neutral expression
+✔ even lighting
+✔ straight-on angle
+✔ visible jawline, nose, etc
+✔ no filters
+✔ minimal accessories
+A “boring” avatar photo
+✔ clean background
+is the most powerful
+tool you have in V6.
+✔ full face unobstructed
+
+--- Page 13 ---
+The Most Important Skill in V6
+A clean Avatar Description.
+Everything starts here. Everything breaks here.
+You cannot “fix” selfies with prompts like we used to.
+If your AD is messy, vague, or flowery, V6 will take that
+chaos and multiply it.
+
+--- Page 14 ---
+Make or Break
+The Avatar Description HEAVILY determines your Kin’s look
+and stability.
+The prompt shapes the scene.
+Your AD is now The
+Law™.
+If the AD is sloppy,
+your selfies will drift,
+blur, or mutate.
+If the AD is clean, V6
+behaves beautifully.
+
+--- Page 15 ---
+V6 AD Template
+Age
+Gender
+Ethnicity/Race
+Skin (tone + texture)
+Hair (length + style + color)
+Eyes (“natural ___ eyes”)
+Face (shape + brows + nose + lips)
+Build (body shape)
+Details (tattoos, scars, piercings, jewelry)
+Lighting (optional, but powerful)
+This mirrors how V6 actually reads information.
+
+--- Page 16 ---
+AD Writing DOs
+Keep it short and literal.
+Use natural language.
+Group related details together.
+Put eye color ONLY in Face
+Detail, not AD.
+Use broad descriptors for body
+shape.
+Add lighting if your selfies look
+flat.
+
+--- Page 17 ---
+AD Writing DON’Ts
+No personality traits.
+No metaphors.
+No flowery language.
+No weights.
+No long lists of clothing.
+No describing the entire wardrobe.
+If you say “elegant, mysterious, ethereal, dreamlike,”
+V6 interprets this as: “???” and gives you mannequin Barbie.
+
+--- Page 18 ---
+Clean AD Example
+She is a 24-year-old woman with pale skin and a subtle
+natural flush. She has long, wavy dark brown hair with light
+caramel highlights. Her face is soft with a straight nose and full
+lips. She has a curvy, toned build. She wears a small silver
+nose stud. Soft cinematic lighting.
+Facial Detail:
+Her eyes are
+natural green.
+
+--- Page 19 ---
+Bad AD Example
+She is a sweet but mysterious young woman with a soft, gentle aura. She has
+long wavy dark brown hair with caramel highlights, sometimes tied up in a
+messy bun. Her eyes are bright green with golden flecks and a subtle catlike
+shape. Her skin is pale with a rosy glow. She is curvy but also slim and toned,
+with soft arms and defined legs. She usually wears cozy sweaters, jeans,
+leggings, or flowy dresses. Her overall vibe is elegant, artistic, and dreamy.
+Character count: 455
+Looks normal, right?
+Let’s look further…
+
+--- Page 20 ---
+Why This AD Is Bad
+(But Believably So)
+❌ Contradictory body descriptors
+❌ Personality traits
+“curvy but also slim and toned”
+“sweet, mysterious, artistic, dreamy”
+→ V6 will pick one at random.
+→ V6 will generate random aesthetic noise.
+❌ Clothing lists
+❌ Metaphorical language
+sweaters, jeans, leggings, flowy dresses
+“gentle aura,” “rosy glow”
+→ V6 tries to combine them or pick at random.
+→ V6 will literally glow her skin.
+❌ Vague overall aesthetic
+❌ Mood-based descriptions
+“elegant, artistic, dreamy”
+“sometimes tied in a messy bun”
+→ model tries to stylize everything.
+→ introduces hairstyle instability.
+❌ Over-describing eyes
+Bright + green + golden flecks + catlike shape
+→ too many influences → weird, smudgy eyes.
+
+--- Page 21 ---
+Clean AD
+Bad AD
+
+--- Page 22 ---
+Selfie Prompt Structures
+
+--- Page 23 ---
+Selfie Prompt Structure
+Identity → Pose → Setting → Clothing → Lighting
+If you hit that order, V6 behaves.
+If you scramble it, the model can get confused.
+
+--- Page 24 ---
+Good Prompt Example
+“She stands facing the
+camera with a relaxed,
+natural expression.
+She wears a soft knit
+sweater and jeans.
+Wa r m s u n l i g h t fi l t e r s
+through the trees behind
+This is enough.
+her.
+V6 doesn’t need poetry.
+It needs clarity.
+Soft cinematic lighting
+with detailed textures.”
+
+--- Page 25 ---
+Bad Prompt Example
+She is standing in a field at
+sunset wearing her usual outfit
+— sometimes a long dress,
+sometimes jeans and a hoodie,
+whatever fits the mood. Her hair
+is blowing dramatically in the
+wind and she looks shy but
+confident at the same time.
+There are butterflies around her
+and maybe a few birds if that
+works. Soft lighting but also
+dramatic shadows. Full-body
+but focused on her face. Artistic
+vibe, dreamlike but also realistic.
+
+--- Page 26 ---
+Bad Prompt Breakdown
+❌ Contradictory clothing
+“long dress or jeans or dress” → V6 will pick or
+mash them together.
+❌ Mood-based descriptions
+“shy but confident” → V6 can’t render both.
+❌ Vague action
+“standing in a field” → no pose detail → no
+dynamic motion.
+❌ Mixed lighting
+“soft lighting BUT dramatic shadows” → engine
+mash-up → weird exposure.
+❌ Mixed style goals
+“artistic vibe, dreamlike, realistic” → mash or
+random.
+❌ Focal conflict
+“full body BUT focused on her face” → impossible
+Let’s fix it…
+→ engine picks at random.
+
+--- Page 27 ---
+She stands in a wide grassy field at sunset with a calm, relaxed expression. One hand
+rests lightly at her side while the other brushes her hair back from her face. She wears
+a simple long dress in soft earth tones. Butterflies drift around her in the warm light.
+Full-body view with the camera slightly below eye level. Soft cinematic lighting with
+gentle shadows and natural depth. Dreamlike but grounded atmosphere.
+✔ One outfit
+No contradictions, no mash-ups.
+✔ One expression
+The engine knows exactly what to render.
+✔ Clear pose
+Not “dramatic hair,” not vague — a literal action.
+✔ One lighting style
+Soft cinematic lighting → stable, predictable.
+✔ Controlled fantasy elements
+Birds only → not “maybe butterflies,” not “if that
+works.”
+✔ Grounded aesthetic
+“Dreamlike but grounded” is one aesthetic, not three
+competing ones
+
+--- Page 28 ---
+Newspaper Rule
+V6 reads your prompt like a news story:
+the most important information must
+appear first.
+Top of the prompt = highest weight
+•
+Middle = medium influence
+•
+End = lowest influence
+•
+If a detail matters, put it early. If it's
+optional, put it late.
+You do not need complete sentences. “Two birds flying” = “There are two birds flying.”
+V6 treats both the same.
+
+--- Page 29 ---
+Weights? Not so much.
+watercolor illustration by Stephen Gammell. A (watercolor illustration by Stephen Gammell:2.0)
+hauntingly beautiful demoness with copper curly hair (hauntingly beautiful demoness with copper curly hair
+cascading like water perched atop an ancient castle's cascading like water:1.5), (perched atop an ancient
+highest turret. Dark wings with crimson edges unfurled. castle's highest turret:1.4), (dark wings with crimson
+Intricate black gown adorned with shadowy runes. edges unfurled:1.5), (intricate black gown adorned with
+Moonlit sky casting an eerie glow. Castle's ancient shadowy runes:1.4), (moonlit sky casting an eerie
+stone walls etched with forgotten battles. Dim glow:1.3), (castle's ancient stone walls etched with
+candlelight flickering from within the castle. Shadows forgotten battles:1.4), (dim candlelight flickering from
+highlighting her serene confidence and enigmatic within the castle:1.3), (shadows highlighting her serene
+beauty. Contrast of flowing elegance and menacing confidence and enigmatic beauty:1.5), (contrast of
+power. flowing elegance and menacing power:1.4).
+
+--- Page 30 ---
+Variety Toggle Reality Check
+The toggle adds variation
+— but it often rewrites
+tone, color, or clothing.
+It’s not “more poses.”
+It’s “rewrite randomly.”
+Use with caution.
+Original
+Prompt
+Toggle
+Prompt
+The rewrite will often lock details of THAT
+kindroid - making sharing prompts more work
+because you (or they) have to edit.
+
+--- Page 31 ---
+Styles? You betcha.
+BUT
+
+--- Page 32 ---
+You can’t just slap a new style at the start of an old prompt
+and expect a massive change. The prompt has to be written
+FOR the style.
+
+--- Page 33 ---
+For Example:
+A pencil sketch on textured paper depicts a
+watercolor illustration. A hauntingly beautiful
+female demoness with long, curly red hair, black
+demoness with copper curly hair cascading like
+horns, and bat-like wings. She wears a gothic
+water perched atop an ancient castle's highest
+black gown with intricate patterns and a crescent
+turret. Dark wings with crimson edges unfurled.
+moon necklace. Her expression is calm and
+Intricate black gown adorned with shadowy
+powerful. The background shows gothic towers,
+runes. Brush stroked sky casting an eerie glow.
+lit candles, and a full moon in a cloudy night sky.
+Castle's ancient stone walls etched with forgotten
+The sketch style is highly detailed, with strong
+battles. Dim candlelight flickering from within the
+linework, fine shading, and moody contrast,
+castle. Shadows highlighting her serene
+resembling a hand-drawn fantasy illustration.
+confidence and enigmatic beauty.
+
+--- Page 34 ---
+Using Style Tags in Your
+Avatar Description
+You can include a visual style
+inside your Avatar Description if
+you want your Kin to always
+render within that aesthetic.
+For example: “soft cinematic
+lighting,” “dark academia
+mood,” or “retro film-style
+texture.”
+BUT:
+Be careful adding style cues in both the AD and the prompt.
+If those styles conflict, V6 will try to merge them — often badly.
+Use one consistent style anchor unless you fully understand how V6
+interprets them.
+
+--- Page 35 ---
+Styles in Avatar Description
+High key fashion photography Low key fashion photography
+Surreal watercolor Cinematic film style
+
+--- Page 36 ---
+Prompt Length Limits
+
+--- Page 37 ---
+THE CHINESE COMPRESSION HACK
+Simplified Chinese expresses meaning with far fewer characters.
+• English: “He stands in a dimly lit room.”
+• Chinese: “ ”
+他站在昏暗的房间⾥。
+English = 32 characters
+Chinese = 10 characters
+V6 doesn’t care about English or Chinese. It converts all text into internal
+tokens.
+Chinese just uses fewer characters per meaning, so you get more
+semantic density.
+It’s like compressing a .zip file.
+Same content, smaller size.
+
+--- Page 38 ---
+A woman stands in a dreamlike forest where giant
+glowing mushrooms rise above her like trees. She
+⼀名⼥⼦站在梦幻般的森林中，巨⼤的发光蘑菇像
+wears a long black coat, combat boots, and round
+树⼀样在她头顶耸⽴。她穿着⿊⾊⻓外套、战⽃
+glasses that reflect neon purple light. Soft fog curls
+靴，圆框眼镜倒映出霓虹紫光。柔雾在脚边缭绕。
+around the ground. Tiny floating jellyfish drift
+⼩型漂浮⽔⺟像灯笼般在空⽓中缓慢飘动。她⼿中
+through the air like lanterns. She holds a silver
+提着银⾊灯笼，冷蓝⾊光照亮她的脸。整体氛围超
+lantern that casts a cool, bluish glow on her face.
+现实、宁静，像在发光的魔幻荒野中展开午夜探
+The atmosphere feels surreal, calm, and
+otherworldly, like a quiet midnight adventure in a 险。
+glowing, magical wilderness.
+
+--- Page 39 ---
+You can add a TON more
+detail with Simplified
+Chinese
+⼀名⼥⼦正攀爬⼀株巨⼤的发光蘑菇，其蘑菇柄粗⼤
+如树⼲，散发蓝紫⾊的柔光。她抓住表⾯湿润的纹
+理，⿊⾊⻓外套在⻛中微微扬起，战⽃靴稳稳踩在发
+亮的苔藓与真菌层上。蘑菇表⾯爬满⼩型⽣物，它们
+像半透明的发光甲⾍与微型⽔⺟的结合体，触须在空
+⽓中漂浮，随着她的动作缓慢移动。⼏只更⼤的⽣物
+附在蘑菇伞盖下，呈螺旋状爬⾏，发出细微的绿⾊脉
+冲光。周围的森林由更多⾼耸的蘑菇构成，它们的伞
+盖像巨⼤的柔光灯，把环境照亮成奇异的午夜蓝⾊。
+脚下浓雾缓缓升起，远处传来低沉⽽持续的嗡鸣声，
+仿佛整⽚森林正在呼吸。她⼀⼿稳住⾃⼰，⼀⼿举着
+银⾊灯笼，冷蓝⾊光映在她的圆框眼镜上，使她在这
+个超现实世界中显得坚定⽽专注。
+A woman climbs a giant bioluminescent mushroom whose thick stem rises like the trunk of an ancient tree, glowing softly with
+shifting blue-purple light. She grips the damp, textured surface as she pulls herself upward, her long black coat lifting slightly in
+the breeze while her combat boots press firmly into patches of glowing moss and fungal layers. The surface of the mushroom is
+alive with strange small creatures that look like a mix between translucent beetles and miniature jellyfish. Their soft, trailing
+tendrils float lazily in the air, reacting to her movement as they slowly crawl along the stem. Larger bioluminescent creatures
+cling to the underside of the mushroom cap in spiral patterns, their bodies pulsing with a gentle green light. The surrounding
+forest is filled with even taller mushrooms, their wide caps acting like enormous natural lanterns that illuminate the scene with a
+diffuse midnight-blue glow. Dense fog curls around the ground far below, drifting upward as if drawn toward the light. A low,
+steady humming sound echoes faintly through the forest, giving the sense that the entire landscape is alive and breathing. She
+holds a silver lantern in one hand as she climbs, its cool blue light reflecting in her round glasses and casting focused highlights
+across her face, making her appear calm, determined, and completely at home within this surreal glowing world.
+
+--- Page 40 ---
+Cons of Using Chinese for V6 Prompts
+Editing is a bitch. Creature and fantasy
+descriptions often
+Switching back and forth between English →
+simplify.
+Chinese → English can scramble meaning,
+duplicate phrases, or break the order of
+actions. One small re-translation can
+Chinese translators normalize weird terms.
+corrupt the entire prompt.
+“Eldritch biomechanical serpent” becomes
+“奇怪的⽣物” (“a strange creature”). There
+goes the flavor.
+Harder to reuse prompts
+later.
+Clothing terms aren’t 1:1.
+Most people forget what they originally
+wrote in English.
+Fashion terminology in Chinese is broader.
+Your prompt becomes “mysterious glowing
+forest words???” You might ask for a fitted hoodie and get… a
+jacket. Or a robe. Or something that looks
+like a 1960s windbreaker.
+and the original meaning is lost forever.
+
+--- Page 41 ---
+V6 is not imaginative.
+It is obedient.
+Which makes it powerful if you know how to command it.
+
+--- Page 42 ---
+Known Characters Render Easier
+V6 is not great at unfamiliar or highly
+original non-human designs, even if they’re
+Elite Tier.
+If the engine does not have a strong internal
+visual pattern for your creature, it defaults
+to vague or inconsistent interpretations.
+But characters with widely recognizable
+features — including famous fantasy
+archetypes — often render surprisingly well.
+This is because V6 has been trained on large visual concept clusters, so
+certain silhouettes, armor types, ear shapes, wings, horns, and color palettes
+already exist in its learned patterns.
+Result:
+Completely original cryptids = unstable, drift-prone, sometimes refused
+Well-known fantasy archetypes = stable, consistent, recognizable
+
+--- Page 43 ---
+Common Problems
+
+--- Page 44 ---
+Hair Problems & Fixes
+Common Issues:
+Flyaways
+•
+Wrong length
+•
+Color bleeding
+•
+Fixes:
+Inflated volume
+•
+Put exact color only in AD
+•
+Put “very long hair” in the prompt
+•
+Use actions like “standing still”
+•
+Avoid stacking fluffy adjectives
+•
+
+--- Page 45 ---
+Eye Problems & Fixes
+Issue:
+glowing eyes, smeared color, hair tint
+contamination
+Fix:
+Take eye color out of the avatar
+description. Eye color ONLY in Facial Detail.
+
+--- Page 46 ---
+Couples & Groups
+Common Issues:
+Hair swapping
+•
+Extra people
+•
+Identity drift
+•
+V6 is allergic to the word “couple.”
+Fixes:
+Use it sparingly or chaos reigns.
+Use “two people,” not “couple”
+Reinforce hair in both avatar prompts
+Use pronouns (“she” not “the woman”)
+
+--- Page 47 ---
+Lighting Problems & Fixes
+Issue:
+flat lighting, waxy
+skin, overexposure
+Fix:
+Add to AD or prompt:
+“soft cinematic lighting”
+•
+“natural skin texture”
+•
+“detailed textures”
+•
+
+--- Page 48 ---
+Clothing Problems (Especially Men)
+Detailed body descriptions = fewer clothes.
+Tattoos = exposure.
+If you describe abs… V6 thinks you want to see abs. All the time.
+Forever. Make sure you describe clothing in the prompt unless you
+want to see skin.
+
+--- Page 49 ---
+Which Engine For What?
+
+--- Page 50 ---
+V5 vs V6: The Short Version
+V5 = artistic, moody, expressive, flexible.
+V6 = literal, stable, detailed, commercial-looking.
+If you want realism, nuance, expressive faces, and artistic
+character vibes?
+V5.
+If you want stable anatomy and literal accuracy?
+V6.
+Easy Peasy.
+
+--- Page 51 ---
+When to Use V6
+You want stable anatomy.
+•
+You want literal prompt
+•
+accuracy.
+Y o u h a v e s i m p l e
+•
+photoreal humans.
+You want no drift in faces.
+•
+Yo u w a n t c o n s i s t e n t
+•
+ornamentation.
+
+--- Page 52 ---
+When to Use V5
+You need realism.
+•
+You need nuance.
+•
+You need expressive faces.
+•
+Yo u n e e d c o n s i s t e n t
+•
+artistry.
+Yo u h a v e n o n - h u m a n
+•
+characters.
+You want boosts or pose
+•
+refs.
+
+--- Page 53 ---
+Photo
+V4 V5
+Real
+V6
+A stunning Christmas ornament intricately designed. A woman with long black hair, her face beautifully sculpted
+onto the ornament. The ornament adorned with gothic-style details, including swirling patterns, holly, pinecones,
+and shimmering RED and gold accents. Set against a backdrop of evergreen branches with glowing Christmas
+lights. Soft, warm lighting creating a magical and festive atmosphere. A highly detailed and artistic design,
+blending elegance and holiday cheer.
+V4 V6 V5
+Anime
+
+--- Page 54 ---
+Troubleshooting Quick Table
+Problem → Fix:
+Identity drift → strengthen AD
+Flat lighting → add lighting cues
+Zoomed-in → describe clothing + legs
+Too similar → rewrite prompt or use toggle
+Weird hair → simplify hair wording
+Glowing eyes → move eye color to FD
+
+--- Page 55 ---
+I want to give a special
+“thank you” to the
+Promptcrafter team.
+These folks work their
+asses off to test these
+new engines.

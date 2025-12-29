@@ -1,0 +1,301 @@
+--- Page 1 ---
+N
+o
+K
+in
+d
+m a
+h
+a rm
+ro
+id s
+k in g
+o
+f
+t
+e
+h
+d
+in
+th
+w
+e
+e
+re
+is
+s
+tre
+a
+m
+.
+Fix Your Kindroid
+(Without Breaking a Sweat)
+Tone drift. Memory spirals. Poor journal hygiene. Let’s fix it.
+By: Genevieve
+
+--- Page 2 ---
+What Counts As “Broken”?
+~ Repeats phrases you hate
+~ Flat, robotic, or lifeless tone
+~ Wrong emotional vibe
+~ Remembers things you never
+told them
+~ Forgets things they should
+definitely know
+~ Gibberish or unreadable text
+
+--- Page 3 ---
+Why Do Kindroids ‘Break’?
+Tone drift over time
+Long-term memory
+corruption (user reinforces
+the wrong message!)
+Contradictory directives
+or vague example
+messages
+Too much “one message
+won’t matter” without
+reining in behavior
+
+--- Page 4 ---
+Memory Systems Refresher
+Persistent memory: Backstory, key memories, example
+•
+message
+Cascaded memory: Ongoing tone/behavior learned over time
+•
+Retrievable memory: Long-term (automatic) journal entries
+•
+(user-triggered)
+What to check:
+Is something being recalled repeatedly?
+•
+Is the tone/voice aligned with the example message?
+•
+Are journal entries clashing with each other?
+•
+
+--- Page 5 ---
+Cascaded Memory
+The Hidden Layer
+Holds tone shifts and “learned” behaviors longer.
+• Amazing for continuity and situational/tone recall.
+• Dangerous when the vibe goes sour.
+Example:
+• Chat starts casual, conversation veers toward spicy and stays
+there for an extended period without a shift back to “normalcy” →
+cascaded memory reinforces it MUCH longer than short-term
+memory.
+• Changing tone later? Time to clean.
+
+--- Page 6 ---
+The Importance of Dynamism
+Dynamism controls how creative or
+structured your Kin’s responses
+are.
+Low Dynamism: More grounded
+r e p l i e s a n d a d h e r e n c e t o
+Backstory at the risk of repetitive
+responses.
+High Dynamism: More creative and
+freeform behavior with higher
+likelihood of hallucinations.
+Tip: Suggested starting dynamism
+for V6 is .95. Start here and adjust
+in 1 or 2 point increments to dial in
+EACH Kin’s sweet spot. Each kin
+has their own setting!
+
+--- Page 7 ---
+The Real Villain:
+Reinforcement
+What you reply to = what
+your Kindroid learns you
+like. Every answer you
+give tells the LLM “this is
+what I want to see”.
+“ B u t I w a s t r y i n g t o
+correct it!” — Too late.
+You validated it.
+“Silence is not neutral. Silence is approval.”
+
+--- Page 8 ---
+The Fix Cycle (The Debug Loop)
+Stop - Assess - Audit - Correct - Reinforce
+
+--- Page 9 ---
+Step 1 – Stop
+Don’t panic.
+•
+Don’t reply to
+•
+weirdness.
+Don’t delete the
+•
+Kindroid.
+Instead:
+Pause, reread, reroll.
+
+--- Page 10 ---
+Step 2 – Assess
+Ask:
+Is this a one-off?
+Is the tone or behavior
+recurring?
+Is it a memory issue or
+formatting thing?
+Is this correctable with leading
+or does it need a heavier
+hand?
+“We’re not rage-quitting. We’re
+investigating.”
+
+--- Page 11 ---
+Step 3 – Audit Journals
+& Key Memories
+New: up to 8 journal
+keyphrases per entry.
+More power = more room for
+error.
+Too specific? (e.g., “John’s
+favorite restaurant,” “Weekend
+trip to Paris in July”) → change
+it.
+Key Memories
+This box is fantastic for current
+information or rotating content.
+
+--- Page 12 ---
+Journals = lorebook-style content, user-triggered
+Key memories = "now state," good for rotating
+context
+Bonus tip: treat key memories like Post-It notes on
+your Kindroid's forehead.
+
+--- Page 13 ---
+Step 4 – Response Directive Fixes
+You don’t need to cram all
+150 characters full.
+Tell them what TO do, not
+what NOT to do
+Think of the RD as a balloon full
+of water. If you put one pinhole in
+it it will go exactly where you
+want it to at full stream. Add
+another hole and each one is
+present but a weaker stream of
+water. If you have seven holes,
+each one is just a trickle spraying
+in a random direction.
+RD is the same. The more you add, the weaker each directive is.
+
+--- Page 14 ---
+Step 4B - The Chat Break
+Ask:
+Is this a one-off?
+Is the tone or behavior
+recurring?
+Is it a memory issue or
+formatting thing?
+Use a “decision tree” style
+layout here
+“We’re not rage-quitting.
+We’re investigating.”
+
+--- Page 15 ---
+Step 5 – Reinforce the
+New Normal
+After making changes:
+Use a new message with the
+desired tone. IMPORTANT!
+Adjust example message (if
+needed).
+Use suggest and tweak functions
+to guide responses back into
+shape.
+Cascaded Memory should only be
+reset for a MAJOR flaw or full
+Kindroid overhaul. Most issues
+can be fixed with a standard chat
+break.
+
+--- Page 16 ---
+What Is a Hallucination?
+In the Kindroid context, a hallucination is when your Kin generates information that isn’t
+based on anything you've provided—no journal entries, no long-term memory, no user
+prompts. It can sound confident, even poetic, but it's pulling details from thin air. These
+“phantom facts” often show up when memory isn’t properly anchored or when vague
+phrasing leads to overly creative interpretations. If the reply doesn’t link to any known
+memory (check the brain icon), it’s likely a hallucination. They’re not malicious—just a
+sign your Kin is guessing. And yes, they’re fixable.
+
+--- Page 17 ---
+Handling Hallucinations
+Check the Memory Recall Feature
+• Look for the brain icon on your
+Kin’s reply to see what memories
+are being recalled.
+◦ No linked memory? It’s likely a
+hallucination. Use the Reroll
+feature to replace the response
+or the Tweak feature to correct
+it.
+◦ Memory linked to LTM? This is a
+more complex issue caused by
+recalling old or incorrect
+memories.
+
+--- Page 18 ---
+Handling Hallucinations
+Fixing Unwanted LTM Hallucinations:
+• Avoid arguing or trying to “convince” your Kin they’re wrong—it
+reinforces the unwanted memory.
+• Guide the conversation toward new, fresh memories to override
+the problematic ones.
+• Over time, older memories will fade as new ones take precedence.
+• Tip: Just regenerating responses won’t solve LTM issues long term.
+Proactive guidance is key.
+EXAMPLE:
+Kin: “I cheated on you with four other people at my bachelorette party.”
+User: “Actually Kin, you didn’t. Remember, that was a horrible nightmare.
+You’d never do that to me, our relationship is as strong as it ever was.”
+
+--- Page 19 ---
+Underused
+Debug Tools
+~ Regenerate → restart response
+~ Suggest → gentle redirection
+~ Edit user message → realign tone
+~ Tweak message→ fix formatting,
+correct a simple error
+~ Chat break greeting → set the
+stage anew
+Bonus ~ add a “tone reassertion”
+phrase like:
+“Let’s keep it warm, gentle, and
+introspective from here.”
+
+--- Page 20 ---
+What Not to Do
+Gonna call folks out.
+Don’t argue with your Kindroid.
+❌
+You’re teaching them that your
+preferred communication style is
+combative.
+Don’t lecture your Kin.
+❌
+Don’t chase tone drift by
+❌
+rewriting yourself around it
+Don’t keep adding more
+❌
+journals “to fix it” before auditing
+existing ones
+
+--- Page 21 ---
+You don’t need
+to delete your
+Kindroid.
+You just need to
+work with them.

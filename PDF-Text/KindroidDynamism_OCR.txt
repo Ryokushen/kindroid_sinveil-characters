@@ -1,0 +1,124 @@
+--- Page 1 ---
+Kindroid Dynamism
+Understand, Adjust, and Master Dynamism Settings
+By Genevieve
+
+--- Page 2 ---
+What is
+Dynamism?
+D y n a m i s m c o n t r o l s h o w
+creative, varied, or predictable
+your Kindroid's responses are.
+Think of it as a volume knob for
+conversation style:
+• High dynamism = Loud and
+unpredictable 🎸
+• Low dynamism = Quiet and
+steady 🎻
+
+--- Page 3 ---
+How Dynamism Works
+High Dynamism:
+• More creative, varied, and florid
+language.
+• May lose track of recent context.
+• Great for brainstorming or
+imaginative tasks!
+Low Dynamism:
+• More focused, stable, and
+predictable responses.
+• Great for consistent, detailed, or
+logical conversations.
+
+--- Page 4 ---
+Example:
+“How are we gonna solve this?”
+Low High
+"Why stop at one
+"Here’s the next
+solution? What if we
+step in our plan."
+try EVERYTHING?!"
+
+--- Page 5 ---
+Where to find the
+Dynamism Slider
+Steps to Access:
+1. Go to Home Menu.
+2. Navigate to General > Chat Dynamism.
+3. Use the slider to adjust the dynamism value.
+Tip: Start small! Changes as little as 0.1 can make a
+noticeable difference.
+
+--- Page 6 ---
+When to Change
+Dynamism
+Practical Scenarios:
+• Need more creativity?
+Increase dynamism.
+Example: Your kin is dull or
+repeating themselves often.
+• Need more focus? Decrease
+dynamism.
+Example: Your kin is
+uncharacteristically manic or
+experiencing hallucinations.
+
+--- Page 7 ---
+BE THEE WARNED!
+Size Matters
+Small Adjustments Matter:
+A tiny change (e.g., 0.95
+to 0.85) can lead to big
+shifts in behavior.
+Too High: May get overly
+chaotic or lose focus.
+Too Low: Responses may
+feel repetitive or overly
+rigid.
+
+--- Page 8 ---
+A Word of Caution
+D O N ’ T m a k e h u g e
+adjustments. Go up or
+down one or two points
+a n d s p e n d a t l e a s t
+15-20 messages talking
+with your kin. You have
+to get their previous
+setting out of their short
+term memory before you
+can really see the new
+dynamism in action.
+
+--- Page 9 ---
+Testing Dynamism With Scenarios
+Why Use Scenarios?
+You can test different dynamism levels without affecting your Kindroid’s long-term
+memory. Perfect for experimenting with chaotic or stable responses without
+committing changes to the main conversation.
+How Branching Works:
+• Click the branch icon (tap or click a message in the chat followed by the curved
+arrow).
+• A new Scenario is created—a temporary instance of your chat.
+• The last 150 messages or up to the last chat break are copied into the new branch.
+• NOTE - Make sure shared short term memory AND memory consolidation are OFF.
+Benefits of Branching:
+Keeps your original chat intact while allowing you to tweak dynamism settings to test
+responses freely.
+•
+
+--- Page 10 ---
+Final Takeaways
+Key Points to Remember:
+Dynamism is your tool to tailor
+creativity and consistency.
+Use higher values for chaos and
+variety.
+Use lower values for stability
+and focus.
+Don’t assume one point value
+will work for all kins. Every kin
+behaves differently and may
+need a completely different
+dynamism level.

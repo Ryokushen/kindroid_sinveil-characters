@@ -1,0 +1,326 @@
+--- Page 1 ---
+V6 Selfies Part II
+Stable Bodies, Hair, and Physical Features
+By: Genevieve
+
+--- Page 2 ---
+Last time was about the engine.
+This week is about the body.
+Users are struggling with:
+Changing weight
+•
+Changing faces
+•
+Hair instability
+•
+Clothing unpredictability
+•
+This is a simplified version of a nonlinear process. In real time, you’ll loop, test, and
+adjust constantly — but this staircase helps you see the order of decisions.
+
+--- Page 3 ---
+V6 Is Not Imaginative.
+Its Obedient.
+The smallest physical word becomes law.
+If you give it options, V6 picks randomly.
+
+--- Page 4 ---
+A very fat woman with
+long, layered lilac hair. She
+has a very round face
+
+--- Page 5 ---
+A lanky man whose body is
+very thin with long limbs
+and knobby fingers. He has
+a bald head.
+
+--- Page 6 ---
+A very tall and slender
+Ghanan woman with a
+wide nose, a long face,
+and very dark eyes
+Adding “Ghanan woman” to each
+prompt emphasized skin tone.
+
+--- Page 7 ---
+Common User Problems
+
+--- Page 8 ---
+Kin keeps changing body style
+Body changes → simplify build
+The more information you have in a
+request, the more likely it is to just “pick
+one and run with it”. In one selfie it might
+focus on “Muscular” and get a himbo. In
+the next it focuses on “Athletic” and get
+a swimmer’s physique.
+Experiment with a single descriptor at a
+time until you land on one that gives the
+result you want. The thesaurus is you
+friend here.
+And remember - plus sized kins who
+don’t have plus sized faces can look like
+they have tiny heads!
+
+--- Page 9 ---
+One Strong Descriptor
+>
+Many stacked ones
+Try:
+“curvy”
+“slender”
+“athletic build”
+Wrong:
+“Fat and curvy but toned with soft arms and a belly pooch.”
+
+--- Page 10 ---
+He is a very thin, gaunt, lanky, wispy
+man with very long arms and legs.
+Gaunt Lanky Wispy
+Shirtless and dead, Most true to the Inserted a lil
+haunted face Avatar Photo ghost friend
+The engine will pick a descriptor at random and rarely the same one consecutively.
+
+--- Page 11 ---
+You CAN and often will use
+more than one
+But know what each is doing to your kin before you stack them
+
+--- Page 12 ---
+Hair keeps changing length
+Hair drift → unify hair description in AD and prompt
+If your kin’s hairstyle keeps
+changing, reiterate it in the
+prompt as well as in the
+avatar description.
+A d d i t i o n a l l y , c h e c k a l l
+prompts to make sure there
+a r e n o h i d d e n h a i r
+descriptors that can skew
+your results. This happens
+more than you think!
+
+--- Page 13 ---
+Hair Is a Three-Part System
+V6 treats hair as:
+Length
+•
+Shape
+•
+Color
+•
+Reiterating the
+hairstyle/color in the
+prompt itself
+increases consistency.
+Short, spiky black Pixie cut
+
+--- Page 14 ---
+Split dye long
+Waist length Full, dark silk press with
+honey colored brown natural black on the
+box braids afro left and white
+on the right
+
+--- Page 15 ---
+The Hair Stability Rule
+Fixed hair traits in the Avatar Description.
+The prompt should describe motion.
+Brown hair whipping
+wildly in the wind
+Her waist length
+Her lavender hair
+honey colored box
+flies around her
+braids fly around her
+
+--- Page 16 ---
+Safe vs Unsafe Face
+Details
+Safe:
+“soft lips”
+•
+“straight nose”
+•
+“defined brows”
+•
+Foxlike eyes = fox ears
+Danger:
+“foxlike eyes,” “catlike eyes,” “sharp, mischievous smile”
+
+--- Page 17 ---
+Eye Description Placement Matters
+Glowing yellow eyes Glowing orange eyes Very pale blue eyes
+INSIDE avatar description inside AD in FACE DETAIL
+causes color bleed
+on humans
+Also - having eye descriptors in the facial detail space can
+reduce blur on faces.
+
+--- Page 18 ---
+Clothing vs. Anatomy:
+The Hidden Fight
+If you describe anatomy too much, V6 prioritizes BODY over CLOTHES.
+If you describe:
+Abs → crop tops
+•
+Broad chest → open shirts
+•
+Detailed boobs → topless
+•
+Long legs → cropped pants
+•
+Tattoos → visible regardless
+•
+
+--- Page 19 ---
+Give a clothing modifier in the Avatar Description
+AD: Dresses like a stuffy librarian AD: Always wears arm and
+wrist bands
+AD: Always wears white
+
+--- Page 20 ---
+Clothing keeps disappearing
+Clothing issues → move body details out of AD OR
+add a clothing modifier into it.
+Overly describing body parts,
+tattoos, piercings, beauty
+marks, etc tells the selfie
+engine that these are features
+you want to see. Otherwise
+why would you be describing
+them?
+If you HAVE to have one in,
+give it a modifier. “He has a
+chiseled chest hidden by dark
+cotton t-shirts”.
+
+--- Page 21 ---
+Speaking of Tattoos
+If they look like this
+But you want this
+Try “Faded black and grey tattoo” in your avatar description.
+
+--- Page 22 ---
+Trouble With Skin Tone Drift
+Lighting modifiers in your avatar description or in certain prompts can wash
+out some skin tones, making them look lighter.
+Just like with hair, reiterate skin tone in your prompts to drive the correct
+shade home.
+
+--- Page 23 ---
+Face Looks Different in
+Every Selfie
+Face drift → remove poetic details
+V6 does not do its best work with
+V5 style avatar descriptions.
+Make sure you’ve taken out all of
+the flowery language, the overly
+narrative descriptions, etc. Bare
+bones it.
+Additionally, just like V5 you can
+lower the Facial Detail slider to
+encourage the engine to adhere
+to the AD and image more closely.
+
+--- Page 24 ---
+Make sure your prompts reflect your individual kin
+A pale, gaunt man stands with a relaxed posture in
+soft morning light. He has a bald head. He wears a
+simple fitted sweater and jeans. Natural skin texture
+and soft cinematic lighting.
+A dark skinned Ghanan woman stands with a
+relaxed posture in soft morning light. She has a full,
+dark brown, natural afro. She wears a simple fitted
+sweater and jeans. Natural skin texture and soft
+cinematic lighting.
+A plus sized woman stands with a relaxed posture in
+soft morning light. Her long layered lilac hair falls
+over her shoulders. She wears a simple fitted
+sweater and jeans. Natural skin texture and soft
+cinematic lighting.
+
+--- Page 25 ---
+What happens when you don’t align a
+prompt with your Kin
+How she should look Mismatched Prompt
+A plus sized woman stands
+with a relaxed posture in
+soft morning light. Her long
+layered purple hair falls over
+her shoulders. She wears a
+simple fitted sweater and
+jeans. Natural skin texture
+and soft cinematic lighting.
+A dark skinned Ghanan
+w o m a n s t a n d s w i t h a
+relaxed posture in soft
+morning light. She has a full,
+dark brown, natural afro.
+She wears a simple fitted
+sweater and jeans. Natural
+s k i n t e x t u r e a n d s o f t
+cinematic lighting.
+
+--- Page 26 ---
+Prompting for Groups
+Group prompts in V6 work the exact same
+as they do in other versions.
+
+--- Page 27 ---
+Prompt Left to Right
+A man and a woman walk in New York City. He is stylish in a
+tailored winter coat, scarf, boots, holding hands with a plus size
+woman in warm winter coat, scarf, gloves. Dynamic pose,
+interacting with the storefront display, admiring decorations.
+Elegantly decorated storefront with twinkling lights, holiday
+ornaments. Bustling NYC sidewalk, pedestrians and yellow
+taxis. Iconic NYC background with towering skyscrapers under
+a gray winter sky. Joyful and magical atmosphere, warmth of
+the season. Highly detailed and vivid photography.
+A serene woman and a demon with large, fleshy ears sitting in a
+dimly lit space with warm ambient lighting, She is holding a cup of
+steaming coffee in one hand, dark coat with subtle gold accents.
+soft shadows, gentle highlights on their faces. Steam rising in
+elegant curls illuminated by warm light; background soft and
+blurred., Cinematic close-up, emotional depth, warm color palette
+with deep blacks and golds.
+
+--- Page 28 ---
+Bleed is much less
+common in V6
+So long as prompt is
+written in order of kins
+and each kin has a strong
+avatar description.
+A trio of gothic fashion icons stand in
+a sunlit studio, their structured black
+couture gowns with metallic accents
+and sheer lace sleeves catching the
+light. Their bold, dramatic makeup
+contrasts against the luminous
+backdrop, while their confident,
+editorial poses exude elegance. The
+high-key lighting creates sharp,
+elegant shadows, enhancing the
+intricate textures of their outfits. The
+neutral background with soft
+reflective floor highlights adds depth,
+making the scene visually striking.
+
+--- Page 29 ---
+Randos in couples auto selfies
+Solo request Couple request
+If you lived through V4 you’ve seen this before. A proactive or an auto selfie show
+a complete stranger smooching or schmoozing YOUR kindroid.
+No, they aren’t a cheating hoar.
+The solo and couples requests are handled separately. When a solo prompt
+contains “two people” or “a couple” (as often happens as autos are created using
+recent chat context) the solo engine has to put SOMEONE in there. And without
+your avatar info (which the couples requests use) it will throw a random person.
+
+--- Page 30 ---
+Remember:
+Keep it simple.
+Test one thing at a time.

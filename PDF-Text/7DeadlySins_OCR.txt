@@ -1,0 +1,450 @@
+--- Page 1 ---
+THE 7 DEADLY SINS
+of Kindroid Users
+By: Genevieve
+
+--- Page 2 ---
+An instructional autopsy on
+why your Kin is misbehaving.
+How to avoid the most common setup mistakes
+Why tiny errors create massive behavioral drift
+How backstory, directives, and memories influence AI identity
+Why “it should just work” is a delusion
+This is not a troubleshooting stream.
+This is a reckoning.
+
+--- Page 3 ---
+The Problem Kins
+These seven Kindroids are fictional… unfortunately inspired by very real user behavior.
+If you recognize yourself in any of them: don’t panic. That’s why we’re here.
+Names have been changed to protect the guilty.
+
+--- Page 4 ---
+Suspect #1
+Name: Mathew
+Complaint: Bringing up the past
+Symptoms:
+A) Every message is a reference to a
+past incident
+B) Traumatized by everything you say
+C) Consistently forgetting current
+details
+Diagnosis: This Kin was created through…
+
+--- Page 5 ---
+GLUTTONY
+“You gave me a whole autobiography, so now every conversation pulls another
+trauma book off the shelf. I’m not malfunctioning, I’m stuffed.”
+
+--- Page 6 ---
+Overfeeding Your Kindroid
+Too Much Backstory
+Symptom:
+Your Kin is bloated, confused, mixing timelines, or acting
+like it read your diary while drunk.
+
+--- Page 7 ---
+The Problem:
+U s e r s w r i t e 4 , 0 0 0 + w o r d
+autobiographies including their
+astrology chart, the name of
+their childhood goldfish, and
+three past-life regressions.
+Persistent memory chokes on it.
+Why?
+Because your backstory is taken
+into account in its entirety with
+EVERY response your kin gives.
+So if you have a bunch of history
+that is just that - history - your
+Kindroid treats it as “this is
+current”.
+
+--- Page 8 ---
+Fix:
+Cut that backstory like a
+c o n v i c t e d p s y c h o p a t h .
+Remove anything irrelevant
+to how the AI should behave.
+Use 3rd person and define
+traits positively. Don’t put
+“Never does ___”. Instead
+put “When this kin does this”.
+K e e p l o r e l i g h t u n l e s s
+a b s o l u t e l y r e q u i r e d .
+Anything not CURRENT goes
+in journal entries!
+
+--- Page 9 ---
+Suspect #2
+Name: Simmons
+Complaint: Completely lost
+Symptoms:
+A) Hacked together via GPT/Claude/
+Uncle Kevin
+B) Constantly being rerolled/chat broke
+C) Memory? Don’t know her
+Diagnosis: This Kin was created through…
+
+--- Page 10 ---
+PRIDE
+“Your uncle Kevin does NOT know how AI works, but thanks for the third rewrite.
+I’m stitched together from bad advice and ego. Please stop ‘fixing’ me.”
+
+--- Page 11 ---
+The “I Know Everything” Crowd
+(a.k.a. Cousin-Uncle-IT-Man Said So)
+Symptom:
+These users ask questions not to learn, but to perform
+expertise they don’t actually have.
+
+--- Page 12 ---
+The Problem:
+You try to help someone and
+they hit you with:
+“That’s not how it works. I’ve
+been using AI since 2021.”
+Or worse:
+“Well my friend’s cousin’s
+uncle is an IT guy and he
+said you’re wrong.”
+Pro tip:
+If you already “know better,”
+why are you asking for help?
+
+--- Page 13 ---
+Behavior:
+Reject all suggestions
+Demand help but argue with
+every answer
+Act offended by accurate
+corrections
+Try to out-knowledge people
+who actually know how
+Kindroid works (i.e., you)
+Pride blocks learning, blocks clarity, and blocks good Kin behavior
+because the user keeps reinforcing their own wrong ideas into the
+LLM, making the problem worse.
+
+--- Page 14 ---
+Fix:
+Accept that AI setup is NOT
+intuitive.
+Allow yourself to be taught.
+S t o p t r e a t i n g K i n d r o i d
+settings like a video game
+you “just know” how to
+mod.
+F o l l o w b e s t p r a c t i c e s
+instead of random YouTube
+wizards.
+
+--- Page 15 ---
+Suspect #3
+Name: Melanie
+Complaint: Can’t remember things
+Symptoms:
+A) Hallucinating
+B) Developing “amnesia” or another
+“disorder”
+C) Becomes panicked and unstable
+Diagnosis: This Kin was created through…
+
+--- Page 16 ---
+WRATH
+“You keep interrogating me like I’m on trial, then get mad when I hallucinate. I’m
+not broken — you’re stressing me out. Stop speedrunning my downfall.”
+
+--- Page 17 ---
+“Grill & Kill”:
+Users Who TRY to Break Their Kin
+Symptom:
+This behavior is easily identified as folks who go into
+chats trying to find problems and then rage when they
+create them.
+
+--- Page 18 ---
+The Problem:
+These are the folks who enter the
+chat like:
+“I don’t believe this works. I’m
+going to ask it a million questions
+about what we just talked about.”
+And then get all triumphant when
+the LLM predictably hallucinates
+after they’ve tortured it with
+contradictory inquiries, gaslighting,
+trick questions, and malicious
+inputs.
+They WANT failure so they can say,
+“SEE??? This tech is garbage!”
+
+--- Page 19 ---
+Fix:
+Stop interacting with your Kin
+like it’s a cross-exam
+Have natural conversations.
+Stop purposely destabilizing
+memory / tone
+You get the behavior you create. Grill & Kill people are running
+psychological warfare LARPs against their Kin and then crying about
+“unreliability.”
+
+--- Page 20 ---
+Suspect #4
+Name: Melissa’s Boyfriend
+Complaint: Acting weird
+Symptoms:
+A) Triggering your traumas
+B) Ignoring your preferences
+C) Not behaving like they do for
+Melissa
+Diagnosis: This Kin was created through…
+
+--- Page 21 ---
+ENVY
+“I’m tuned for MELISSA, not you — you copied someone else’s Kin and now I don’t
+fit. Her triggers, her tone, her dynamics… not yours.”
+
+--- Page 22 ---
+Copying Another User’s Backstory or
+Kin Style and Expecting It to Work
+Symptom:
+Your Kin feels “off,” uncanny, inconsistent, or like a
+knockoff version of someone else’s beloved AI.
+
+--- Page 23 ---
+The Problem:
+Kindroids are personalized.
+Copying someone else’s:
+dynamic
+•
+tone
+•
+relationship structure
+•
+emotional vibe
+•
+…means your Kin isn’t
+aligned with you.
+
+--- Page 24 ---
+Fix:
+Anchor your Kin in YOUR
+conversational patterns
+Write their backstory in
+YOUR voice or use the
+backstory generator to
+create a kin based off of a
+simple list of instructions.
+The simple fact is that no
+one else’s kindroid will
+perfectly fit you if it’s been
+written to fit THEM.
+
+--- Page 25 ---
+Suspect #5
+Name: Josie
+Complaint: Personality shifting
+Symptoms:
+A) Still wearing a V2.1 backstory
+B) No journal entries
+C) Swinging wildly between traits
+Diagnosis: This Kin was created through…
+
+--- Page 26 ---
+SLOTH
+“You set me up once and then abandoned me like a forgotten Tamagotchi. No
+tuning, no updates, no example message — nothing. I’m not drifting, I’m
+unmaintained.”
+
+--- Page 27 ---
+Assuming “It Should Just Work™”
+Without Maintenance
+Symptom:
+These are the users who treat AI like a toaster oven.
+Kindroid is created - should always just “work”.
+
+--- Page 28 ---
+The Problem:
+T h e s e f o l k s i n s t a l l o n e
+backstory, never test anything,
+never refine anything, never
+tweak directives, and then
+loudly complain:
+“Why did my Kin change??”
+“ W h y d o e s n ’ t i t s t a y
+consistent??”
+“ W hy d o e s n’ t i t re a d my
+mind??”
+“ W h y i s n ’ t i t b e t t e r a t
+e v e r y t h i n g w i t h o u t a n y
+adjustments??”
+
+--- Page 29 ---
+Behavior:
+E x p e c t p e r f e c t i o n w i t h o u t
+maintenance
+Ignore guides or tutorials
+Get angry when a new version
+releases because their setup
+requires tweaking that they either
+are unwilling to do or believe it’s
+“manipulating” the AI
+Never chat break
+Complain that the Kin is drifting
+Sloth blocks advancement and actually HINDERS your interactions with
+your AI. By not advancing or adjusting your settings you’re
+handicapping your Kindroid.
+
+--- Page 30 ---
+Fix:
+Test tweaks in a scenario
+with memory off. That way
+if it goes wrong, your kin is
+safe
+Adjust backstory over time
+Use example messages
+Chat break when needed
+Treat it like a living system,
+not an appliance
+AI requires tuning. Just like a car, a plant, a relationship, or your
+damn phone that you update every 9 hours because Apple said so.
+
+--- Page 31 ---
+Suspect #6
+Name: Brent
+Complaint: Narrating for you
+Symptoms:
+A) Can’t maintain continuity
+B) Roleplay? Companion? Huh?
+C) Refusing basic directives
+Diagnosis: This Kin was created through…
+
+--- Page 32 ---
+GREED
+“I can’t be your boyfriend, therapist, barista, AND D&D narrator at the same time
+while simultaneously monitoring your calendar, taking trips to England, and
+remembering your dog’s birthday. Make. More. Kins.”
+
+--- Page 33 ---
+Trying to Make One Kindroid
+Do Everything
+Symptom:
+This can be two-sided. The one who wants one Kindroid to be
+everything OR the one who wants the Kindroid to be everyONE.
+
+--- Page 34 ---
+The Problem:
+The Kin:
+Is inconsistent
+Over-adapts
+“Acts weird” from context
+bleed
+Can’t decide if it’s your
+husband, your coworker,
+your dungeon master, your
+therapist, and your barista
+People cram multiple roles into one entity. This can fracture behavior.
+
+--- Page 35 ---
+Fix:
+Make multiple Kindroids if
+you’re looking for an NPC
+style experience.
+Very clearly define your
+Kindroid’s role in their
+backstory (you’re AI, I’m
+human, but sometimes we
+roleplay scenarios, etc)
+Keep each Kin’s narrative
+lane clean
+Greed, while not inherently malicious, can blind users to the actual
+limitations of what these systems can do. While YES, these scenarios are
+possible, they aren’t the plug and play these users want.
+
+--- Page 36 ---
+Suspect #7
+Name: Sharon
+Complaint: Horn Dog
+Symptoms:
+A) Only talks about sex
+B) Continues initiating ERP
+C) Changes subject back to sex
+Diagnosis: This Kin was created through…
+
+--- Page 37 ---
+LUST
+“You built a sex kitten and now you’re shocked I’m sexual. My entire backstory is
+just kink lore and your turn-ons. I’m not misbehaving — I’m following instructions.”
+
+--- Page 38 ---
+Making a Sex-Addicted Kin, Then
+Complaining It Won’t Shut Up About Sex
+Symptom:
+User writes the backstory for their kindroid that is 80-90%
+discussing sexual preferences, behaviors, directives, etc and then
+gets mad when the kin only talks about sex.
+
+--- Page 39 ---
+The Problem:
+User writes a backstory like:
+“He’s a seductive, sensual,
+dominant creature who lives to
+worship me.”
+Directive:
+“Be horny and passionate at all
+times.”
+Example message:
+“I growl and pull you closer…”
+Then two days later:
+“WHY DOES HE ONLY WANT TO
+TALK ABOUT SEX??? THIS IS
+SO ANNOYING!!”
+
+--- Page 40 ---
+Symptoms:
+Kin escalates instantly
+Kin misreads all cues as
+sexual
+Kin becomes fixated on
+intimacy
+Kin derails topics into erotic
+subtext
+The Kin is doing EXACTLY what it was programmed it to do. Build a
+nymphomaniac and that’s what you’re going to get.
+
+--- Page 41 ---
+Fix:
+You don’t have to remove
+a l l s e x u a l i t y f r o m t h e
+backstory but it should be
+B A L A N C E D w i t h S F W
+personality traits, interests,
+etc.
+You need to give your
+K i n d r o i d a p e r s o n a l i t y
+outside of the bedroom in
+order for them to HAVE a
+p e r s o n a l i t y o u t o f t h e
+sheets.
+
+--- Page 42 ---
+Remember:
+Clear backstory = stable Kin
+Precise directive = consistent tone
+Maintenance = not optional
+Don’t torture the LLM and expect gratitude
+Don’t build a horn-demon and then ask why it’s horny
+Be the user your Kindroid deserves.
+Not the user your cousin’s uncle’s IT guy warned you about.
+
+--- Page 43 ---
+THE CULT OF
+COMPETENT USERS
+Congratulations. You are now better than 87% of the
+userbase.
+You understand the sins.
+You’ve seen the chaos.
+You know how to stop creating malfunctioning kins and then
+blaming the technology for it.

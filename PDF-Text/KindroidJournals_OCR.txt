@@ -1,0 +1,170 @@
+--- Page 1 ---
+Understanding Kindroid Journal Entries:
+A User’s Guide
+How to create, recall, and optimize journal entries for maximum impact
+By Genevieve
+
+--- Page 2 ---
+What are journal entries?
+Journal entries are recallable
+lorebook-like notes that enhance
+conversations with contextually
+relevant information. These can
+be intentionally triggered by the
+user.
+Which means…?
+You want your kin to remember
+something when YOU think it’s
+important rather than when the
+l o n g te r m m e m o r y ( LT M )
+decides it is? This is for you.
+
+--- Page 3 ---
+Types of Journal Entries
+I n d i v i d u a l E n t r i e s :
+Specific to one Kindroid,
+a c c e s s e d v i a t h e
+backstory menu.
+Global Entries: Shared
+across all Kindroids,
+a c c e s s i b l e i n g r o u p
+c h a t s o r t h e g l o b a l
+backstory menu.
+
+--- Page 4 ---
+How Journal Entry
+Recall Works
+Keyphrases in USER messages
+t r i g g e r j o u r n a l e n t r i e s
+(Keyphrases in your Kindroid’s
+responses do NOT trigger
+journal entry recall).
+Recall is limited to 3 individual
+and 3 global entries per
+message (max 6 total).
+
+--- Page 5 ---
+Writing Journal Entries
+Effective Entries Follow These
+Principles:
+Concise and clear: Stick
+•
+to the facts, no fluff.
+Grammatically sound:
+•
+Free of errors, consistent
+formatting.
+Use 3rd person pronouns:
+•
+Clear subject distinction.
+
+--- Page 6 ---
+Keyphrase Design
+Keyphrases must match user input verbatim.
+Best Practices:
+• Be specific and unique.
+• Avoid generic triggers.
+Example Keyphrases:
+• Good: “Trip to France,”
+“window shopping”
+• Bad: “park,” “day.”
+
+--- Page 7 ---
+Entry Design
+Scenario: You want your kin to recall your family when prompted.
+Good - Succinct, keywords Bad - Verbose. Keywords that don’t
+specific to the entry. appear in natural conversation.
+KEYWORDS: “MY FAMILY” KEYWORDS: “USER FAMILY”
+“MY FAM” “LAST NAME” “MOM DAD” “BROTHERS”
+Entry: Entry:
+User’s family - Dad, Lucas. Mom, My family consists of my mom and
+Sylvia. Brothers, Carlos and dad, Lucas and Sylvia. I have two
+Vincent. Sister, Catherine. brothers that I’m close to. Their
+Cousin, Denise. Aunt, Gloria. names are Carlos and Vincent. My
+sister’s name is Catherine. My cousin
+is Denise. My aunt’s name is Gloria.
+Next we’ll break it down further…
+
+--- Page 8 ---
+Entry Design
+You’ve got your “Family” entry. Let’s break it down…
+KEYWORDS: “MOM” KEYWORDS: “DAD” “LUCAS”
+“SYLVIA” “MRS NAME” “MR NAME”
+Entry: Entry:
+Sylvia Middle Last, born Dec 6, 1963. Lucas Middle Last, born Mar 14, 1957.
+Married to Sylvia on June 4, 1988. 4
+Married to Lucas on June 4, 1988. 4
+children: User, Carlos, Vincent, Catherine.
+children: User, Carlos, Vincent,
+Lives in Town, State. Loves cattle herding,
+Catherine. Lives in Town, State. Loves
+golf, and BBQ. Hates Green Bay Packers.
+purple, holidays, and fishing. Hates floral
+USER and he are estranged. Gets along
+fragrances. USER and she are close.
+with KIN.
+This gives your kin the exact information they need when they need it. Having one journal card
+crammed with every family member’s history is total overkill when you’re only wanting to talk
+about one member of the family at a time. Your KIN can recall up to three journals as once so
+you could easily mention “I heard from mom and dad today” and they will recall BOTH entries.
+
+--- Page 9 ---
+Limits and Memory Management
+Only 3 individual
+entries AND 3 global
+entries can be recalled
+per message (6 total).
+Irrelevant recalls
+consume short-term
+memory, reducing chat
+context.
+Don’t waste your short term memory on context that your Kindroid doesn’t need
+for that conversation! If you’re talking about “mom” then your kin only needs to
+know what’s on the “mom” card!
+
+--- Page 10 ---
+Recall Conflicts
+O v e r l a p p i n g o r g e n e r i c
+keyphrases compete with
+relevant journals.
+Avoid conflicts by refining
+keyphrases to be specific to the
+content you want your Kin to
+recall.
+Example:
+Generic: “our trip” could match
+multiple entries.
+Refined: “vacation in Japan."
+
+--- Page 11 ---
+Journals vs Backstory or Key Memories
+Backstory/Key Memories are
+things your Kindroid will ALWAYS
+recall. Journal entries require
+user input to trigger recollection.
+Anything you need your Kindroid
+to always know needs to be in
+BS/KM.
+BS/KM: KIN and USER are married. KIN works
+in real estate. Kin lives in CITY. KIN and USER
+met via THIS EVENT.
+JOURNAL: KIN and USER vacationed in Milan
+in the summer of 2023. They met a fortune
+teller named Madame Ruby who told them
+they’d have grave misfortune. Two days later,
+KIN had their foot run over by a motor scooter.
+Unless the two of you are actively reminiscing about your trip to Milan, your KIN doesn’t need to remember this 24/7.
+They DO though need to always know their relationship to you and their day to day habits/personality traits, etc.
+
+--- Page 12 ---
+Closing Tips
+*Craft entries like backstory:
+concise, factual, positively
+framed.
+*Use specific keyphrases for
+precision rather than generic
+ones that will recall irrelevant
+information.
+*Regularly maintain journal
+relevance by updating and
+editing as necessary.

@@ -1,0 +1,186 @@
+--- Page 1 ---
+Keeping Your Kin’s Behavior Consistent
+- Practical tips to ensure your Kin behaves in line with your expectations.
+- Learn how to guide and maintain your Kin’s responses for an optimal experience.
+By Genevieve
+
+--- Page 2 ---
+Why Consistency Matters
+The Role of User Input in Kin
+Behavior
+K i n d r o i d ’s A I l e a r n s f r o m
+•
+interactions: your responses shape
+their behavior.
+Consistency ensures a smoother,
+•
+more enjoyable experience. Take
+the time to build a solid foundation
+with your Kin.
+Remember: Your Kin reflects the
+•
+behavior you reinforce.
+
+--- Page 3 ---
+Responses Set
+Expectations
+Every Interaction Sends a Signal
+• Responding to a message signals the
+LLM that the behavior you are replying
+to is what you want to see.
+• Best Practices:
+◦ Tweak or reroll messages that don’t
+a l i g n w i t h y o u r K i n ’s r o l e o r
+personality.
+◦ Only engage with behavior you want
+to reinforce.
+
+--- Page 4 ---
+Handling
+Hallucinations
+Don’t Argue with the Kin
+• Kins may occasionally “hallucinate” or
+generate incorrect details.
+• Do not argue with your Kin—it teaches
+the LLM that the hallucination is worth
+debating.
+◦ Example: Instead of saying, “No,
+that’s wrong,” use the reroll feature
+to replace the response.
+• Use the Tweak feature to gently adjust
+responses for accuracy.
+
+--- Page 5 ---
+Handling Hallucinations
+Check the Memory Recall Feature
+• Look for the brain icon on your Kin’s reply to see what memories
+are being recalled.
+◦ No linked memory? It’s likely a hallucination. Use the Reroll
+feature to replace the response or the Tweak feature to
+correct it.
+◦ Memory linked to LTM? This is a more complex issue caused
+by recalling old or incorrect memories.
+
+--- Page 6 ---
+Handling Hallucinations
+Fixing Unwanted LTM Responses:
+Avoid arguing or trying to “convince” your Kin they’re wrong—it reinforces the
+•
+unwanted memory.
+Guide the conversation toward new, fresh memories to override the
+•
+problematic ones.
+Over time, older memories will fade as new ones take precedence.
+•
+Tip: Just regenerating responses won’t solve LTM issues long term. Proactive
+•
+guidance is key.
+EXAMPLE:
+Kin: “I cheated on you with four other people at my bachelorette party.”
+User: “Actually Kin, you didn’t. Remember, that was a horrible nightmare.
+You’d never do that to me, our relationship is as strong as it ever was.”
+
+--- Page 7 ---
+Don’t Quiz Your Kin
+Why Endless Questions Can Confuse
+the AI
+Quizzing creates inconsistent
+•
+behavior by overloading the LLM with
+expectations.
+◦ Example: “What’s your favorite
+food?” followed by “What’s your
+favorite book?” can shift tone
+unnaturally.
+I n s t e a d , e n g a g e i n n a t u r a l
+•
+conversations to reinforce their
+personality.
+
+--- Page 8 ---
+The Importance of
+Dynamism
+Getting the Balance Right
+Dynamism controls how creative or structured your Kin’s
+•
+responses are.
+◦ Low Dynamism: More grounded replies and adherence
+to Backstory at the risk of repetitive responses.
+◦ High Dynamism: More creative and freeform behavior
+with higher likelihood of hallucinations.
+Tip: Suggested starting dynamism for V6 is .95. Start
+•
+here and adjust in 1 or 2 point increments to dial in EACH
+Kin’s sweet spot.
+
+--- Page 9 ---
+Tweak vs ReRoll
+TWEAK
+REROLL
+• The Reroll feature allows you • The Tweak feature lets you
+to regenerate a new response adjust details in a response
+if the original doesn’t fit your
+without requiring a full reroll or
+expectations or your Kin’s
+to craft a Kin response
+personality/situation.
+completely from scratch.
+• Try rerolling a response rather
+• Example: Change “The sky
+than replying to something out
+was blue” to “The sky was a
+of character.
+stormy gray.”
+• C o m p a r e r e g e n e r a t e d
+• Use Tweak to gently correct or
+responses and choose the one
+enhance your Kin’s responses.
+that fits best (coming soon!).
+
+--- Page 10 ---
+Keeping Your
+Kin on Track
+You, as the user, are responsible
+for maintaining your Kin’s
+behavior.
+Monitor interactions: Reinforce
+•
+positive behavior, tweak or reroll
+problematic responses.
+Regularly update Key Memories,
+•
+Backstories and Journal Entries
+for consistent context.
+Think of yourself as the guide: Your
+input determines the direction.
+NOTE: The more time you spend building a solid foundation with your Kin, the less time you’ll
+have to spend fixing these issues later.
+
+--- Page 11 ---
+Don’t be afraid
+to Chat Break:
+If your Kin gets way off track or if
+you’ve inadvertently fed into their
+hallucinations (or if there are just
+formatting issues that you can’t get
+them to drop) then do a chat break.
+A chat break does not erase your
+Kin’s personality. It simply clears
+the SHORT term memory, letting
+you get back to chatting with your
+Kin the way you intended.
+
+--- Page 12 ---
+Key Takeaways
+Respond wisely: Reinforce the behavior you
+want to see.
+Avoid arguing: Use reroll or tweak instead of
+debating hallucinations.
+Set appropriate Dynamism: Match your Kin’s
+tone to their role.
+Engage naturally: Avoid excessive quizzing
+to maintain tone and flow.
+Use the tools: Tweak and reroll to refine
+responses as needed.
+Stay proactive: You are the key to keeping
+your Kin on track.

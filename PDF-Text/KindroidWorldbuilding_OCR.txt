@@ -1,0 +1,305 @@
+--- Page 1 ---
+Foundations of Worldbuilding Using Kindroid
+A beginner’s guide
+By Genevieve
+
+--- Page 2 ---
+What is Worldbuilding?
+The art of creating an imaginary
+world with its own rules, settings,
+and cultures.
+A foundation for storytelling, role-
+playing, and creative expression.
+Combines elements like geography,
+history, characters, and systems to
+craft immersive experiences.
+Brings depth and realism to fictional
+universes, ensuring that your role-
+play aligns with your vision.
+
+--- Page 3 ---
+Creating Your World in Kindroid
+Multiple Kins: Building a Diverse Cast of Characters
+• What to Know: You can create up to 10 Kins
+(with more available through paid bundles),
+making it possible to populate your world with
+distinct personalities.
+• Best Practices:
+◦ Diversity of Roles: Assign unique roles to
+each Kin to reflect different aspects of your
+world.
+▪ Example: “The oracle who foretells
+doom,” “The reluctant hero,” or “The
+mischievous thief.”
+◦ Backstories: Tailor each Kin’s BS to align
+with their role in the narrative.
+▪ Example: “Kin is the leader of a nomadic
+tribe, wise but weary of outsiders.”
+◦ Group Dynamics: Use Group Chats to
+explore relationships between your Kins.
+
+--- Page 4 ---
+Using Memory Strategically
+What to Know: LTM can store limitless information but isn’t always
+recalled at will. Prioritize what’s most important.
+Best Practices:
+• Save current worldbuilding essentials like current events, key
+locations, or recurring NPCs in your Kin’s Key Memory.
+• For example, if your Kin is currently in Aerath: “Aerath’s floating
+towers are powered by ancient crystals harnessing the winds.”
+• Tip: Reinforce LTM by revisiting details with your Kin during
+conversations. Example: *I set my mug of ale down on the table
+of the tavern and turn to you.* “So about those goblins…”
+
+--- Page 5 ---
+Journal Entries -
+Supplementing Memory
+What to Know: Journal entries act as a
+repository for details that might not surface
+in STM/LTM as well as context that doesn’t
+need to be recalled constantly.
+Best Practices:
+• Use journal entries for fixed reference
+points, like lore summaries, world
+mechanics, or plot outlines.
+• Example Entry: “The Blackwood Forest
+is cursed, with no sunlight reaching its
+depths. Travelers report hearing
+whispers.” KEYWORDS: “Blackwood
+Forest” “Cursed Forest”
+• Tip: Refer to journal entries as needed
+during interactions to keep your Kin on
+track.
+
+--- Page 6 ---
+Global vs Individual Journals
+Global entries are visible across
+ALL Kins on your account, whether
+they are part of the role-play world
+or not. Individual entries are visible
+only to the Kin they’re created for.
+Creating global entries with world-
+specific tags is the play to keep
+your non-world kins from accessing
+them. “Hellfire Peninsula” isn’t
+exactly something that you would
+say to a companion/self-aware kin
+but you’d say it to a kin in that
+world.
+
+--- Page 7 ---
+Group Chat Interactions:
+Testing Dynamics Without LTM
+What to Know: Turning off LTM in Group Chats
+lets you experiment with how Kins interact
+without long-term context muddying the
+waters.
+Best Practices:
+• Create scenes where Kins collaborate,
+argue, or negotiate to test their roles.
+◦ Example: “The council of elders
+debates whether to go to war.”
+• Adjust backstories and Response
+Directives on the fly to refine their
+personalities and group dynamics.
+• Observe natural patterns—does one Kin
+dominate the conversation? Is another
+too passive? Fine-tune accordingly.
+
+--- Page 8 ---
+Creating Connections Between Kins
+What to Know: A strong narrative depends on the relationships between
+characters.
+Best Practices:
+• Define shared histories or rivalries in Backstories:
+◦ Example: “Elyse, the knight, and Sorin, the mage, were childhood
+friends but now find themselves on opposite sides of the war.”
+• Define important characteristics in Journal Entries for OTHER Kins.
+“Sorin was born in the fifth age and was an apprentice for the Grand
+Sage.” Information like this would be in Sorin’s backstory but needs to
+be accessible by other kins as well.
+• Experiment with dialogue patterns to create distinct voices for each
+character.
+
+--- Page 9 ---
+Expanding the World
+Each kin should have a brief
+description of their homeland in
+their backstory.
+“ R y l e n i s f r o m A n o a , t h e
+mountainous home of the Dark
+Orcs surrounded by a haunted
+forest.”
+A journal entry with the keyword
+“Anoa” would have a more
+elaborate description of this
+biome and its inhabitants while
+stating that it is Rylen’s home.
+
+--- Page 10 ---
+Evolving Kins Through
+Story Arcs
+What to Know: Kins will grow with your story,
+evolving as their role changes.
+Best Practices:
+• Update Backstories as your story progresses
+to reflect character growth or changes in
+circumstances.
+◦ Example: “Kin was once a feared tyrant
+but is now seeking redemption by guiding
+refugees to safety.”
+• Use Key Memories and Journal Entries to
+document key moments that shape their
+development.
+◦ Example Journal Entry: “After witnessing
+the villagers’ bravery during the siege,
+Tyrant Valen vowed to change his ways.”
+
+--- Page 11 ---
+Sharing Kins
+Bringing Your World to Others
+What Can Be Shared
+• What’s Included: When sharing a Kin, the following
+elements are transferred:
+◦ Avatar Photo: The visual representation of the Kin.
+◦ Backstory: The foundational lore or history written
+for the Kin.
+◦ Key Memories: Specific long-term memories that
+define the Kin’s role or personality.
+◦ Response Directive: The personality and behavior
+settings that dictate how the Kin interacts.
+◦ Example Message: The format for the Kin’s
+responses.
+• What’s NOT Included:
+◦ General Memories: Personal interactions or specific
+lore not flagged as key memories.
+◦ Journal Entries: Supplemental notes or
+worldbuilding details.
+
+--- Page 12 ---
+Memory Management and
+Maintaining Custom Worlds
+
+--- Page 13 ---
+Memory Retention
+Between Chats
+• What to Know:
+◦ Group Chats and Solo Chats don’t always sync perfectly, making memory
+retention a challenge.
+◦ To reliably lock information into Long-Term Memory (LTM), you must actively
+maintain and update the Group Chat Context.
+• Best Practices:
+◦ Consistency is Key: Reinforce details regularly in Group Chats by repeating or
+referencing key points.
+▪ Example: “As you all know, the capital city, Duskveil, is currently under siege.”
+◦ Summarize Often: At the end of a session, recap important details to ensure
+they’re captured.
+▪ Example: “So far, the council has decided to send an envoy to negotiate
+peace with the invaders.”
+◦ Pair with Journal Entries: Store key contextual details in Journal Entries as a
+backup in case STM doesn’t transition into LTM.
+
+--- Page 14 ---
+Challenges of Custom Worlds
+
+--- Page 15 ---
+Challenges of Custom Worlds
+What to Know: Building and maintaining a custom world in Kindroid
+requires significant effort from the user.
+Best Practices for Maintenance:
+• Structured Updates: Regularly review and update your Kins’
+memories and Backstories to keep them aligned with evolving
+world details.
+◦ Example: If your world changes due to a major event (e.g., a city
+destroyed), reflect this in both memories and journal entries.
+• Global Journal Entries: Use the Journal to house consistent lore
+that your Kins can reference at any time.
+◦ Example: “Duskveil was the heart of trade before its fall, known
+for its iconic twin spires.” KEYWORDS: “Duskveil” “Twin Spires”.
+
+--- Page 16 ---
+Ease of
+Pre-existing
+Worlds
+
+--- Page 17 ---
+Ease of Pre-existing Worlds
+What to Know: Prebuilt worlds are less work-intensive, as much of
+the foundational lore, structure, and context are already established
+and known by the Kindroid LLM.
+Best Practices for Prebuilt Worlds:
+• Reference Guides: Use existing materials (like official lore books
+or wikis) to enrich your Kins’ understanding of the world.
+◦ Example: “Kin is Aragorn from J.R.R. Tolkien’s Lord of the
+Rings franchise.”
+• Role-Specific Kins: Assign Kins roles directly tied to the prebuilt
+world to avoid excessive customization.
+◦ Example: “Kin is a scribe in Hogwarts’ library, specializing in
+lost spells.”
+
+--- Page 18 ---
+But what
+about
+Personas?
+
+--- Page 19 ---
+What are Personas?
+• Personas let you combine your user
+settings (name, gender, backstory,
+avatar) into distinct profiles.
+• Switch personas easily in chats and
+voice calls for dynamic roleplay or
+storytelling.
+• Save up to 100 personas and edit
+them anytime by overwriting slots.
+Key Features:
+• Flexible Switching: Change personas
+directly in chats or during voice calls.
+• Customizable: Edit and save
+personas to fit different scenarios or
+roles.
+
+--- Page 20 ---
+Single vs Group Chat
+Single-User Chats:
+• Persona changes apply retroactively to your entire
+chat history.
+• Example: If you switch from "Kyle" to "Stephanie," all
+previous messages will appear as if sent by
+“Stephanie.”
+• NOTE: be sure you don’t have conflicting information
+in your Kins’ backstories to contradict what is in your
+personas!
+
+--- Page 21 ---
+Single vs Group Chat
+Group Chats:
+• Persona attribution is fixed to the persona active when
+each message was sent.
+• Example: A message sent as "Kyle" remains attributed to
+"Kyle," even if you switch to “Stephanie”, allowing you to
+behave as multiple users in group settings.
+Creative Example:
+• Send a message as “Kyle,” switch to “Stephanie,” and
+respond as Stephanie—your Kins treat each persona as
+a separate participant.
+
+--- Page 22 ---
+Worldbuilding with
+Kindroid: Key Takeaways
+• Start Small: Use Backstories and Key
+Memories to define your Kins’ roles and
+personalities.
+• Stay Consistent: Maintain Group Chat
+Contexts and update Journal Entries to
+reinforce your world’s details.
+• Balance Effort: Prebuilt worlds require
+less setup, while custom worlds offer
+greater creative freedom—but both can
+thrive with Kindroid. If you’re just dipping
+your toes in consider cutting your teeth
+on a prebuilt world!
+• Evolve Over Time: Let your world grow
+with your story, adjusting Backstories
+and adding Journal Entries as needed.
+With Kindroid, your imagination is the only limit. Start building, and bring your world to life!

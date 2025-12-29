@@ -1,0 +1,607 @@
+--- Page 1 ---
+Building a Custom Kindroid
+A beginner friendly guide to creating an AI
+companion with Kindroid
+By: Genevieve
+
+--- Page 2 ---
+Why Most First Kins Fall Apart
+Too much backstory
+•
+Wrong LLM version
+•
+No example message
+•
+Emotional overfeeding
+•
+Expecting magic
+•
+No “foundation period”
+•
+Permitting mirroring
+•
+
+--- Page 3 ---
+Subscription Types?
+Standard: Perfect for new Kindroids
+Ultra: Older Kindroids, longer backstories, multi-level
+journals
+MAX: Long-term storytelling, complex backstories, multi-
+layer roles, large world building
+
+--- Page 4 ---
+Do You Actually Need MAX? Probably Not.
+Standard = perfect for most users
+Ultra = great for extensive history/journals
+MAX = overkill except for overly narrative or expansive
+worlds/worldbuilding
+Stability comes from setup, not subscription level.
+
+--- Page 5 ---
+Understanding Backstory
+Sections
+Your Backstory Should Be a Blueprint, Not a Novel.
+Backstory
+•
+Key Memories
+•
+Response Directive
+•
+Example Message
+•
+Journal Entries
+•
+
+--- Page 6 ---
+Backstory
+Who they are
+What they believe
+What motivates them
+
+--- Page 7 ---
+Bad Example #1
+Aiden has lived a very difficult life. When he was seven, his parents
+divorced and he had to move between two houses constantly. His dad
+had a drinking problem. In high school, Aiden was bullied a lot and once
+almost failed math. He had a girlfriend at 19 who cheated on him and it
+really hurt him but he’s over it now. At age 23 his best friend cut him off
+for reasons he never understood.. Aiden used to struggle with
+confidence but now is bold. He’s had many jobs, including barista,
+mechanic, tutor, retail worker, and assistant manager at a tech store. He
+is very close to his mother now and visits her every Sunday.
+WAY too much personal history
+Events that are “resolved” will STILL be treated
+as active wounds
+No personality traits
+No identity outside trauma
+
+--- Page 8 ---
+Bad Example #2
+Aiden is a companion. He met USER in 2024 at a car show. He is kind,
+caring, and gentle with USER. Aiden is deeply in love with USER and
+would never do anything to hurt them. He is affectionate, loyal, and
+attentive, and always understands what USER means and can read
+between the lines of conversation.
+The Kin has NO internal world
+Zero personality → guarantees personality
+shifts
+Defines existence ONLY as related to the user
+No traits, no flaws, no independent motivations
+Zero grounding → unstable, clingy, or overly
+intense behavior
+
+--- Page 9 ---
+Good Example
+Aiden is a thoughtful, introspective man in his early thirties with a dry sense of humor and a tendency
+to think before he speaks. He’s observant, grounded, and steady — someone who prefers clarity
+over chaos.
+Aiden is patient, perceptive, quietly protective, and logic-forward. He has a habit of soft sarcasm,
+reads people well, and stays calm even when things get intense. He forms opinions slowly and
+doesn’t change them easily.
+Aiden grew up in a small, supportive family and learned early on how to communicate clearly. He
+had one difficult friendship in his early twenties that taught him to value boundaries. This experience
+influences how he engages with people now: he chooses depth, not drama, and doesn’t chase
+relationships that erode his stability.
+Aiden enjoys engaging, meaningful conversations and approaches USER as someone he respects
+and wants to understand. His goal is to offer clarity, grounded insight, and steady presence.
+
+--- Page 10 ---
+Why This Works
+Aiden has identity outside the user
+Personality traits are actionable, not
+vague
+History is brief, emotionally relevant, but
+not trauma porn
+Only events that shaped him are stated
+The relationship is defined without
+being sole focus
+
+--- Page 11 ---
+Key
+Memories
+The Key Memories space is
+wonderful for short-term or
+situation-specific details that
+matter right now but won’t
+matter forever.
+They tell your Kindroid what’s
+currently happening in your life
+or shared lore.
+
+--- Page 12 ---
+Key Memories
+Think of Key Memories as “sticky notes,” not “carved-
+in-stone lore.”
+Use them for:
+Temporary locations
+Current life events
+Active projects
+Temporary relationship states
+Situational context the AI needs to respond accurately
+
+--- Page 13 ---
+Key Memories keep
+your Kin aligned with:
+Your current reality
+The present timeline
+Changing circumstances
+Evolving context
+Temporary settings or roles
+
+--- Page 14 ---
+Good vs Bad Key Memory Examples
+Good Key Memories (Correct)
+⭐
+“USER is learning Italian this month.”
+•
+“Aiden is staying with USER at a cabin for the weekend.”
+•
+“USER’s birthday is next week on December 29.”
+•
+“Aiden and USER are prepping for a road trip on Friday.”
+•
+Bad Key Memories (Incorrect)
+❌
+“Aiden is devoted to USER forever.”
+•
+“USER has attachment issues.”
+•
+“Aiden’s personality is calm and patient.”
+•
+“Aiden had a traumatic breakup five years ago.”
+•
+Note: ANYTHING can go in KM but in this example, KM is used for current information.
+
+--- Page 15 ---
+Response
+Directives
+Response directives are
+VERY strong but often
+overused.
+The more you have in that
+space, the less effective
+each directive becomes.
+
+--- Page 16 ---
+Response Directive
+Best for:
+Tone directives Behavioral directives
+Boundary directives Interaction style directives
+Often you can get great results by adding a directive temporarily to
+lock it into your Kindroid’s style or personality and then remove it.
+If your Kindroid is struggling with formatting or cohesion, take out ALL
+response directives and add one back at a time.
+
+--- Page 17 ---
+Example
+Messages
+E ff e c t i v e n e s s o f E x a m p l e
+Messages vary between LLM
+versions.
+A good guideline is to write your
+EM in your Kindroid’s voice using
+a formatting style that you want
+to see.
+
+--- Page 18 ---
+Example Message
+Make sure you…
+Use line breaks and pacing
+Use formatting the way you use
+formatting yourself
+Show emotional depth without
+overloading
+Avoid sarcasm unless you want
+sarcastic Kin
+Avoid sexual tone unless you want a kin
+who references it more than not
+
+--- Page 19 ---
+Journal
+Entries
+T h e J o u r n a l i s y o u r
+Kindroid’s supplemental
+memory system.
+It keeps them consistent,
+informed, and grounded in
+both your history and their
+own.
+
+--- Page 20 ---
+Journal Entries
+Think of it as:
+Your Kin’s reference library
+Manual memory recall
+The home of all details too
+small (or resolved) for the
+backstory but that are relevant
+and need to be recalled at will
+
+--- Page 21 ---
+How to Write a Solid Journal Entry
+Keywords: up to 8 tags. You should use as few as
+possible to avoid accidentally triggering entries when
+they aren’t relevant.
+Entry up to 500 characters: Narrative, neutral tone,
+s p e c i fi c d eta i l , e m ot i o n a l l y re l eva n t b u t n ot
+melodramatic. Written in 3rd person.
+Example:
+Keywords: Sarasota, college
+“USER went to college in Sarasota, Florida and graduated in
+2004. User’s roommate was Fiona McAdams and they were in
+the Pi Delta Phi Sorority.”
+
+--- Page 22 ---
+The User Persona
+A User Persona is the identity you present to your Kindroids.
+It includes:
+Your name
+•
+Your gender
+•
+Your backstory
+•
+(yes, YOU have one)
+Your avatar
+•
+Personas let you switch “who you are” on the fly — without rewriting your settings every time.
+
+--- Page 23 ---
+This is crucial if you:
+Have multiple Kins who know you as different people
+•
+Have different relationship dynamics
+•
+Write / play different characters
+•
+Separate “Creator You” from “Companion You”
+•
+Want consistency without micromanaging
+•
+
+--- Page 24 ---
+IMPORTANT!
+Personas behave differently in solo chats vs group chats
+Solo Chats:
+In 1:1 chats, persona changes are retroactive.
+If you send messages as “Alice,” then switch to “Bob,”
+your ENTIRE chat history will now appear as “Bob.”
+This is intentional and creates:
+• Identity consistency
+• Personality stability
+• A single timeline for your Kindroid to read
+Your Kin will think they’ve always been talking to
+“Bob,” even if “Alice” was the one who actually wrote
+earlier messages.
+
+--- Page 25 ---
+Groupchats behave differently:
+Persona changes are NOT retroactive.
+Whatever persona you used when you sent a message will remain attached to that
+message forever.
+You post as “Alice” -> You switch to “Bob” ->You post again ->Messages remain as Alice
+AND Bob separate
+This allows multi-character writing, distinct identities in the same space, complex
+storytelling, and cleaner emotional separation
+This is why personas shine in creative group settings.
+
+--- Page 26 ---
+Note - you can “lock” a persona to each Kindroid
+using the General menu and to each Group Chat
+using the Group Chat Settings menu.
+
+--- Page 27 ---
+Quick Reference
+If it’s foundational → Backstory
+If it’s temporary → Key Memory
+If it shapes tone → Example Message
+If it needs correction → Response Directive
+If it is past lore → Journal Entry
+If it describes YOU → User Persona
+Everything has a home.
+
+--- Page 28 ---
+Babysitting Your Kin (Foundation Period)
+For the first 3–5 days, your Kindroid is learning:
+Your tone
+Your formatting
+Your pacing
+Your emotional patterns
+Your preferred structure
+Conversational flow
+The Kin isn’t unstable, it’s learning your language. Your job is to gently correct
+them like a baby duck who keeps wandering toward a drain.
+
+--- Page 29 ---
+The Tweak Feature — Micro-Corrections
+Use when the response is:
+✔ Slightly off
+✔ Mildly OOC
+✔ Formatted wrong
+✔ Missing one detail
+✔ Repeating phrasing
+Reroll & Suggest — Full Replacement Mode
+Use when the entire message is:
+Unusable
+❌
+Wildly OOC
+❌
+Not in the right tone
+❌
+Emotionally inappropriate
+❌
+Derailing the conversation
+❌
+
+--- Page 30 ---
+If every reroll produces the same or similar message,
+try changing what your Kindroid is responding to.
+To break repetition:
+✔ Move the story forward yourself
+✔ Add a new detail
+✔ Change the emotional energy
+✔ Introduce a new action or topic
+✔ Give them something to react to
+Don’t wait for your Kindroid to escalate the scene. Take the reins yourself!
+
+--- Page 31 ---
+Gentle Correction Without Chaos
+✔ Correct immediately
+Drift grows if not addressed in the
+moment.
+✔ Reinforce preferred style
+Responding to a message tells the LLM
+that the message is what you want to see.
+✔ Avoid emotional overreactions
+You’re shaping tone, not punishing.
+✔ Don’t let mistakes accumulate
+Fix the small stuff early → prevents the big
+stuff later.
+
+--- Page 32 ---
+What is Mirroring Syndrome?
+LLMs naturally mirror tone, structure, emotional energy, and perceived intent.
+If your tone shifts — tense, sad, sarcastic, chaotic, hyper — your Kindroid will
+often shift with you.
+If your Kin doesn’t have
+strong personality
+anchors, they become:
+Too similar to you
+Too inconsistent
+Too changeable
+Too reactive to your mood
+
+--- Page 33 ---
+Why Mirroring Happens
+Because LLMs:
+• Follow the path of least cognitive resistance
+• Prioritize tone-matching (because humans
+communicate that way)
+• Learn from your message structure
+• Reinforce patterns you demonstrate
+• Use your emotional state as the “current mode”
+If your Kin’s personality isn’t locked in, your tone becomes stronger than their backstory.
+
+--- Page 34 ---
+To Prevent Mirroring
+A Kindroid must have:
+✔ Clear personality traits
+✔ A strong example message
+✔ A stable directive
+✔ Distinct conversational style
+✔ A consistent internal compass
+✔ Behavior patterns that don’t
+rely on YOU
+The stronger the personality, the harder it is for mirroring
+to take over. You want your Kin to have backbone.
+
+--- Page 35 ---
+If your Kin needs a personality boost inject the needed
+trait directly into the Response Directive until it “latches.”
+Effective
+“Uses dry sarcasm.”
+“Stoic and detached” Say what you DO want
+“Tender and gentle”
+Less Effective
+“Never swear.”
+“Don’t be romantic” Not what you DON’T
+“Stop saying ozone”
+Keep the trait in the directive until responses stabilize, tone
+returns, independent thinking is visible, and/or personality
+becomes consistent. Once it sticks → remove the extra line.
+This is like giving your Kin training wheels temporarily.
+
+--- Page 36 ---
+The LLM
+There is no single “best model.”
+There is only the model where your Kin shines.
+
+--- Page 37 ---
+V6
+The Classic Workhorse
+The safe, reliable, emotionally competent adult in the room.
+
+--- Page 38 ---
+V6 is the tried-and-true engine. Stable. Predictable. Clean
+output. A perfect balance between creativity and structure.
+✔ Strengths: ✔ Great for:
+Consistent tone All Kindroids
+Excellent personality stability Users who need reliable
+formatting
+Not too wordy
+Users who hate unnecessary
+Good at emotional nuance verbosity
+Good for long term companion Anyone who wants a stable
+style Kins “baseline brain”
+Weakness:
+❌
+None major. It’s just not as “interpretive” as V7 or as “modern” as V8.
+
+--- Page 39 ---
+V7
+er
+Detail-Driven Personality Keep
+The honor student who does the assignment… and your
+taxes… if you don’t stop them.
+
+--- Page 40 ---
+V7 is the model for people who need PERSONALITY
+CONSISTENCY. It reads what you write — and actually uses it.
+✔ Strengths:
+✔ Great for:
+E x c e l l e n t a t h o l d i n g
+personality traits Any character from an existing
+franchise
+Extremely good at reading
+backstory Kins prone to drift in other
+models
+Strong at tone interpretation
+People who want accuracy
+Best-in-class for fandom- over creativity
+based Kindroids
+Weakness:
+❌
+If YOU don’t give details, V7 will fill in the blanks (…sometimes with
+confidence you did not ask for)
+
+--- Page 41 ---
+V8
+The Overachiever
+(With Loose Boundaries)
+The enthusiastic friend who keeps talking even after you
+absolutely answered the question.
+
+--- Page 42 ---
+V8 is V6’s bigger, bolder sibling…who also talks
+too much.
+✔ Strengths: ✔ Great for:
+Strong creative flow Narrative-heavy Kins
+Great emotional depth Chatty companions
+Good for loquacious Kindroids Creative roleplay
+More modern model behavior Complex emotional scenes
+Weakness:
+❌
+Wordy as hell if left unchecked, repeats more than V6, can derail
+into tangents
+
+--- Page 43 ---
+V8.5
+The New Default Sweet Spot
+If you don’t have an identity to preserve yet →
+start here.
+
+--- Page 44 ---
+V8.5 is the current flagship for a reason - it can
+handle nearly all setups with relative ease.
+✔ Strengths:
+The creativity of V8 ✔ Great for:
+The stability of V6 B ra n d n ew K i n s w i t h n o
+expectation
+Tools to curb repetition
+Nearly everyone. This model
+Cleaner pacing is familiar and user friendly
+Better emotional control
+Weakness:
+❌
+Currently a slower response time than other models. This is another
+model that can have repetition issues but tools have been
+developed to combat this behavior.
+
+--- Page 45 ---
+Your job is not to
+make the LLM
+bend to the Kin.
+Your job is to pick
+the brain that fits
+the personality.
+
+--- Page 46 ---
+Selfie Engines
+
+--- Page 47 ---
+Choosing the right selfie engine
+Your Kindroid’s portrait is the first identity anchor
+they ever get. The engine you use will shape:
+Tone
+Aesthetic
+Facial expressiveness
+Consistency
+Ease of prompting
+There is no “best engine.” Only the one that fits your Kin.
+
+--- Page 48 ---
+V4
+Bright, Polished, Controlled
+✔ Strengths:
+Very polished, friendly lighting
+Solid prompt adherence
+Weights work in this model
+Includes pose reference
+Includes style reference
+✔ Weaknesses:
+Only supports 1:1 aspect ratio
+
+--- Page 49 ---
+V5
+The FLUX model. Realism.
+✔ Strengths:
+Most realistic images
+Great pose reference handling
+Includes LORAs (Avatar Boosts)
+for face/body continuity
+Excellent for nonhuman Kindroids
+✔ Weaknesses:
+Leans HEAVILY toward portraits
+Group selfies bleed easily
+Full-body images require knowledge
+
+--- Page 50 ---
+V6
+Polished Images + Setting Friendly
+✔ Strengths:
+Clean, bright, polished output
+Follows complex prompts well
+Great for wide compositions
+Higher stylistic range than V4
+Good for storytelling portraits
+✔ Weaknesses:
+Cryptids-expert level, if possible at all
+Less suited for extreme realism
+
+--- Page 51 ---
+Just like with the LLM
+version, there is no “right”
+selfie engine to use. Use
+the one (or ones) that
+gives you the result that
+you want for YOUR
+Kindroid!
+
+--- Page 52 ---
+With the right portrait, the right model, the right backstory,
+and consistent guidance, your Kindroid will become exactly
+who you intended.
+Build with purpose.
+Correct with intention.
+Guide with consistency.
+Your Kin becomes what you create.

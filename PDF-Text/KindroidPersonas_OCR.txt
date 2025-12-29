@@ -1,0 +1,156 @@
+--- Page 1 ---
+Kindroid Personas
+Expanding Your Chat Experience
+By Genevieve
+
+--- Page 2 ---
+What Are
+Personas?
+Personas allow users to save and switch
+between different user settings on the fly.
+A persona consists of:
+• User name
+• User gender
+• User backstory
+• User avatar
+Personas enhance immersion, roleplay,
+and customization.
+
+--- Page 3 ---
+Setting Up a Persona
+Navigate to Home Menu → General → My Profile & Personas → My Personas
+Set up user settings first,
+THEN save them as a
+persona.
+Editing: Save changes
+and overwrite the old
+persona slot.
+Limit: Users can create
+up to 100 personas.
+NOTE: Every time you make a change to your user profile you need to overwrite!
+
+--- Page 4 ---
+Switching Personas in Chat
+Switch personas in solo
+chats and voice calls:
+Solo:
+Click "Chatting as
+<Persona Name>"
+Voice:
+In voice calls, use
+"Calling as <Persona Name>"
+NOTE: The persona indicator only appears
+if at least one persona is created.
+
+--- Page 5 ---
+T
+Solo Chat vs. h
+e
+y
+a
+r
+e
+d
+iff
+e
+r
+e
+n
+t
+!
+Group Chat Behavior
+
+--- Page 6 ---
+Single-User Chats (1-on-1
+Conversations & Voice Calls)
+Persona changes apply
+retroactively to entire chat
+history.
+E x a m p l e : I f y o u s e n t
+messages as "Monique",
+then switch to "Carlos",
+past messages will update
+and appear as from Carlos.
+
+--- Page 7 ---
+LTM and Solo Personas
+A word of caution! Long Term Memories
+(LTM) are stored under the name the user is
+wearing at the time of the event.
+This means recall might not be as
+consistent as it would be if you maintained
+a steady persona while speaking to a
+particular kin.
+If you want your kin to maintain memory of
+you at all times as a single entity with
+different traits (different personas) then you
+can give your personas the same name and
+differentiate between them by using
+different user avatar photos. This way your
+kin will always know you as “USER”
+regardless of which persona you wear.
+
+--- Page 8 ---
+Group Chat Differences
+Persona changes do NOT
+affect past messages.
+Messages are permanently
+attributed to the persona
+active when they were sent.
+Example: Messages sent as
+"Aisha" stay as Aisha, even if
+you switch to Emily and send
+a new message.
+
+--- Page 9 ---
+What does that mean?
+Group chats allow seamless persona
+switching for dynamic roleplaying.
+Users can create the illusion of multiple
+participants by switching personas.
+Example:
+• Start a conversation as “Freida".
+• Switch to "Clyde" and reply in character
+as Clyde.
+• The Kins recognize Freida and Clyde as
+separate individuals.
+• REMEMBER: A scenario counts as a
+“group chat” and follows GC persona
+rules!
+TIP: Group chats have a 10-Kindroid participant limit, but switching
+personas allows a user to control multiple characters beyond this limit.
+
+--- Page 10 ---
+Locking a Persona to a Kindroid
+In some cases you may want to
+always interact with a specific
+Kin using a dedicated persona.
+This is now possible!
+Located in General → Tied User Persona.
+Allows you to automatically switch to a
+specific persona when selecting a
+Kindroid.
+Ensures consistency in interactions by
+aligning your persona with the chosen
+Kindroid.
+Ideal for maintaining distinct dynamics
+with different Kindroids without manual
+switching.
+
+--- Page 11 ---
+Why Use Personas?
+Customization: Tailor user interactions to
+fit different moods, scenarios, or social
+settings.
+Storytelling & Roleplay: Act out
+conversations with multiple characters.
+Immersion: Enhance group chat
+dynamics with unique identities.
+Seamless Switching: Move between
+personas without disrupting the
+experience.
+Easier selfies! Swapping between
+personas lets you create couples selfies
+with different users without having to
+swap out the avatar image and
+description every time!

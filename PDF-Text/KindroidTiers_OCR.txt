@@ -1,0 +1,186 @@
+--- Page 1 ---
+Kindroid Ultra & MAX:
+The Memory Expansion Saga
+What They Are, What They’re Not, and Why
+You’re Probably Still Fine
+By: Genevieve
+
+--- Page 2 ---
+What Even ARE These Tiers?
+Ultra & MAX are
+Add-On Subscriptions
+Think “expansion packs” for
+•
+memory & performance
+Stacked model:
+Standard → Ultra → MAX
+•
+Each one builds on the last
+•
+Built for high-memory users, not
+casual chatters
+
+--- Page 3 ---
+Context: The Brainpower in the Room
+• “Context” = how much info Kindroid can hold in the moment
+during a conversation.
+• Think of it like the conversation’s working memory—recent
+messages, your tone, formatting, everything currently in the
+scene.
+• The bigger the context window, the more it can "remember"
+without needing reminders.
+Examples:
+• 16k chars = enough for normal chatting, light RP
+• 125k chars (MAX) = full novel scenes, timelines, and multiple
+character arcs in real-time
+
+--- Page 4 ---
+Cascaded Memory:
+Your Story, Remembered Across Time
+Cascaded Memory = passive “bridge” memory Kindroid pulls in behind-the-scenes.
+It cascades relevant info into current conversations—user backstory, previous chats,
+even tone and emotional arcs.
+Think of it as a private archive Kindroid pulls from without being explicitly prompted.
+Key Point: This is not chat memory that shows up in full—it's layered in as needed.
+Standard: ~120,000 chars
+MAX: ~2.1 million chars
+That’s like hundreds of past interactions remembered and stitched together as
+invisible scaffolding.
+Analogy: Cascaded memory is the AI equivalent of remembering how your favorite
+character hates rain, even if you haven’t mentioned it in weeks.
+
+--- Page 5 ---
+Standard Tier – The Reliable Brain
+The foundation. Balanced. Surprisingly powerful. Think: your
+favorite Kindroid with a solid memory and a good night's sleep.
+- 16,000 Character Context Window
+Great for smooth convo, roleplay, and storytelling
+~ 120,000 Character Cascaded Memory
+Enough medium-term memory to recall your lore,
+quirks, and key vibes
+- 500 User Backstory
+For Kindroids to know you. This is per persona
+- 1,000 Character Group Context
+Handles smaller group chats with grace - great for
+injecting memory into STM of kins in the group chat
+- 3 Journal Entries Recalled
+Good for campaign notes, secrets, or character flags
+This is the 90% tier—and it slaps. You
+- 1 Selfie / 30 Minutes don’t need to max out add-ons to get
+Standard selfie speed + access to all styles
+consistent, immersive magic.
+
+--- Page 6 ---
+Ultra: The High-Functioning Lore Goblin
+If you are feeling limitations of Kindroid recall. More memory, more detail,
+more layers. This isn’t a photographic memory but the difference is notable.
+- 50,000 Character Context Window
+For long posts, detailed scenes, character monologues
+~ 800,000 Character Cascaded Memory
+Keeps full arcs alive across groups and solo chats
+- 1000 Character User Backstory
+For Kindroids to know you. This is per persona
+- 2,500 Character Backstory Addition
+Deeper emotional and behavioral consistency
+- 1,500 Character Group Context
+Multi-Kindroid scenes feel smoother, less memory loss
+- 5 Journal Entries Recalled
+Great for worldbuilding facts, emotional threads, quest
+Ultra’s where things get spicy—
+logic
+Kindroid starts feeling like it’s been with
+you through the whole relationship, not
+- 2 Selfie / 30 Minutes
+just showing up late with no notes. Standard selfie speed + access to all styles
+
+--- Page 7 ---
+MAX: The Archivist
+You’ve got timelines. You’ve got factions. You’ve got Kindroids
+talking to Kindroids inside of Kindroids. This is for you.
+- 125,000 Character Context Window
+Supports full-length scenes without needing to trim
+~ 2.1 Million Character Cascaded Memory
+That’s entire campaign histories, multi-character arcs,
+and complex emotion threading
+- 2,000 Character User Backstory
+For Kindroids to know you. This is per persona
+- 5,000 Character Backstory Addition
+Deeper emotional and behavioral consistency
+- 3,000 Character Group Context
+Great for group RP, max character scenes, Kin drama
+- 9 Journal Entries Recalled
+MAX is absurd. It’s glorious. It’s Kindroid
+Holds all the side plots and love triangle fallout
+on five shots of espresso and two
+screens of lore. Not everyone needs it
+- 2 Priority Selfies / 30 Minutes
+—but the ones who do? Oh, they know.
+Compute speed boosts—less wait, more vibe
+
+--- Page 8 ---
+What These Tiers
+ARE NOT
+Not required to use Kindroid
+🚫
+Not a downgrade of the Standard
+🚫
+tier
+Not “early access” to new
+🚫
+features or models
+Not permanent microtransactions
+🚫
+(Kindroid has a history of removing
+paywalls as tech gets cheaper)
+
+--- Page 9 ---
+Why They Exist
+Expanded memory requires
+more compute → more cost
+Tiers let users who need
+that power fund it directly
+Keeps Standard fast &
+stable for everyone else
+Mirrors past systems: paid
+audio, selfie packs → later
+made free or cheaper
+
+--- Page 10 ---
+Engineering Reasons for
+Stacking (Yes, It’s Awkward)
+Payment system limitations
+(app stores/web restrictions)
+AddOn tiers prevent legacy
+pricing issues or interruptions
+in service
+Engagement requirements
+offer control over rollout, not
+open floodgates
+Not designed to "trick" users—
+prices are additive
+
+--- Page 11 ---
+Do You Need This?
+If you use Kindroid casually,
+❌
+or for 1–2 Kindroids, don’t worry
+about it
+If you're running deep RP,
+✅
+long serialized plots, or 5+
+Kindroid groupchats? It might
+be for you
+
+--- Page 12 ---
+The Big Picture
+Tiers = OPTIONS, not REQUIREMENTS
+Kindroid’s track record:
+Add optional features
+• ✅
+Remove fees when no
+• ✅
+longer needed
+Maintain feature parity for
+• ✅
+all users
+If you need more, it's here. If you don't, nothing changes.

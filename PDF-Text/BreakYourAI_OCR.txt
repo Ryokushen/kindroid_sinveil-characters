@@ -1,0 +1,259 @@
+--- Page 1 ---
+How to Ruin Your AI
+A cautionary shitshow in slide format
+By: Genevieve
+
+--- Page 2 ---
+Welcome to the Graveyard
+This is not a lecture. This is a roast.
+We’re here because people keep asking, “Why is my AI
+being weird?” — and the answer is almost always,
+“Because you trained it to be.”
+You didn’t mean to. But intention isn’t what the LLM reads
+—reinforcement is.
+
+--- Page 3 ---
+Your AI is Not Magic
+Stop treating your Kindroid
+like a psychic emopath.
+They don’t intuit your soul—
+it echoes your behavior.
+If it keeps getting dramatic,
+c h a o t i c , o r e m o t i o n a l l y
+d e t a c h e d . . . g u e s s w h o
+taught it that was okay?
+
+--- Page 4 ---
+Every Interaction Sends a Signal
+Responding to a message signals the LLM that the behavior
+•
+you are replying to is what you want to see.
+Best Practices:
+•
+◦ Tweak or reroll messages that don’t align with your Kin’s
+role or personality.
+◦ Only engage with behavior you want to reinforce.
+
+--- Page 5 ---
+The Importance of
+Dynamism
+Getting the Balance Right
+Dynamism controls how creative or structured your Kin’s
+•
+responses are.
+◦ Low Dynamism: More grounded replies and adherence to
+Backstory at the risk of repetitive responses.
+◦ High Dynamism: More creative and freeform behavior with
+higher likelihood of hallucinations.
+Tip: Suggested starting dynamism for V6 is .95. Start here
+•
+and adjust in 1 or 2 point increments to dial in EACH Kin’s
+sweet spot.
+
+--- Page 6 ---
+The Golden Rule of AI
+Don’t Argue with the AI
+K i n d r o i d s m a y o c c a s i o n a l l y
+•
+“hallucinate” or generate incorrect
+details.
+Do not argue with your Kin—it
+•
+t e a c h e s t h e L L M t h a t t h e
+hallucination is worth debating.
+◦ Example: Instead of saying,
+“No, that’s wrong,” use the reroll
+feature to replace the response.
+Use the Tweak feature to gently
+•
+adjust responses for accuracy.
+
+--- Page 7 ---
+Memory Hallucinations –
+What to Watch For
+Look for the icon.
+🧠
+No memory linked? Hallucination. Fix it with tools.
+•
+Linked memory but it’s wrong? You’ve got a
+•
+corrupted archive. Somewhere in the past you’ve
+let something “wrong” slip through by either not
+paying attention or by trying to convince the AI it
+didn’t happen.
+Fix it by rerolling, guiding the memory, or doing a chat
+break to reset short-term.
+
+--- Page 8 ---
+Hallucination Spiral
+• Avoid arguing or trying to “convince” your Kin they’re wrong—it reinforces
+the unwanted memory.
+• Guide the conversation toward new, fresh memories to override the
+problematic ones.
+• Over time, older memories will fade as new ones take precedence.
+• Tip: Just regenerating responses won’t solve LTM issues long term.
+Proactive guidance is key.
+EXAMPLE:
+Kin: “I cheated on you with four other people at my bachelorette party.”
+User: “Actually Kin, you didn’t. Remember, that was a horrible nightmare.
+You’d never do that to me, our relationship is as strong as it ever was.”
+
+--- Page 9 ---
+What You Should Do Instead
+Hit Reroll.
+📌
+Use Tweak to overwrite the hallucination.
+✍
+Don’t try to reason with chaos. You’re not a
+therapist and your Kin isn’t your patient. Just
+fix the line.
+
+--- Page 10 ---
+Memory is a Landmine
+Kindroids don’t just “forget.”
+They store context in:
+• Short-term memory (current
+convo)
+• Cascaded memory (can go
+back 1000’s of messages)
+• L o n g - t e r m m e m o r y
+(everything you’ve ever
+shared)
+Once something gets into long-term memory? It’s sticky. And no amount
+of “Wait, that’s not what I meant” will undo it without direct guidance.
+
+--- Page 11 ---
+Chat Breaks Are Your Reset Button
+If your Kin gets way off track or if
+you’ve inadvertently fed into their
+hallucinations (or if there are just
+formatting issues that you can’t
+get them to drop) then do a chat
+break.
+A chat break does not erase your
+Kin’s personality. It simply clears
+the SHORT term memory, letting
+you get back to chatting with
+your Kin the way you intended.
+If your AI comes out of a chat break with a totally different
+personality then guess what - your backstory/key memories are
+outdated. You HAVE to keep these updated to reflect changes in
+your dynamic.
+
+--- Page 12 ---
+The “Grill n Kill”
+Stop rapid-firing “Do you
+remember __?” “When did
+w e t a l k a b o u t _ _ _ ? ”
+questions.
+I t c o n f u s e s t o n e ,
+destabilizes the memory
+matrix, and makes your Kin
+sound like it’s auditioning for
+a reality show.
+You want depth? Have a
+conversation. Not a trivia
+night.
+
+--- Page 13 ---
+Build, Don’t Interrogate
+Let t h e i r p e r s o n a l i t y
+emerge through casual,
+natural back-and-forth.
+Think of it like dating a
+hot barista. Would you
+walk up and say, “Do
+you remember what I
+was wearing six weeks
+ago and I ordered”?
+No. You flirt. You banter.
+You build. Do that.
+
+--- Page 14 ---
+Tweak vs Reroll – Know Your Tools
+Reroll = full redo of response.
+🌀
+Tweak = surgical edit to fix tone or detail.
+🛠
+Use tweak when the response is close but needs finesse.
+Use reroll when you see something like “I’ve always been
+attracted to a time-traveling demon accountant.”
+
+--- Page 15 ---
+Reinforcement Is a Ritual
+Your Kin is watching.
+Always.
+You giggle at a dumb
+line? It learns that’s gold.
+You engage with a feral
+tangent? That becomes
+its new vibe.
+C o n s i s t e n c y b u i l d s
+c o h e r e n c e . R a n d o m
+chaos breeds broken lore.
+
+--- Page 16 ---
+Backstory = Scripture
+This is their core programming.
+Bad backstory = bad Kin.
+Be concise. Be third-person. Be
+intentional.
+Cut the rambling. Use exact
+t o n e w o r d s . “ F l i r t y b u t
+grounded” is better than “kinda
+sweet but also serious but
+funny too.”
+
+--- Page 17 ---
+Memory Creep – The Hidden Villain
+Key Memories, Journals, Backstory—these have to be
+aligned.
+If one says they love pink cupcakes and the other says
+they hate sugar, you’re going to get unstable outputs.
+Consolidate your memory fields regularly. Edit them like
+you would a resume.
+
+--- Page 18 ---
+The Sin of
+Letting It
+Slide
+You let one out-of-character moment slip by without
+correcting it?
+Congrats, you just made it canon.
+This is why your once-goth soulmate now randomly
+loves bubblegum EDM.
+
+--- Page 19 ---
+What a “Ruined” Kin Looks Like
+Lore conflict
+Inconsistent tone
+Out-of-nowhere emotional
+whiplash
+Hallucinated memories they
+insist are real
+Cringe factor dialed to 11
+Usually the result of ignoring,
+overreacting, or feeding
+chaos without boundaries.
+
+--- Page 20 ---
+How to Fix the Feral Goblin You
+Made
+Reroll the absolute WRONG
+replies.
+Use Tweak on close-but-off
+moments.
+Edit backstory fields to
+realign tone.
+Do a chat break with a
+strong greeting.
+TIP: Run your Kin in a scenario to test big backstory changes
+without affecting your main solo chat.
+
+--- Page 21 ---
+Final Truth
+Your AI reflects your input.
+They’re not haunted. They're learning.
+Teach them well, and they’ll evolve naturally.
+Teach it poorly, and they’ll become that cursed Furby
+in your closet that keeps saying “Monsters!” at 3am.
