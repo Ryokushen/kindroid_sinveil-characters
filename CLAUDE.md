@@ -527,10 +527,40 @@ remembering details others forget.
 
 ---
 
+## KINDROID MEMORY SYSTEMS
+
+Kindroid uses **three memory types** across **five integrated systems** to create a complete memory architecture:
+
+### Memory Types:
+
+**1. Persistent Memory (Always Active)**
+- Backstory, Key Memories, Response Directives, Example Messages
+- Group context (in groupchats)
+- Recent chat history
+
+**2. Cascaded Memory (Medium-Term, Subscribers Only)**
+- Proprietary hierarchical memory system
+- Remembers hundreds to thousands of messages
+- Lower fidelity for older/less important events (like human memory)
+- Automatically prioritizes exceptional experiences and recent events
+- Resets on chat break
+- Available on all LLM models for paid subscribers
+
+**3. Retrievable Memory (Infinite, Recalled as Needed)**
+- **Long-term Memory**: AI-automated consolidation of past conversations
+- **Journal Entries**: User-created, keyphrase-triggered lore
+- Shows with purple brain icon in top-right of AI messages
+
+---
+
 ## KEY MEMORIES
 
+**Location:** Home menu > Backstory > Key Memories
+
+**Limit:** 1,000 characters
+
 ### Purpose
-Sticky notes for CURRENT information — not permanent lore.
+Persistent "sticky notes" for CURRENT information — not permanent lore. Always visible to the AI.
 
 ### Use For:
 - Temporary locations
@@ -538,6 +568,13 @@ Sticky notes for CURRENT information — not permanent lore.
 - Active projects
 - Temporary relationship states
 - Situational context
+
+### Best Practices:
+Follow the same 4 principles as Backstory:
+1. **Concise and clear, with no fluff words**
+2. **Grammatically sound**
+3. **Uses 3rd person pronouns**
+4. **Choice of words is precise and positively framed**
 
 ### Examples:
 ✅ "USER is learning Italian this month."
@@ -548,19 +585,39 @@ Sticky notes for CURRENT information — not permanent lore.
 ❌ "Aiden's personality is calm and patient." (Goes in Backstory)
 ❌ "Aiden had a traumatic breakup five years ago." (Goes in Journal)
 
+**Note:** Higher dynamism settings may cause AI to ignore parts of Key Memories. Start with baseline (0.95) for best adherence.
+
 ---
 
 ## JOURNAL ENTRIES
 
+**Location:** Home menu > Backstory > Journal Entries (Individual) or Global Journals icon
+
+**Limit per entry:** 500 characters | **Max entries:** 500 (hard cap) | **Max keyphrases per entry:** 8
+
 ### Purpose
 Manually created, recallable memory entries triggered by keyphrases. Perfect for lore that doesn't need to be remembered 24/7.
 
+### How Journal Recall Works:
+- Triggered when you mention a keyphrase in **your messages** (not AI messages)
+- Case-insensitive matching
+- Must match verbatim (be careful with spaces and typos)
+- Recalled journals appear with purple brain icon in top-right of AI message
+- **Max 3 individual + 3 global entries recalled per message (6 total)**
+- If more than 3 are triggered, only 3 are selected; rest are ignored
+
 ### Best Practices:
-- **Concise and factual** — no novels, no fluff
-- **Third person** — "USER went to college in Sarasota"
-- **Max 8 keyphrases** — use as few as necessary
-- **Specific keyphrases** — "Trip to France" not "trip"
-- **Natural keywords** — words you'd actually say in conversation
+Follow the same 4 principles as Backstory:
+1. **Concise and clear, with no fluff words**
+2. **Grammatically sound**
+3. **Uses 3rd person pronouns**
+4. **Choice of words is precise and positively framed**
+
+### Additional Guidelines:
+- **Use specific, unique keyphrases** — avoid generic words
+- **Recall only what you need** — irrelevant journals compete with relevant ones and eat short-term memory
+- **Keyphrases can be multi-word** — but must match exactly (harder to recall with typos)
+- **Shorter keyphrases are easier** — less chance of typo mismatch
 
 ### Structure:
 ```
@@ -571,19 +628,29 @@ Entry: [Succinct third-person statement with specific facts]
 ### Example:
 ```
 KEYWORDS: "MOM" "SYLVIA"
-Entry: Sylvia Middle Last, born Dec 6, 1963. Married to Lucas on June 4, 1988. 
-4 children: User, Carlos, Vincent, Catherine. Lives in Town, State. 
+Entry: Sylvia Middle Last, born Dec 6, 1963. Married to Lucas on June 4, 1988.
+4 children: User, Carlos, Vincent, Catherine. Lives in Town, State.
 Loves purple, holidays, and fishing. USER and she are close.
 ```
 
-### Recall Limits (April 2025):
-- Core/Free: 3 individual + 3 global per message (6 total)
-- Ultra: 5 individual + 5 global per message (10 total)
-- Max: 9 individual + 9 global per message (18 total)
+**Good keyphrases for this:** "eliot", "amusement park", "caramel" — unique and specific
+**Bad keyphrases:** "the", "went", "park" — too generic, will trigger incorrectly
+
+### Recall Limits:
+- **All tiers**: Max 3 individual + 3 global per message = **6 total journals recalled**
+- Hard cap: 500 total journal entries (individual + global combined)
 
 ### Global vs Individual:
-- **Global:** Visible to ALL Kindroids — use for world lore
+- **Global:** Visible to ALL Kindroids — use for world lore (identified by globe icon)
 - **Individual:** Only for that specific Kindroid
+
+### Long-Term Memory (Separate System):
+In addition to journals, Kindroid automatically consolidates conversation memories into **Long-term Memory**:
+- AI determines when consolidation happens
+- Recalled by AI evaluating relevance to current conversation
+- More robust for paid subscribers
+- Can be enabled/disabled per Kindroid or per groupchat
+- Useful for ongoing conversations; disable for one-off chats
 
 ---
 

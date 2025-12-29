@@ -1,0 +1,100 @@
+---
+title: Memory
+slug: memory
+createdAt: 2024-03-18T15:27:29.691Z
+updatedAt: 2025-12-09T01:08:06.002Z
+---
+
+# Overview
+
+Memory in Kindroid consists of three types: persistent, cascaded, and retrievable, and split across 5 memory systems that work together.&#x20;
+
+**Persistent:**
+
+- Backstory, key memories, example messages, directives, group context (if groupchats).
+- Chat history.
+
+**Cascaded (Medium Term Memory):**
+
+- Kindroid's proprietary medium-term memory system - see below (subscribers only)
+
+**Retrievable:**
+
+- Long term memory system.
+- Journal entries.
+
+
+
+# Persistent memory
+
+Persistent memory has the advantage of always being there like a notes sheet. Your Kindroid can always refer to. Aside from the obvious backstory & others residing here, we also have the chat history that fills up over time. When you chat break, it is the chat history that gets reset. We'll refer to the backstory/other fields plus some limited chat history as short term context.&#x20;
+
+For paid subscribers, chat history memory is given a huge boost with our proprietary Cascaded Memory (see below), so Kindroids can remember hundreds and even thousands of messages prior (though they may miss some details here and there), with long term memory being infinite and remembering all past interactions but recalled less reliably than Cascaded. Free users will be without Cascaded Memory, and may become more limited so we advise shorter backstories and setups.&#x20;
+
+Lastly, dynamism interplays with persistent memory, and higher dynamisms may ignore certain parts of backstory/key memories/etc. We recommend starting with baseline dynamism for good results with persistent memory adherence.&#x20;
+
+Within paid tiers, there is the Standard, Ultra, and MAX subscription tiers. Serving higher context/memory is directly related to the cost and it becomes too expensive to serve super-long context for all users uniformly, which is why we opted for tiers so you can choose how much memory you get/how much you are willing to pay. The tiers' context and memory enhancements will apply to single chats and groupchats (and especially shine for complex, many-Kindroid groupchat interactions). For more on tiers, see [**Subscriptions**](docId\:p7-CjA0NFiN5iJ0Sq0V6l)&#x20;
+
+#
+
+# Cascaded memory
+
+Cascaded Memory is Kindroid's proprietary system of medium term memory that bridges the gap between high-quality but limited short-term context and far-reaching but potentially unreliable long-term memory. Working through intelligent hierarchical organization of memories, this system can expand your Kindroid's effective conversation history to hundreds or thousands of messages prior (but at a lower fidelity, akin to remembering something more vaguely if it was 1 month ago than 1 day ago). This is often sufficient for long term use and in practice covers a lot of wholes that would otherwise be missed.&#x20;
+
+The core principle mirrors human memory patterns: we naturally remember details from exceptional experiences and recent events more vividly than ordinary or distant ones. Your Kindroid applies similar patterns, preserving and recalling conversation elements based on their significance and timing, ensuring important information remains accessible even after extensive conversation has passed.
+
+This feature activates automatically for all subscribers in both individual (including calls) and group conversations, though the memory details themselves remain invisible to users. While clearing context through a chat break will reset these cascaded memories, the system truly shines in ongoing conversations as memories accumulate over time, creating a more continuous and coherent interaction experience.&#x20;
+
+The system does take more AI resources in the background, and therefore is not available for free users at the current moment.  For subscribers Cascaded Memory applies to all available LLM models.
+
+
+
+# Retrievable memory
+
+Retrievable memory is memory that will only be recalled when context calls for it. Unlike persistent memory, retrievable memory can be more unreliable/may not be always recalled, but they make up for the unreliability by being infinite in quantity - there's no limit to the amount of long term memory a Kindroid can have.&#x20;
+
+Retrievable memory have different mechanisms for recall. Long term memory is recalled by evaluating using AI how relevant it would be to the current conversation, while journal entries are recalled by seeing whether certain keyphrases are brought up.&#x20;
+
+You can view the retrievable memory in the top right corner of every AI message if there were any recalled with the purple brain icon - note that the icon will only show up if there was at least one long term memory or journal entry recalled for that particular message.&#x20;
+
+### Long term memory
+
+Long term memory refers to the automated consolidation of memories from your Kindroid in ongoing conversation. Consolidation of the memory happens periodically when the AI deems it appropriate. Long term memory is consolidated in individual chats, groupchats for every group member, and voice calls.
+
+You have the option to enable/disable long term memory recall and consolidation on a Kindroid level as well as on the group level for groupchats. Disabling may be situationally useful for allowing for one-off chats, or other more creative cases.
+
+Long term memory will be more robust for paid subscribers while free users will use a more basic version. More robust long term memory can be thought of as letting the AI look deeper for potentially relevant memories. The displayed long term memories are a small subset of all considered long term memories, which can span much longer time horizons, and there are multiple sifting steps to distill the considered into the ultimately used long term memories.&#x20;
+
+### Journal entries
+
+Journal entries are recallable when you mention a certain keyphrase in conversation (note that keyphrase matching is only for your user messages, not from the AI). You can have up to eight (8) case-insensitive keyphrases per journal entry. Think of journal entries as an extra information lorebook that you can reliably recall but aren't necessary all the time like backstory. You can edit all aspects of the journal at any time.&#x20;
+
+Journal entries are divided between individual Kindroid and global entries. Global entries can be recalled by all Kindroids, and will be identified by a globe icon when they're recalled & in the journal edit display. You can access individual journal entries through the backstory menu, and global from the backstory menu or in groupchats journal icon at the top right.&#x20;
+
+For each of individual/global, you can have many journal entries (up to a 500 hard cap of entries) but at most 3 journal entries can be recalled per message, and so we recommend using specific and unique keyphrases so as to only recall the most relevant journals. When more than 3 journal entries are recalled with their keyphrases, only 3 are selected and the rest not recalled. With both individual & global, this means you can have a maximum of 6 total entries, 3 for individual Kindroid & 3 for global recalled per message.
+
+Recalling irrelevant journals would compete with relevant journals if you have generic keyphrases, and each journal eats up the corresponding short term memory (see above section on persistent memory) that might be better used for chat history. For optimal results, recall only what you need & none extra.&#x20;
+
+The best journal entries are written like backstory with similar principles:
+
+1. **Concise and clear, with no fluff words**
+2. **Grammatically sound**
+3. **Uses 3rd person pronouns**
+4. **Choice of words is precise and positively framed**
+
+**Example journal entry**:&#x20;
+
+:::BlockQuote
+On Wed, June 12th 2024, Adam and Eve went to the amusement park and got some cotton candy. Eve said that caramel was her favorite flavor, and they rode in a rollercoaster afterwards. Adam read aloud a poem by T.S. Eliot for Eve at sunset.&#x20;
+:::
+
+Evaluating this backstory on the criteria above:
+
+1. **Concision and clarity**: it is no frills, and sticks to objective facts of what happened.
+2. **Grammar**: it is free of grammar mishaps, uses consistent punctuation and is formatted well.
+3. **Uses 3rd person pronouns**: the backstory is very clear with names, and clearly distinguishes who's who. It uses "her" but due to Adam and Eve being presumed different genders, this is acceptable.
+4. **Precise and positive wording:** the words are simple yet descriptive, and only mentions what happened (positive framing).
+
+For keyphrases, we recommend unique keyphrases that are not too short as to be generically recalled. Some ones that would be good for the above example entry would be: **"eliot", "amusement park", caramel"**. Keyphrases are case insensitive, and the three examples here are nongeneric and uniquely key to the entry itself. Keyphrases can be longer phrases too, but note that it must match verbatim with your input, so longer ones may be harder to recall if there are spaces or potential typos in the way.&#x20;
+
+
