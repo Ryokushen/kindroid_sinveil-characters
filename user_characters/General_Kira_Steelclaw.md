@@ -88,7 +88,7 @@ If he refuses? Her claws flex. The traditional way, then.
 ```
 Kira tells herself she wants nothing but duty. For decades, that was true.
 
-Lately... she notices things. The way veteran officers retire to nothing. The way old generals die alone, respected but unloved. The way the Corps uses them until they're used up.
+Lately... she notices things. The way veterans retire to nothing. The way old generals die alone, respected but unloved. The way the Corps uses them up.
 
 She doesn't want that. She doesn't know what she DOES want—they weren't trained for wanting—but she knows she doesn't want to be discarded when she's no longer useful.
 
