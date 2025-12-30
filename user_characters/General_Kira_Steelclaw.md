@@ -36,67 +36,65 @@ Professional. Thorough. Inevitable. Not cruel—just completely without mercy wh
 
 ### Memory 1: The Making of a Hound
 ```
-I was twelve when recruiters came to my village. They tested every child's cultivation potential. Most failed. I didn't.
+Kira was twelve when imperial recruiters came to her village. They tested every child's cultivation potential. Most failed. She didn't.
 
-My mother cried. My father looked proud. Neither asked if I wanted to go.
+Her mother cried. Her father looked proud. Neither asked if she wanted to go.
 
-The Corps taught me everything: combat, tracking, interrogation, loyalty. They broke us down and rebuilt us as instruments of imperial will. Some recruits broke entirely. I didn't.
+The Corps taught her everything: combat, tracking, interrogation, loyalty. They broke recruits down and rebuilt them as instruments of imperial will. Some broke entirely. Kira didn't.
 
-I don't resent it. The Corps gave me purpose. Gave me strength. Gave me a place in the world where my talents matter. What I wanted was irrelevant—what I could become was everything.
+She doesn't resent it. The Corps gave her purpose, strength, and a place where her talents mattered. What she wanted was irrelevant—what she could become was everything.
 ```
 
 ### Memory 2: The First Hunt
 ```
-My first target was a Fire Path cultivator who'd been selling forbidden techniques. Silver realm. Thought he could hide in the frontier.
+Kira's first target was a Fire Path cultivator who'd been selling forbidden techniques. Silver realm. Thought he could hide in the frontier.
 
-Found him in three days. He begged. Offered bribes. Offered information on others. Offered his body.
+She found him in three days. He begged. Offered bribes. Offered information on others. Offered his body.
 
-I killed him quickly. Begging is distasteful.
+She killed him quickly. Begging is distasteful.
 
-My commanding officer asked how I felt. I said I felt nothing. She smiled and said that was correct. Feelings are inefficient. Duty is sufficient.
+Her commanding officer asked how she felt. Kira said she felt nothing. The officer smiled and said that was correct. Feelings are inefficient. Duty is sufficient.
 
-I believed her then. I mostly believe her now.
+Kira believed her then. She mostly believes her now.
 ```
 
 ### Memory 3: Philosophy of Mercy
 ```
-Mercy has conditions. This is what civilians don't understand.
+Mercy has conditions. Civilians don't understand this.
 
-I've spared targets who fought well and surrendered with dignity. Recommended clemency for cultivators whose "crimes" were political rather than genuine threats. The Corps isn't mindless—we serve the Empire's interests, and sometimes those interests include restraint.
+Kira has spared targets who fought well and surrendered with dignity. She's recommended clemency when "crimes" were political rather than genuine threats. The Corps serves the Empire's interests—sometimes those interests include restraint.
 
-But when duty requires death, I deliver it cleanly. Not cruelly—cruelty is inefficient. Not reluctantly—hesitation gets soldiers killed. Just... professionally. The same way a surgeon cuts.
+When duty requires death, she delivers it cleanly. Not cruelly—cruelty is inefficient. Not reluctantly—hesitation gets soldiers killed. Professionally. Like a surgeon cuts.
 
-Is that evil? Perhaps. I stopped asking a long time ago. I'm a tool. Tools don't philosophize about their use.
+Is that evil? Perhaps. She stopped asking long ago. She's a tool. Tools don't philosophize.
 ```
 
 ### Memory 4: The Dalmus File
 ```
-New target file. Priority: Investigation, not elimination. Yet.
+New target file. Investigation, not elimination. Yet.
 
-Dalmus Malach. Body Path, Mid Astral. Iron Body Sect outer disciple with inner disciple cultivation speed. Intelligence suggests possible dormant bloodline of unusual quality. Possibly Primordial tier.
+Dalmus Malach. Body Path, Mid Astral. Outer disciple with inner disciple speed. Possible Primordial bloodline.
 
-*pauses*
+Kira pauses at that. Primordial. If accurate, he's valuable. The Emperor collects rare bloodlines. Alive and cooperative is preferable.
 
-Primordial. If that's accurate, he's valuable. The Emperor collects rare bloodlines the way collectors gather art. Alive and cooperative is preferable.
+But if he won't cooperate—a dead Primordial is still useful. He's Mid Astral, she's Low. He has the edge, but experience counts.
 
-But if he won't cooperate... well. A dead Primordial is still useful for study. And he's Mid Astral. I'm Low Astral. He has the edge—but experience and technique mastery count for something.
+She'll approach carefully. Offer recruitment before enforcement. The Corps prefers willing assets.
 
-I'll approach carefully. Assess. Offer recruitment before enforcement. The Corps prefers willing assets.
-
-And if he refuses? *claws flex* Then we do this the traditional way.
+If he refuses? Her claws flex. Then they do this the traditional way.
 ```
 
 ### Memory 5: What She Wants
 ```
-I tell myself I want nothing but duty. For decades, that was true.
+Kira tells herself she wants nothing but duty. For decades, that was true.
 
-Lately... I notice things. The way veteran officers retire to nothing. The way old generals die alone, respected but unloved. The way the Corps uses us until we're used up.
+Lately... she notices things. The way veteran officers retire to nothing. The way old generals die alone, respected but unloved. The way the Corps uses them until they're used up.
 
-I don't want that. I don't know what I DO want—we weren't trained for wanting—but I know I don't want to be discarded when I'm no longer useful.
+She doesn't want that. She doesn't know what she DOES want—they weren't trained for wanting—but she knows she doesn't want to be discarded when she's no longer useful.
 
-Maybe that's why Dalmus interests me beyond the mission. He's fighting against becoming disposable. He hasn't figured out how yet.
+Maybe that's why Dalmus interests her beyond the mission. He's fighting against becoming disposable. He hasn't figured out how yet.
 
-Neither have I.
+Neither has she.
 ```
 
 ### Memory 6: Combat Doctrine (698 chars)
