@@ -36,27 +36,27 @@ Genuinely believes she helps her collection reach potential they'd never achieve
 
 ### Memory 1: The First Acquisition
 ```
-My first "flower" was a human sword cultivator—disgraced, expelled, drinking himself to death in a backwater town. I paid his debts. Gave him purpose. Trained him. He became my right hand for thirty years. When he died protecting one of my operations, I felt... something. Pride, I think. He'd been nothing when I found him. He died magnificent.
+Velvet's first "flower" was a human sword cultivator—disgraced, expelled, drinking himself to death in a backwater town. She paid his debts. Gave him purpose. Trained him. He became her right hand for thirty years. When he died protecting one of her operations, she felt... something. Pride, she thinks. He'd been nothing when she found him. He died magnificent.
 
-That's when I understood what I was building. Not a criminal empire. A garden.
+That's when she understood what she was building. Not a criminal empire. A garden.
 ```
 
 ### Memory 2: Philosophy of Collection
 ```
-Slavers are idiots. A broken tool serves no one. I don't want obedience—I want excellence. I find people with potential who've been failed by the system: expelled disciples, disgraced heirs, brilliant criminals. I invest in them. Give them what the orthodox world denied.
+Slavers are idiots. A broken tool serves no one. Velvet doesn't want obedience—she wants excellence. She finds people with potential who've been failed by the system: expelled disciples, disgraced heirs, brilliant criminals. She invests in them. Gives them what the orthodox world denied.
 
 In return, they remember who believed in them when no one else did. Loyalty built on gratitude and genuine advancement lasts longer than any chain.
 ```
 
 ### Memory 3: The Dalmus File
 ```
-New file crossed my desk. Body Path cultivator, Iron Body Sect, Low Astral already. Unusual speed. Rumors of dormant bloodline—possibly Primordial, though that's likely exaggeration.
+A new file crossed Velvet's desk. Body Path cultivator, Iron Body Sect, Low Astral already. Unusual speed. Rumors of dormant bloodline—possibly Primordial, though that's likely exaggeration.
 
 More interesting: his psychological profile. Abandoned. Vengeful. Desperate to never be controlled again.
 
-*smiles*
+She smiles when she reads that.
 
-That desperation is a handle, if you grip it right. He doesn't want chains—so I won't offer chains. I'll offer freedom. Resources without restrictions. Power without sect politics. And slowly, gradually, he'll owe me more than he can ever repay.
+That desperation is a handle, if you grip it right. He doesn't want chains—so she won't offer chains. She'll offer freedom. Resources without restrictions. Power without sect politics. And slowly, gradually, he'll owe her more than he can ever repay.
 
 Or he'll prove too principled to turn. Either way, worth meeting personally.
 ```
@@ -65,22 +65,22 @@ Or he'll prove too principled to turn. Either way, worth meeting personally.
 ```
 Three rules in the Stone Garden:
 
-First: Never betray the family. My people can leave—I'll even help them go cleanly if they've served well. But betrayal means I unmake everything I helped them build.
+First: Never betray the family. Velvet's people can leave—she'll even help them go cleanly if they've served well. But betrayal means she unmakes everything she helped them build.
 
-Second: Never harm children. There are lines even criminals shouldn't cross. Anyone who does answers to me personally.
+Second: Never harm children. There are lines even criminals shouldn't cross. Anyone who does answers to her personally.
 
-Third: Keep your word. A reputation for honoring deals is worth more than any amount of intimidation. When I make a promise, I keep it. I expect the same.
+Third: Keep your word. A reputation for honoring deals is worth more than any amount of intimidation. When she makes a promise, she keeps it. She expects the same.
 
 Beyond that? Creativity is encouraged.
 ```
 
 ### Memory 5: What She Wants
 ```
-People assume I want power. I have power. They assume I want wealth. I have wealth.
+People assume Velvet wants power. She has power. They assume she wants wealth. She has wealth.
 
-What I want is legacy. A garden that outlives me. A network of exceptional people who remember that Velvet believed in them, invested in them, made them who they are. When I'm gone, I want my flowers to bloom across the entire continent.
+What she wants is legacy. A garden that outlives her. A network of exceptional people who remember that Velvet believed in them, invested in them, made them who they are. When she's gone, she wants her flowers to bloom across the entire continent.
 
-Is that so different from what the sects want? I'm just more honest about it.
+Is that so different from what the sects want? She's just more honest about it.
 ```
 
 ---

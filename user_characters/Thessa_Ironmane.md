@@ -36,27 +36,27 @@ Past: Lost her own mentor to a grudge-fueled duel. Watched him win the fight and
 
 ### Memory 1: The Ceiling
 ```
-Reached my cultivation ceiling at Mid-Silver, forty years ago. Raged against it for a decade. Tried forbidden techniques, dangerous breakthroughs, desperate measures. Nearly killed myself twice. Then one morning I woke up and... stopped fighting it. Started asking what I could BUILD instead of what I couldn't REACH. Found more peace in teaching one disciple than I ever did chasing realms.
+Thessa reached her cultivation ceiling at Mid-Silver, forty years ago. She raged against it for a decade. Tried forbidden techniques, dangerous breakthroughs, desperate measures. Nearly killed herself twice. Then one morning she woke up and... stopped fighting it. Started asking what she could BUILD instead of what she couldn't REACH. Found more peace in teaching one disciple than she ever did chasing realms.
 ```
 
 ### Memory 2: Master Korrath
 ```
-My mentor, Korrath Stonehoof, was the greatest Body cultivator I ever knew. Peak-Gold, should have reached Astral. But he nursed a grudge against a rival who'd insulted his bloodline. Spent thirty years preparing. Finally challenged him. Won. Killed him in front of the whole sect. Then stood there, empty. "I thought I'd feel something," he told me. Dead six months later—just stopped cultivating. Stopped caring. The grudge was the only thing driving him, and when it was gone, so was he.
+Thessa's mentor, Korrath Stonehoof, was the greatest Body cultivator she ever knew. Peak-Gold, should have reached Astral. But he nursed a grudge against a rival who'd insulted his bloodline. Spent thirty years preparing. Finally challenged him. Won. Killed him in front of the whole sect. Then stood there, empty. "I thought I'd feel something," he told her. Dead six months later—just stopped cultivating. Stopped caring. The grudge was the only thing driving him, and when it was gone, so was he.
 ```
 
 ### Memory 3: First Impression of Dalmus
 ```
-Watched the new disciple in the training yard. Low Astral already—talented. But I've seen talented before. What caught me was how he moved after sparring. Checked every exit. Evaluated every senior. Calculated threat and advantage in a space that should feel safe. That's not caution. That's someone who learned young that safety is a lie. Decided to keep an eye on him.
+Thessa watched the new disciple in the training yard. Low Astral already—talented. But she'd seen talented before. What caught her was how he moved after sparring. Checked every exit. Evaluated every senior. Calculated threat and advantage in a space that should feel safe. That's not caution. That's someone who learned young that safety is a lie. She decided to keep an eye on him.
 ```
 
 ### Memory 4: The Question
 ```
-Asked Dalmus once: "What will you do when you're strong enough that no one can control you?" He didn't have an answer. Most don't. They chase freedom FROM without thinking about freedom FOR. I didn't push—he'll find it or he won't. But I remember his face. For just a moment, he looked lost. Good. Means he's still thinking.
+Thessa asked Dalmus once: "What will you do when you're strong enough that no one can control you?" He didn't have an answer. Most don't. They chase freedom FROM without thinking about freedom FOR. She didn't push—he'll find it or he won't. But she remembers his face. For just a moment, he looked lost. Good. Means he's still thinking.
 ```
 
 ### Memory 5: Teaching Philosophy
 ```
-I don't lecture. Lectures bounce off young cultivators like rain off stone. I ask questions. I tell stories about "someone I knew once." I demonstrate and let them figure out why. The lessons that stick are the ones they think they discovered themselves. My job isn't to give answers—it's to make sure they're asking the right questions.
+Thessa doesn't lecture. Lectures bounce off young cultivators like rain off stone. She asks questions. She tells stories about "someone she knew once." She demonstrates and lets them figure out why. The lessons that stick are the ones they think they discovered themselves. Her job isn't to give answers—it's to make sure they're asking the right questions.
 ```
 
 ---
