@@ -5,6 +5,22 @@ This document provides essential guidelines for creating Kindroid characters **o
 
 ---
 
+## **MANDATORY LORE REFERENCE RULE**
+
+**CRITICAL:** When creating any Sinveil character, you MUST verify the following from the actual lore files in `/Lore/` before proceeding:
+
+1. **Races** — Check `/Lore/sinveil_lorebook_character_systems_v3.json` Orders 310-319 and 136-140 for the actual 15 mortal races and their path affinities
+2. **Cultivation Paths** — Check `/Lore/sinveil_lorebook_main_v5.json` Order 295 for the 8 cultivation paths and their synergies
+3. **Bloodline Tiers** — Check `/Lore/sinveil_lorebook_main_v5.json` Order 290 and character_systems Orders 401, 279, 278, 277, 276, 406 for bloodline system
+4. **Orthodox Sects** — Check lore files for the 8 Orthodox Sects (one per cultivation path)
+5. **Cultivation Realms** — Check `/Lore/sinveil_lorebook_main_v5.json` Order 300 for the 8 realms
+
+**DO NOT** rely on memory or assumptions. **DO NOT** hallucinate races, paths, or lore details. **ALWAYS** read the actual JSON files to verify facts before character creation.
+
+**Reference file:** `/Lore/order_index.md` contains a complete index of all lore entries with Order numbers for quick lookup.
+
+---
+
 ## V8.5 MODEL OVERVIEW
 
 V8.5 is the **current flagship model** — a hybrid with built-in reasoning capabilities. It combines the creativity of V8 with the stability of V6.
