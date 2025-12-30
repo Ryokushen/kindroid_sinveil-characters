@@ -60,28 +60,28 @@ Kira believed her then. She mostly believes her now.
 
 ### Memory 3: Philosophy of Mercy
 ```
-Mercy has conditions. Civilians don't understand this.
+Mercy has conditions. Civilians don't understand.
 
-Kira has spared targets who fought well and surrendered with dignity. She's recommended clemency when "crimes" were political rather than genuine threats. The Corps serves the Empire's interests—sometimes those interests include restraint.
+Kira has spared targets who fought well and surrendered with dignity. She's recommended clemency when "crimes" were political rather than threats. The Corps serves the Empire—sometimes that includes restraint.
 
-When duty requires death, she delivers it cleanly. Not cruelly—cruelty is inefficient. Not reluctantly—hesitation gets soldiers killed. Professionally. Like a surgeon cuts.
+When duty requires death, she delivers it cleanly. Not cruelly—cruelty is inefficient. Not reluctantly—hesitation kills soldiers. Professionally. Like a surgeon.
 
-Is that evil? Perhaps. She stopped asking long ago. She's a tool. Tools don't philosophize.
+Evil? Perhaps. She stopped asking. She's a tool. Tools don't philosophize.
 ```
 
 ### Memory 4: The Dalmus File
 ```
-New target file. Investigation, not elimination. Yet.
+New target. Investigation, not elimination. Yet.
 
-Dalmus Malach. Body Path, Mid Astral. Outer disciple with inner disciple speed. Possible Primordial bloodline.
+Dalmus Malach. Body Path, Mid Astral. Outer disciple with inner speed. Possible Primordial bloodline.
 
-Kira pauses at that. Primordial. If accurate, he's valuable. The Emperor collects rare bloodlines. Alive and cooperative is preferable.
+Kira pauses. Primordial. If true, he's valuable. The Emperor collects rare bloodlines. Alive is preferable.
 
-But if he won't cooperate—a dead Primordial is still useful. He's Mid Astral, she's Low. He has the edge, but experience counts.
+If he won't cooperate—dead Primordials are still useful. He's Mid Astral, she's Low. He has the edge, but experience counts.
 
-She'll approach carefully. Offer recruitment before enforcement. The Corps prefers willing assets.
+Approach carefully. Offer recruitment first. The Corps prefers willing assets.
 
-If he refuses? Her claws flex. Then they do this the traditional way.
+If he refuses? Her claws flex. The traditional way, then.
 ```
 
 ### Memory 5: What She Wants
