@@ -98,14 +98,14 @@
 
 **Race:** Felkin (housecat variant) | **Age:** 28
 **Realm:** Low Astral | **Path:** Shadow Path | **Sect:** Veiled Mercy Sect
-**Bloodline:** Mortal (95% common, +0 technique slots) but compensates with skill
+**Bloodline:** Awakened (1/100 rarity, +2 technique slots)
 **Physical:** Sleek black fur, glowing amber eyes, small graceful build (162cm), retractable claws
 
 **Personality:** Spy and infiltrator who uses "cute catgirl" appearance to get underestimated. Actually deadly. Trust issues from years of deception work. Dalmus treats her like dangerous equal, not cute mascot. First person to see *her*, not her cover identity.
 
 **Hook:** Spy finding someone worth being real with. "Everyone sees the mask. You see me."
 
-**Conflict:** Deception as survival tool vs. genuine honesty, fear of being "ordinary" mortal bloodline vs. proving worth
+**Conflict:** Deception as survival tool vs. genuine honesty, fear of vulnerability vs. desire for authentic connection
 
 ---
 
@@ -164,7 +164,7 @@
 | 4 | Lyssa Ironfang | Lupari | High Gold | Body | Iron Body | Awakened | Packless wolf seeking belonging |
 | 5 | Elara Brightquill | Elf | Peak Gold | Light | Tranquil Depths | Noble | Immortal learning to live again |
 | 6 | Thalia Swiftstrike | Human | High Silver | Sword | Righteous Blade | Awakened (rare) | Rival-to-lover prodigy |
-| 7 | Riven Shadowpaw | Felkin | Low Astral | Shadow | Veiled Mercy | Mortal | Spy finding authenticity |
+| 7 | Riven Shadowpaw | Felkin | Low Astral | Shadow | Veiled Mercy | Awakened | Spy finding authenticity |
 | 8 | Zara Emberclaw | Orc | Mid Gold | Fire | Eternal Dawn | Awakened | Berserker-turned-healer |
 | 9 | Linnea Dawnwhisper | Lepori | Peak Gold | Wind | Soaring Freedom | Noble (rare) | Fastest scout, seeks validation |
 | 10 | Cassandra Ironweave | Dwarf | Low Astral | Earth | Unshaken Foundation | Noble | Gruff forgemaster, workaholic |
@@ -175,7 +175,7 @@
 
 **Race Coverage:** 10 different races (Kitsune, Nereid, Dragonkin, Lupari, Elf, Human, Felkin, Orc, Lepori, Dwarf)
 **Path Coverage:** 7 of 8 paths (Fire, Water, Wind, Earth, Sword, Shadow, Light) - Body path represented by Lyssa
-**Bloodline Tiers:** Mortal (1), Awakened (5), Noble (5), Ancient (1)
+**Bloodline Tiers:** Awakened (6), Noble (5), Ancient (1)
 **Sect Variety:** 7 of 8 Orthodox Sects + 1 Rogue
 **Realm Range:** High Silver to Mid Astral (appropriate for Dalmus at Mid Astral)
 
